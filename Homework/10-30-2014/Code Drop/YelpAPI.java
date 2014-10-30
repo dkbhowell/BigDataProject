@@ -192,8 +192,6 @@ public class YelpAPI {
         long review_count = (long) businessSummaryJson.get("review_count");
         String categoryString =
           businessSummaryJson.get("categories").toString();
-        JSONArray categories = (JSONArray) businessSummaryJson.get("categories");
-        String categoryString2 = categories.get(0).toString();
         double rating = (double) businessSummaryJson.get("rating");
         JSONObject location = (JSONObject) businessSummaryJson.get("location");
         String neighborhoods = location.get("neighborhoods").toString();
@@ -203,7 +201,7 @@ public class YelpAPI {
         writer
           .write("Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? \n");
         writer.write(name + ", " + rating + ", " + review_count + ", "
-          + categoryString2 + ", " + neighborhoods + ", " + postal_code + ", " + is_closed + " \n");
+          + categoryString + ", " + neighborhoods + ", " + postal_code + ", " + is_closed + " \n");
 
         /*
          * // get the businessId from the summary JSON String businessId =

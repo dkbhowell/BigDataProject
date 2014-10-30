@@ -1,3 +1,40 @@
-Name: Marlowe, Rating: 4.0, Review count: 1244, Categories: [["American (New)","newamerican"],["Brasseries","brasseries"]], Neighborhoods: ["SoMa"], postal_code: 94107
-Name: Rickybobby, Rating: 4.0, Review count: 379, Categories: [["American (New)","newamerican"]], Neighborhoods: ["Lower Haight","Hayes Valley"], postal_code: 94102
-Name: La Fusión, Rating: 4.5, Review count: 496, Categories: [["Latin American","latin"]], Neighborhoods: ["Financial District"], postal_code: 94104
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Marlowe, 4.0, 1244, ["American (New)","newamerican"], ["SoMa"], 94107, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Rickybobby, 4.0, 379, ["American (New)","newamerican"], ["Lower Haight","Hayes Valley"], 94102, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+La Fusión, 4.5, 496, ["Latin American","latin"], ["Financial District"], 94104, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+The House, 4.5, 3161, ["Asian Fusion","asianfusion"], ["North Beach\/Telegraph Hill"], 94133, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+State Bird Provisions, 4.5, 1043, ["Tapas\/Small Plates","tapasmallplates"], ["Western Addition"], 94115, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Fat Angel, 4.0, 604, ["Wine Bars","wine_bars"], ["Western Addition"], 94115, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Stones Throw, 4.5, 308, ["American (New)","newamerican"], ["Russian Hill"], 94109, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Old Skool Cafe, 4.5, 301, ["Soul Food","soulfood"], ["Bayview-Hunters Point"], 94124, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Gary Danko, 4.5, 3974, ["American (New)","newamerican"], ["Russian Hill","Fisherman's Wharf"], 94109, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Kokkari Estiatorio, 4.5, 3056, ["Greek","greek"], ["Financial District"], 94111, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Chez Maman, 4.5, 1378, ["French","french"], ["Potrero Hill"], 94107, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Loló, 4.0, 1042, ["Tapas\/Small Plates","tapasmallplates"], ["Mission"], 94110, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Don Pisto's, 4.5, 1070, ["Mexican","mexican"], ["North Beach\/Telegraph Hill"], 94133, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Hops & Hominy, 4.0, 780, ["Southern","southern"], ["Union Square","Financial District"], 94108, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+SO, 4.0, 1239, ["Asian Fusion","asianfusion"], ["SoMa"], 94103, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Baonecci Ristorante, 4.5, 632, ["Italian","italian"], ["North Beach\/Telegraph Hill"], 94133, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Citizen's Band, 4.0, 661, ["American (New)","newamerican"], ["SoMa"], 94103, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Paprika, 4.5, 119, ["Czech","czech"], ["Mission"], 94110, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Coqueta, 4.0, 676, ["Spanish","spanish"], ["Embarcadero"], 94105, false 
+Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? 
+Mason Pacific, 4.0, 201, ["American (New)","newamerican"], ["Nob Hill"], 94133, false 
