@@ -1,0 +1,3 @@
+Name: Marlowe, Rating: 4.0, Review count: 1244, Categories: [["American (New)","newamerican"],["Brasseries","brasseries"]], Neighborhoods: ["SoMa"], postal_code: 94107
+Name: Rickybobby, Rating: 4.0, Review count: 379, Categories: [["American (New)","newamerican"]], Neighborhoods: ["Lower Haight","Hayes Valley"], postal_code: 94102
+Name: La Fusión, Rating: 4.5, Review count: 496, Categories: [["Latin American","latin"]], Neighborhoods: ["Financial District"], postal_code: 94104
