@@ -1,0 +1,16 @@
+Columns needed! 
+zip
+latitude
+longitude
+affordability, first field for zipcode
+single family home, first field  
+condo value, first field 
+2-Bedroom Home Value, first field 
+3-Bedroom Home Value, first field 
+4-Bedroom Home Value, first field 
+median sale price, first field 
+homes for sale, first field 
+turnover, first field 
+people
+forSaleByOwner
+foreclosures
