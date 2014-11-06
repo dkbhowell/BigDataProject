@@ -1,10 +1,11 @@
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Dictionary;
 import java.util.List;
 
 import org.json.simple.JSONArray;
@@ -17,9 +18,6 @@ import org.scribe.model.Response;
 import org.scribe.model.Token;
 import org.scribe.model.Verb;
 import org.scribe.oauth.OAuthService;
-
-import com.beust.jcommander.JCommander;
-import com.beust.jcommander.Parameter;
 
 /**
  * Code sample for accessing the Yelp API V2.
@@ -37,8 +35,6 @@ import com.beust.jcommander.Parameter;
 public class YelpAPI {
 
 	private static final String API_HOST = "api.yelp.com";
-	private static final String DEFAULT_TERM = "dinner";
-	private static final String DEFAULT_LOCATION = "San Francisco, CA";
 	private static final int SEARCH_LIMIT = 20;
 	private static final String SEARCH_PATH = "/v2/search";
 	private static final String BUSINESS_PATH = "/v2/business";
@@ -51,8 +47,6 @@ public class YelpAPI {
 	private static final String CONSUMER_SECRET = "J8Wj53oKv61DfrGkDFlY2ezTesM";
 	private static final String TOKEN = "odWGZw1fRcn7M_DtYzNYq3IvzykUPO4r";
 	private static final String TOKEN_SECRET = "bewe8scnjalEvDOY1VcQV6MtJYs";
-
-	private static final List<ZipCode> nycZips = new ArrayList<ZipCode>();
 
 	OAuthService service;
 	Token accessToken;
@@ -162,23 +156,6 @@ public class YelpAPI {
 	 * @param yelpApiCli
 	 *            <tt>YelpAPICLI</tt> command line arguments
 	 */
-	private static JSONArray queryAPI(YelpAPI yelpApi, YelpAPICLI yelpApiCli) {
-		String searchResponseJSON = yelpApi.searchForBusinessesByLocation(
-				yelpApiCli.term, yelpApiCli.location);
-
-		JSONParser parser = new JSONParser();
-		JSONObject response = null;
-		try {
-			response = (JSONObject) parser.parse(searchResponseJSON);
-		} catch (ParseException pe) {
-			System.out.println("Error: could not parse JSON response:");
-			System.out.println(searchResponseJSON);
-			System.exit(1);
-		}
-
-		JSONArray businesses = (JSONArray) response.get("businesses");
-		return businesses;
-	}
 
 	private static void writeJsonArrayToCsvFile(String filePath,
 			JSONArray searchJsonArray, boolean append) {
@@ -259,6 +236,7 @@ public class YelpAPI {
 
 				// Extract the data from the JSON
 				String name = businessSummaryJson.get("name").toString();
+				name = name.replace(",", " ");
 				boolean is_closed = (boolean) businessSummaryJson
 						.get("is_closed");
 				long review_count = (long) businessSummaryJson
@@ -277,10 +255,9 @@ public class YelpAPI {
 						neighborhoodArray, "|");
 				Object postalCodeObj = location.get("postal_code");
 				String postal_code = "";
-				if (postalCodeObj != null){
+				if (postalCodeObj != null) {
 					postal_code = postalCodeObj.toString();
 				}
-				
 
 				// filter and write the data
 				if (postal_code.equals(zipCode)) {
@@ -318,6 +295,7 @@ public class YelpAPI {
 		for (int i = 0; i < jsonArray.size(); i++) {
 			JSONArray subArray = (JSONArray) jsonArray.get(i);
 			String firstPart = (String) subArray.get(0);
+			firstPart = firstPart.replace(",", " ");
 			result += firstPart;
 			if (i != jsonArray.size() - 1) {
 				result += " " + delimiter + " ";
@@ -336,6 +314,7 @@ public class YelpAPI {
 		String result = "[";
 		for (int i = 0; i < jsonArray.size(); i++) {
 			String neighborhood = (String) jsonArray.get(i);
+			neighborhood = neighborhood.replace(",", " ");
 			result += neighborhood;
 			if (i != jsonArray.size() - 1) {
 				result += " " + delimiter + " ";
@@ -344,30 +323,6 @@ public class YelpAPI {
 		result += "]";
 		// System.out.println(result);
 		return result;
-	}
-
-	private static JSONObject stringToJSON(String jsonString) {
-		JSONParser parser = new JSONParser();
-		JSONObject businessJson = null;
-		try {
-			businessJson = (JSONObject) parser.parse(jsonString);
-		} catch (ParseException pe) {
-			System.out.println("Error: could not parse JSON response:");
-			System.out.println(jsonString);
-			System.exit(1);
-		}
-		return businessJson;
-	}
-
-	/**
-	 * Command-line interface for the sample Yelp API runner.
-	 */
-	private static class YelpAPICLI {
-		@Parameter(names = { "-q", "--term" }, description = "Search Query Term")
-		public String term = DEFAULT_TERM;
-
-		@Parameter(names = { "-l", "--location" }, description = "Location to be Queried")
-		public String location = DEFAULT_LOCATION;
 	}
 
 	private static class ZipCode {
@@ -391,18 +346,22 @@ public class YelpAPI {
 	public static List<ZipCode> readZipCodesFromCsv(String csvFilename) {
 		BufferedReader reader = null;
 		String line = "";
+		List<ZipCode> nycZips = new ArrayList<ZipCode>();
 		try {
 			reader = new BufferedReader(new FileReader(csvFilename));
 			line = reader.readLine(); // skip header line
-			while ((line = reader.readLine()) != null){
+			while ((line = reader.readLine()) != null) {
 				String[] zipData = line.split(",");
 				String zip = zipData[0];
 				int numResults = Integer.parseInt(zipData[1]);
-				// System.out.println("Zipcode: " + zip + " || " + "results: " + numResults);
+				// System.out.println("Zipcode: " + zip + " || " + "results: " +
+				// numResults);
 				ZipCode newZip = new ZipCode(zip, numResults);
 				nycZips.add(newZip);
 			}
 			// System.out.println("nycZips has " + nycZips.size() + "zipcodes");
+		} catch (FileNotFoundException noFileErr) {
+			noFileErr.printStackTrace();
 		} catch (IOException readFromFileErr) {
 			readFromFileErr.printStackTrace();
 		} finally {
@@ -414,7 +373,7 @@ public class YelpAPI {
 				}
 			}
 		}
-		return new ArrayList<ZipCode>();
+		return nycZips;
 	}
 
 	public static JSONArray customQueryAPI(YelpAPI yelpApi, String term,
@@ -438,14 +397,26 @@ public class YelpAPI {
 	public static void searchByZip(YelpAPI yelpApi, String term,
 			String zipCode, int numResults, String resultFilename) {
 		int resultCounter = 0;
-		boolean append = true;
 		while (resultCounter < numResults) {
 			JSONArray result = customQueryAPI(yelpApi, term, zipCode,
 					resultCounter);
-			writeJsonArrayToCsvFileFilterByZip(resultFilename, result, append,
+			writeJsonArrayToCsvFileFilterByZip(resultFilename, result, true,
 					zipCode);
 			resultCounter += 20;
-			append = true;
+		}
+	}
+
+	public static void queryZipCodes(YelpAPI yelpApi, List<ZipCode> zipCodes,
+			String resultFilename) {
+		File resultFile = new File(resultFilename);
+		if (resultFile.exists()) {
+			resultFile.delete();
+		}
+		for (int i = 0; i < zipCodes.size(); i++) {
+			ZipCode zipCode = zipCodes.get(i);
+			String zip = zipCode.getZip();
+			int numResults = zipCode.getNumResults();
+			searchByZip(yelpApi, "restaurants", zip, numResults, resultFilename);
 		}
 	}
 
@@ -456,19 +427,12 @@ public class YelpAPI {
 	 * run this example.
 	 */
 	public static void main(String[] args) {
-		YelpAPICLI yelpApiCli = new YelpAPICLI();
-		new JCommander(yelpApiCli, args);
+		// YelpAPICLI yelpApiCli = new YelpAPICLI();
+		// new JCommander(yelpApiCli, args);
 		YelpAPI yelpApi = new YelpAPI(CONSUMER_KEY, CONSUMER_SECRET, TOKEN,
 				TOKEN_SECRET);
-		readZipCodesFromCsv("resources/nyc_zip_codes_abbrev.csv");
-		for (int i = 0; i < nycZips.size(); i++){
-			ZipCode zipCode = nycZips.get(i);
-			String zip = zipCode.getZip();
-			int numResults = zipCode.getNumResults();
-			
-			searchByZip(yelpApi, "restaurants", zip, numResults, "ApiSearchResults.csv");
-		}
-		
-		
+
+		List<ZipCode> nycZips = readZipCodesFromCsv("resources/nyc_zip_codes.csv");
+		queryZipCodes(yelpApi, nycZips, "output/NYC Zipcode Yelp Data.csv");
 	}
 }
