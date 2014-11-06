@@ -1,7 +1,11 @@
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Dictionary;
+import java.util.List;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -47,6 +51,8 @@ public class YelpAPI {
 	private static final String CONSUMER_SECRET = "J8Wj53oKv61DfrGkDFlY2ezTesM";
 	private static final String TOKEN = "odWGZw1fRcn7M_DtYzNYq3IvzykUPO4r";
 	private static final String TOKEN_SECRET = "bewe8scnjalEvDOY1VcQV6MtJYs";
+
+	private static final List<ZipCode> nycZips = new ArrayList<ZipCode>();
 
 	OAuthService service;
 	Token accessToken;
@@ -182,7 +188,7 @@ public class YelpAPI {
 		BufferedWriter writer = null;
 		try {
 			writer = new BufferedWriter(new FileWriter(filePath, append));
-			if (append == false){
+			if (append == false) {
 				writer.write("Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? \n");
 			}
 			for (int i = 0; i < searchJsonArray.size(); i++) {
@@ -204,8 +210,10 @@ public class YelpAPI {
 				double rating = (double) businessSummaryJson.get("rating");
 				JSONObject location = (JSONObject) businessSummaryJson
 						.get("location");
-				JSONArray neighborhoodArray = (JSONArray) location.get("neighborhoods");
-				String neighborhoods = parseNeighborhoodsToString(neighborhoodArray, "|");
+				JSONArray neighborhoodArray = (JSONArray) location
+						.get("neighborhoods");
+				String neighborhoods = parseNeighborhoodsToString(
+						neighborhoodArray, "|");
 				String postal_code = location.get("postal_code").toString();
 
 				// write the data
@@ -214,6 +222,78 @@ public class YelpAPI {
 						+ postal_code + ", " + is_closed + " \n");
 			}
 			writer.write("\n");
+		} catch (IOException writeToFileErr) {
+			try {
+				writer.flush();
+			} catch (IOException writerFlushErr) {
+				writerFlushErr.printStackTrace();
+			}
+			writeToFileErr.printStackTrace();
+		} finally {
+			if (writer != null) {
+				try {
+					writer.close();
+				} catch (IOException invalidWriterErr) {
+					invalidWriterErr.printStackTrace();
+				}
+			}
+		}
+	}
+
+	private static void writeJsonArrayToCsvFileFilterByZip(String filePath,
+			JSONArray searchJsonArray, boolean append, String zipCode) {
+
+		System.out.println("Saving results to file: " + filePath);
+		// Open a file to write to
+		BufferedWriter writer = null;
+		try {
+			writer = new BufferedWriter(new FileWriter(filePath, append));
+			if (append == false) {
+				writer.write("Name, Rating, Review Count, Categories, Neighborhoods, Postal Code, Permanently Closed? \n");
+			}
+			int filterCount = 0;
+			for (int i = 0; i < searchJsonArray.size(); i++) {
+				// get the business summary JSON from search result JSON
+				JSONObject businessSummaryJson = (JSONObject) searchJsonArray
+						.get(i);
+
+				// Extract the data from the JSON
+				String name = businessSummaryJson.get("name").toString();
+				boolean is_closed = (boolean) businessSummaryJson
+						.get("is_closed");
+				long review_count = (long) businessSummaryJson
+						.get("review_count");
+
+				JSONArray categories = (JSONArray) businessSummaryJson
+						.get("categories");
+				String categoryString = parseCategoriesToString(categories, "|");
+
+				double rating = (double) businessSummaryJson.get("rating");
+				JSONObject location = (JSONObject) businessSummaryJson
+						.get("location");
+				JSONArray neighborhoodArray = (JSONArray) location
+						.get("neighborhoods");
+				String neighborhoods = parseNeighborhoodsToString(
+						neighborhoodArray, "|");
+				Object postalCodeObj = location.get("postal_code");
+				String postal_code = "";
+				if (postalCodeObj != null){
+					postal_code = postalCodeObj.toString();
+				}
+				
+
+				// filter and write the data
+				if (postal_code.equals(zipCode)) {
+					writer.write(name + ", " + rating + ", " + review_count
+							+ ", " + categoryString + ", " + neighborhoods
+							+ ", " + postal_code + ", " + is_closed + " \n");
+				} else {
+					filterCount++;
+				}
+			}
+			writer.write("\n");
+			System.out.println("Filtered out " + filterCount
+					+ " zip code mismatches.");
 		} catch (IOException writeToFileErr) {
 			try {
 				writer.flush();
@@ -247,10 +327,10 @@ public class YelpAPI {
 		// System.out.println(result);
 		return result;
 	}
-	
+
 	private static String parseNeighborhoodsToString(JSONArray jsonArray,
 			String delimiter) {
-		if (jsonArray == null){
+		if (jsonArray == null) {
 			return "";
 		}
 		String result = "[";
@@ -289,9 +369,58 @@ public class YelpAPI {
 		@Parameter(names = { "-l", "--location" }, description = "Location to be Queried")
 		public String location = DEFAULT_LOCATION;
 	}
-	
-	public static JSONArray customQueryAPI(YelpAPI yelpApi, String term, String location, int offset){
-		String searchResponseJSON = yelpApi.searchForBusinessesByLocation(term, location, offset);
+
+	private static class ZipCode {
+		private String zipCode;
+		private int numResults;
+
+		public ZipCode(String zip, int results) {
+			this.zipCode = zip;
+			this.numResults = results;
+		}
+
+		public String getZip() {
+			return zipCode;
+		}
+
+		public int getNumResults() {
+			return numResults;
+		}
+	}
+
+	public static List<ZipCode> readZipCodesFromCsv(String csvFilename) {
+		BufferedReader reader = null;
+		String line = "";
+		try {
+			reader = new BufferedReader(new FileReader(csvFilename));
+			line = reader.readLine(); // skip header line
+			while ((line = reader.readLine()) != null){
+				String[] zipData = line.split(",");
+				String zip = zipData[0];
+				int numResults = Integer.parseInt(zipData[1]);
+				// System.out.println("Zipcode: " + zip + " || " + "results: " + numResults);
+				ZipCode newZip = new ZipCode(zip, numResults);
+				nycZips.add(newZip);
+			}
+			// System.out.println("nycZips has " + nycZips.size() + "zipcodes");
+		} catch (IOException readFromFileErr) {
+			readFromFileErr.printStackTrace();
+		} finally {
+			if (reader != null) {
+				try {
+					reader.close();
+				} catch (IOException invalidWriterErr) {
+					invalidWriterErr.printStackTrace();
+				}
+			}
+		}
+		return new ArrayList<ZipCode>();
+	}
+
+	public static JSONArray customQueryAPI(YelpAPI yelpApi, String term,
+			String location, int offset) {
+		String searchResponseJSON = yelpApi.searchForBusinessesByLocation(term,
+				location, offset);
 		JSONParser parser = new JSONParser();
 		JSONObject response = null;
 		try {
@@ -305,13 +434,16 @@ public class YelpAPI {
 		JSONArray businesses = (JSONArray) response.get("businesses");
 		return businesses;
 	}
-	
-	public static void getResults(YelpAPI yelpApi, String term, String location, int numResults, String resultFilename){
+
+	public static void searchByZip(YelpAPI yelpApi, String term,
+			String zipCode, int numResults, String resultFilename) {
 		int resultCounter = 0;
-		boolean append = false;
-		while (resultCounter < numResults){
-			JSONArray result = customQueryAPI(yelpApi, term, location, resultCounter);
-			writeJsonArrayToCsvFile(resultFilename, result, append);
+		boolean append = true;
+		while (resultCounter < numResults) {
+			JSONArray result = customQueryAPI(yelpApi, term, zipCode,
+					resultCounter);
+			writeJsonArrayToCsvFileFilterByZip(resultFilename, result, append,
+					zipCode);
 			resultCounter += 20;
 			append = true;
 		}
@@ -328,13 +460,15 @@ public class YelpAPI {
 		new JCommander(yelpApiCli, args);
 		YelpAPI yelpApi = new YelpAPI(CONSUMER_KEY, CONSUMER_SECRET, TOKEN,
 				TOKEN_SECRET);
+		readZipCodesFromCsv("resources/nyc_zip_codes_abbrev.csv");
+		for (int i = 0; i < nycZips.size(); i++){
+			ZipCode zipCode = nycZips.get(i);
+			String zip = zipCode.getZip();
+			int numResults = zipCode.getNumResults();
+			
+			searchByZip(yelpApi, "restaurants", zip, numResults, "ApiSearchResults.csv");
+		}
 		
-		getResults(yelpApi, "restaurants", "10003", 40, "ApiSearchResults.csv");
-		/*
-		JSONArray result = customQueryAPI(yelpApi, "restaraunts", "New York City", 0);
-		writeJsonArrayToCsvFile("ApiSearchResults.csv", result, false);
-		result = customQueryAPI(yelpApi, "restaraunts", "New York City", 10);
-		writeJsonArrayToCsvFile("ApiSearchResults.csv", result, true);
-		*/
+		
 	}
 }
