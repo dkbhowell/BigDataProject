@@ -1,0 +1,1750 @@
+The Heath, 4.5, 87, [American (New)], [Chelsea], 10001, false 
+A Little Taste, 5.0, 16, [Cafes], [Chelsea], 10001, false 
+Porteno Restaurant, 4.5, 167, [Argentine], [Chelsea], 10001, false 
+Friedman's, 4.0, 281, [Gluten-Free | Breakfast & Brunch], [Midtown West], 10001, false 
+Pio Pio Riko, 4.0, 132, [Peruvian | Latin American], [Midtown West | Chelsea], 10001, false 
+Cafe Hanamizuki, 4.5, 59, [Cafes], [Midtown West | Chelsea], 10001, false 
+Ovest Pizzoteca, 4.0, 260, [Pizza], [Chelsea], 10001, false 
+
+Soup Spot, 4.5, 152, [Soup], [Midtown West], 10001, false 
+NY Pizza Suprema, 4.0, 578, [Pizza], [Midtown West | Chelsea], 10001, false 
+Broadway Bites, 4.5, 81, [Street Vendors | American (New)], [Midtown West | Koreatown], 10001, false 
+Johny's Luncheonette, 4.0, 420, [American (Traditional) | Diners | Breakfast & Brunch], [Chelsea], 10001, false 
+Smithfield, 4.0, 191, [Pubs | American (Traditional) | Sports Bars], [Chelsea], 10001, false 
+MEW Izakaya, 4.0, 237, [Japanese], [Midtown West], 10001, false 
+Rocket Pig, 4.0, 44, [American (New)], [Chelsea], 10001, false 
+
+Woorijip Authentic Korean Food, 4.0, 1462, [Korean], [Midtown West | Koreatown], 10001, false 
+Asura Asian Bistro, 4.0, 69, [Chinese | Asian Fusion | Bars], [Midtown West], 10001, false 
+Pepe Giallo, 4.0, 225, [Italian], [Chelsea], 10001, false 
+HIT Korean Food & Deli, 4.0, 123, [Korean | Delis | Sandwiches], [Chelsea], 10001, false 
+Stella 34 Trattoria, 4.0, 216, [Italian | Pizza], [Midtown West], 10001, false 
+
+Prosperity Dumpling, 4.5, 2234, [Chinese], [Chinatown | Lower East Side], 10002, false 
+Gaia Italian Café, 4.5, 441, [Italian], [Lower East Side], 10002, false 
+Cafe Katja, 4.5, 460, [German | Austrian], [Lower East Side], 10002, false 
+Cocoron, 4.5, 587, [Japanese], [Lower East Side], 10002, false 
+Cheeky Sandwiches, 4.5, 329, [Sandwiches], [Chinatown | Lower East Side], 10002, false 
+Wah Fung #1 Fast Food, 4.5, 283, [Chinese | Barbeque | Fast Food], [Lower East Side], 10002, false 
+Brooklyn Taco Co, 4.5, 154, [Mexican], [Lower East Side], 10002, false 
+Lam Zhou Handmade Noodle, 4.0, 556, [Chinese], [Chinatown | Lower East Side], 10002, false 
+Black Tree, 4.0, 142, [American (New)], [Lower East Side], 10002, false 
+Iguazu Cafe & Grill, 4.5, 13, [Latin American], [Two Bridges | Lower East Side], 10002, false 
+The Meatball Shop, 4.0, 2057, [Italian | American (Traditional)], [Lower East Side], 10002, false 
+The Boil, 4.0, 687, [Cajun/Creole | Seafood], [Lower East Side], 10002, false 
+
+Shu Jiao Fu Zhou Cuisine Restaurant, 4.5, 125, [Chinese], [Lower East Side], 10002, false 
+Cafe Petisco, 4.0, 138, [Breakfast & Brunch | Coffee & Tea | Sandwiches], [Lower East Side], 10002, false 
+Black Crescent, 4.5, 59, [Cocktail Bars | Tapas/Small Plates], [Lower East Side], 10002, false 
+Louie and Chan, 4.5, 56, [Italian], [Lower East Side], 10002, false 
+Barrio Chino, 4.0, 720, [Mexican | Bars], [Lower East Side], 10002, false 
+Thelma On Clinton, 4.0, 44, [American (New)], [Lower East Side], 10002, false 
+Pig And Khao, 4.0, 424, [Filipino | Thai | Asian Fusion], [Lower East Side], 10002, false 
+Zest, 4.0, 225, [Sushi Bars | Japanese | Thai], [Lower East Side], 10002, false 
+Taqueria Lower East Side, 4.0, 474, [Mexican | Bars], [Lower East Side], 10002, false 
+Clinton St. Baking Company, 4.0, 2432, [Breakfast & Brunch], [Lower East Side], 10002, false 
+Vanessa's Dumpling House, 4.0, 1377, [Chinese], [Lower East Side], 10002, false 
+Wolfnights, 4.0, 177, [Sandwiches], [Lower East Side], 10002, false 
+Cafe Grumpy, 4.5, 61, [Coffee & Tea | Cafes | Bakeries], [Chinatown | Lower East Side], 10002, false 
+Sweet Chick, 4.0, 102, [Southern], [Lower East Side], 10002, false 
+
+Katz's Delicatessen, 4.0, 5499, [Delis | Sandwiches], [Lower East Side], 10002, false 
+Boubouki, 4.5, 51, [Greek | Food Stands], [Lower East Side], 10002, false 
+Spicy Village, 4.0, 144, [Chinese], [Lower East Side], 10002, false 
+Patacon Pisao, 5.0, 23, [Venezuelan | Sandwiches], [Lower East Side], 10002, false 
+Rice Noodle Cart, 4.5, 35, [Food Stands], [Two Bridges | Lower East Side], 10002, false 
+Freemans Restaurant, 4.0, 1081, [Breakfast & Brunch | American (New) | Lounges], [Lower East Side], 10002, false 
+Verlaine, 4.0, 898, [Tapas/Small Plates | Lounges], [Lower East Side], 10002, false 
+Super Taste, 4.0, 233, [Chinese], [Chinatown | Lower East Side], 10002, false 
+Eastwood, 4.0, 48, [Bars | American (Traditional)], [Lower East Side], 10002, false 
+
+Upstate, 4.5, 727, [American (New) | Seafood], [East Village], 10003, false 
+Ippudo NY, 4.0, 6561, [Ramen], [East Village], 10003, false 
+Gramercy Tavern, 4.5, 1515, [American (New)], [Flatiron], 10003, false 
+Pommes Frites, 4.0, 2899, [Belgian], [East Village], 10003, false 
+The Eddy, 4.5, 61, [American (New)], [East Village], 10003, false 
+Bite, 4.0, 397, [Sandwiches], [Gramercy], 10003, false 
+Beyond Sushi, 4.5, 498, [Vegetarian | Sushi Bars | Vegan], [Gramercy], 10003, false 
+Honest Chops, 5.0, 23, [Butcher | Halal], [East Village], 10003, false 
+Momofuku Ssäm Bar, 4.0, 1690, [Korean | American (New)], [East Village], 10003, false 
+Feast, 4.0, 196, [American (New) | Breakfast & Brunch], [East Village], 10003, false 
+ABC Kitchen, 4.0, 1531, [American (New) | French], [Flatiron | Union Square], 10003, false 
+Ichabod's, 4.0, 134, [American (New)], [Flatiron | Union Square | Gramercy], 10003, false 
+Taqueria Diana, 4.0, 228, [Mexican], [East Village], 10003, false 
+Stage Restaurant, 4.5, 164, [Ukrainian | Polish], [East Village], 10003, false 
+Ducks Eatery, 4.0, 199, [French | Cajun/Creole | American (Traditional)], [East Village], 10003, false 
+Gotham Bar And Grill, 4.5, 898, [American (New) | Bars], [Union Square | Greenwich Village], 10003, false 
+Cha-An, 4.0, 897, [Japanese | Tea Rooms], [East Village], 10003, false 
+The Redhead, 4.0, 526, [American (Traditional) | Bars], [East Village], 10003, false 
+Momofuku Ko, 4.0, 707, [American (New) | Asian Fusion | Korean], [East Village], 10003, false 
+
+Mighty Quinn's Barbeque, 4.0, 813, [Barbeque], [East Village], 10003, false 
+Mark, 4.0, 720, [Burgers], [East Village], 10003, false 
+Yakitori Taisho, 4.0, 1033, [Japanese | Sushi Bars], [East Village], 10003, false 
+Mamak, 5.0, 20, [Thai | Malaysian | Food Trucks], [East Village], 10003, false 
+Ngam, 4.0, 600, [Thai | Cooking Schools], [East Village], 10003, false 
+Soba-ya, 4.0, 755, [Japanese], [East Village], 10003, false 
+Xi'an Famous Foods, 4.0, 994, [Chinese], [East Village], 10003, false 
+Pata Negra, 4.0, 252, [Tapas Bars | Wine Bars | Spanish], [East Village], 10003, false 
+Artichoke Basille's Pizza, 4.0, 2535, [Pizza], [Gramercy | East Village], 10003, false 
+Han Dynasty, 4.0, 353, [Szechuan | Soup], [East Village], 10003, false 
+Luzzo's, 4.0, 741, [Italian | Pizza], [East Village], 10003, false 
+Café Orlin, 4.0, 1214, [Breakfast & Brunch | Cafes], [East Village], 10003, false 
+Dos Toros Taqueria, 4.0, 1020, [Mexican], [Union Square | East Village | Greenwich Village], 10003, false 
+
+Otto's Tacos, 4.0, 275, [Mexican], [East Village], 10003, false 
+The Hummus & Pita Co., 4.5, 39, [Mediterranean | Middle Eastern | Vegetarian], [Greenwich Village], 10003, false 
+Graffiti Food & Wine Bar, 4.0, 394, [American (New) | Wine Bars | Vegetarian], [East Village], 10003, false 
+The Bao, 4.0, 102, [Shanghainese | Dim Sum], [East Village], 10003, false 
+Otafuku, 4.0, 130, [Japanese], [East Village], 10003, false 
+Maharlika, 4.0, 736, [Filipino], [East Village], 10003, false 
+Confessional, 4.5, 53, [Latin American], [East Village], 10003, false 
+MUD, 4.0, 490, [Coffee & Tea | Breakfast & Brunch], [East Village], 10003, false 
+Taboonette, 4.0, 146, [Middle Eastern], [Union Square | Greenwich Village], 10003, false 
+Degustation, 4.0, 474, [French | American (New) | Spanish], [East Village], 10003, false 
+Curry-Ya, 4.0, 428, [Japanese], [East Village], 10003, false 
+Yakiniku West, 4.0, 372, [Japanese | Barbeque], [East Village], 10003, false 
+Posto, 4.0, 382, [Pizza | Italian | Sandwiches], [Gramercy], 10003, false 
+The Smith, 3.5, 1237, [American (New)], [East Village], 10003, false 
+Bodhi Tree, 4.0, 400, [Thai], [East Village], 10003, false 
+
+Luke's Lobster, 4.5, 399, [Seafood], [Financial District], 10004, false 
+The Dead Rabbit, 4.0, 280, [Bars | American (Traditional)], [Financial District], 10004, false 
+Sophie's Cuban Cuisine, 4.0, 259, [Cuban | Sandwiches], [Financial District], 10004, false 
+Adrienne's Pizza Bar, 4.0, 685, [Pizza | Italian], [Financial District], 10004, false 
+Crepes Du Nord, 4.0, 187, [Creperies | French], [Financial District], 10004, false 
+Ancora Restaurant, 4.5, 88, [Italian], [Financial District], 10004, false 
+Inatteso Pizzabar Casano, 4.0, 147, [Italian | Pizza], [Battery Park], 10004, false 
+Fraunces Tavern, 3.5, 291, [American (Traditional) | Bars], [Financial District], 10004, false 
+Harry's Cafe & Steak, 4.0, 348, [Steakhouses | Cafes], [Financial District], 10004, false 
+Shorty's, 4.0, 84, [Sandwiches | Bars | Steakhouses], [Financial District], 10004, false 
+Whitehorse Tavern, 4.0, 98, [Pubs | Burgers], [Financial District], 10004, false 
+
+Pranzo, 3.5, 50, [Pizza], [Financial District], 10004, false 
+Inatteso Cafe Casano, 4.0, 45, [Italian | Coffee & Tea | Bagels], [Battery Park], 10004, false 
+Murphy's Tavern, 4.0, 40, [Pubs | American (Traditional)], [Financial District], 10004, false 
+Underground Pizza, 3.5, 98, [Pizza], [Financial District], 10004, false 
+Pret A Manger, 4.0, 50, [Sandwiches | Coffee & Tea | Breakfast & Brunch], [Financial District], 10004, false 
+Gigino At Wagner Park, 3.5, 138, [Italian | Seafood], [Battery Park], 10004, false 
+Ulysses Folk House, 3.5, 459, [Pubs | Irish | Breakfast & Brunch], [Financial District], 10004, false 
+Smorgas Chef, 3.5, 204, [Scandinavian], [Financial District], 10004, false 
+
+Flavors, 3.5, 117, [Sandwiches | Cafes], [Financial District], 10004, false 
+Chipotle Mexican Grill, 3.5, 84, [Mexican], [Financial District], 10004, false 
+Burger Burger, 3.5, 171, [Burgers | Hot Dogs | American (Traditional)], [Financial District], 10004, false 
+Justino's Pizzeria, 4.0, 23, [Pizza], [Financial District], 10004, false 
+Bluestone Lane Coffee, 4.5, 64, [Cafes], [Financial District], 10004, false 
+
+Veronica's Kitchen, 4.0, 96, [Soul Food | Food Stands | Trinidadian], [Financial District], 10005, false 
+
+Andaz Wall Street, 3.5, 137, [American (New)], [Financial District], 10005, false 
+Dig Inn Seasonal Market, 3.5, 140, [American (Traditional)], [Financial District], 10005, false 
+Pita Press, 3.5, 95, [Greek], [Financial District], 10005, false 
+
+The Cinnamon Snail, 5.0, 6, [Mexican | Sandwiches | Food Trucks], [Financial District], 10005, false 
+Fun Buns Cart, 4.0, 21, [Taiwanese | Street Vendors], [Financial District], 10005, false 
+
+Blue Planet Grill, 3.5, 199, [American (Traditional) | Bars | Caterers], [Financial District], 10006, false 
+View of the World Terrace Club, 4.5, 10, [American (New)], [Financial District], 10006, false 
+Ho Yip Restaurant, 3.5, 141, [Chinese], [Financial District], 10006, false 
+
+Clinton Hall, 3.5, 77, [Sports Bars | American (New) | Cocktail Bars], [Financial District], 10006, false 
+Tajin, 3.5, 93, [Mexican], [Financial District], 10006, false 
+Sam's Falafel Stand, 4.0, 101, [Falafel], [Financial District], 10006, false 
+Bill's Bar & Burger Downtown, 3.5, 112, [Bars | Burgers], [Financial District], 10006, false 
+Wogies Bar and Grill, 4.0, 23, [American (Traditional) | Cheesesteaks | Chicken Wings], [Financial District], 10006, false 
+
+Sale & Pepe, 4.5, 8, [Sandwiches | Caterers], [Financial District], 10006, false 
+
+Dark Horse, 4.0, 171, [American (Traditional) | American (New)], [TriBeCa | Civic Center], 10007, false 
+Sophie's Cuban Cuisine, 4.0, 128, [Cuban], [TriBeCa | Civic Center], 10007, false 
+Saleya, 4.0, 81, [American (New) | Mediterranean | Bars], [TriBeCa], 10007, false 
+Manhattan Proper, 4.0, 110, [Sports Bars | American (New) | Lounges], [TriBeCa | Civic Center], 10007, false 
+My Belly's Playlist, 4.0, 60, [American (New) | Sandwiches | Salad], [TriBeCa], 10007, false 
+Sole di Capri, 4.0, 124, [Italian], [TriBeCa], 10007, false 
+
+Benares, 4.0, 125, [Indian], [TriBeCa], 10007, false 
+The Hummus & Pita Co., 4.0, 74, [Mediterranean | Middle Eastern], [TriBeCa | Civic Center], 10007, false 
+Woodrow's, 4.0, 127, [American (Traditional) | Pubs], [TriBeCa], 10007, false 
+Mulberry and Vine, 4.0, 53, [American (New) | Latin American | Asian Fusion], [TriBeCa], 10007, false 
+Church Publick, 4.0, 46, [American (New) | Pubs], [TriBeCa | Civic Center], 10007, false 
+
+Takahachi Bakery, 4.0, 294, [Bakeries | Japanese | Fruits & Veggies], [TriBeCa | Civic Center], 10007, false 
+Delimarie, 4.5, 31, [Delis | Southern | Breakfast & Brunch], [TriBeCa | Civic Center], 10007, false 
+By Suzette French Crepes, 4.0, 52, [Creperies | French], [TriBeCa | Chinatown | Civic Center], 10007, false 
+
+Pylos, 4.5, 696, [Greek], [East Village | Alphabet City], 10009, false 
+B4, 4.0, 112, [American (New) | Comfort Food], [East Village | Alphabet City], 10009, false 
+Taverna Kyclades East Village, 4.5, 233, [Greek | Seafood], [Stuyvesant Town | East Village], 10009, false 
+Caracas Arepa Bar, 4.0, 2016, [Venezuelan], [East Village], 10009, false 
+Northern Spy Food Co., 4.0, 657, [American (Traditional)], [East Village | Alphabet City], 10009, false 
+Xe May Sandwich Shop, 4.5, 371, [Sandwiches | Vietnamese], [East Village], 10009, false 
+Westville, 4.0, 676, [American (New)], [East Village | Alphabet City], 10009, false 
+Brindle Room, 4.0, 417, [American (New)], [East Village | Alphabet City], 10009, false 
+Nai Tapas Bar, 4.0, 457, [Tapas Bars], [East Village], 10009, false 
+Cafe Mogador, 4.0, 1144, [Moroccan], [East Village | Alphabet City], 10009, false 
+
+Flinders Lane, 4.5, 56, [Restaurants | Wine Bars], [East Village | Alphabet City], 10009, false 
+Bobwhite Lunch & Supper Counter, 4.0, 253, [Southern], [East Village | Alphabet City], 10009, false 
+Root & Bone, 4.0, 138, [Southern | Comfort Food], [East Village | Alphabet City], 10009, false 
+Grape and Grain, 4.0, 221, [Wine Bars | American (New)], [East Village | Alphabet City], 10009, false 
+
+Yuca Bar & Restaurant, 4.0, 1043, [Latin American | Tapas Bars], [East Village | Alphabet City], 10009, false 
+Casa Adela, 4.0, 152, [Latin American | Puerto Rican], [East Village | Alphabet City], 10009, false 
+Tink's Restaurant, 4.0, 164, [American (New) | Comfort Food | Breakfast & Brunch], [East Village], 10009, false 
+Yerba Buena, 4.0, 564, [Latin American | Spanish], [East Village | Alphabet City], 10009, false 
+Kafana, 4.0, 221, [Ethnic Food | Modern European], [East Village | Alphabet City], 10009, false 
+Tuome, 4.0, 37, [American (New)], [East Village | Alphabet City], 10009, false 
+Fat Buddha, 4.0, 322, [Bars | Asian Fusion | Korean], [East Village | Alphabet City], 10009, false 
+Luke's Lobster, 4.0, 1214, [Seafood], [East Village], 10009, false 
+
+Eleven Madison Park, 4.5, 1134, [American (New) | French], [Flatiron], 10010, false 
+Mook's, 4.5, 50, [Sandwiches | Cafes | Salad], [Kips Bay], 10010, false 
+Lamarca Cheese Shop, 4.5, 35, [Cheese Shops | Comfort Food], [Gramercy], 10010, false 
+Maialino, 4.0, 771, [Italian], [Flatiron | Gramercy], 10010, false 
+Molly's, 4.0, 285, [American (Traditional) | Irish | Pubs], [Gramercy], 10010, false 
+Gila's Nosh, 4.5, 65, [Coffee & Tea | Mediterranean], [Kips Bay], 10010, false 
+Grill 21, 4.0, 246, [Filipino], [Gramercy], 10010, false 
+Hillstone, 4.0, 446, [Steakhouses | American (Traditional)], [Flatiron], 10010, false 
+
+Vitis La Vineria, 4.5, 40, [Tapas/Small Plates | Wine Bars], [Gramercy], 10010, false 
+Kipsey's, 4.0, 115, [American (New) | Breakfast & Brunch], [Kips Bay], 10010, false 
+Bluebell Cafe, 3.5, 251, [American (Traditional)], [Gramercy], 10010, false 
+Limon Restaurant, 4.0, 118, [Turkish | Middle Eastern | Mediterranean], [Kips Bay], 10010, false 
+Almond, 3.5, 605, [American (New)], [Flatiron], 10010, false 
+STIX, 4.0, 191, [Mediterranean | Greek], [Flatiron | Gramercy], 10010, false 
+Lamarca, 4.0, 176, [Italian], [Gramercy], 10010, false 
+
+Love Cafe & Bar, 4.0, 25, [Cafes], [Kips Bay], 10010, false 
+Almayass, 4.0, 144, [Mediterranean | Armenian | Vegetarian], [Flatiron], 10010, false 
+
+Los Tacos No.1, 4.5, 419, [Mexican], [Meatpacking District | Chelsea], 10011, false 
+Colicchio & Sons Tap Room, 4.5, 161, [American (New)], [Meatpacking District | Chelsea], 10011, false 
+Westville, 4.0, 514, [American (New)], [Chelsea], 10011, false 
+Buddakan, 4.0, 1970, [Chinese | Asian Fusion], [Meatpacking District | Chelsea], 10011, false 
+Cookshop, 4.0, 968, [American (New) | Breakfast & Brunch | Desserts], [Chelsea], 10011, false 
+The Red Cat, 4.0, 450, [American (New)], [Chelsea], 10011, false 
+The Green Table, 4.0, 347, [Vegetarian | American (New) | Breakfast & Brunch], [Meatpacking District | Chelsea], 10011, false 
+Salinas, 4.0, 429, [Mediterranean | Spanish], [Chelsea], 10011, false 
+The Meatball Shop, 4.0, 279, [Italian | Salad], [Chelsea], 10011, false 
+Tia Pol, 4.0, 512, [Tapas Bars | Spanish], [Chelsea], 10011, false 
+Le Grainne Cafe, 4.0, 400, [French], [Chelsea], 10011, false 
+Dil-e Punjab Deli, 4.5, 111, [Indian | Vegetarian | Pakistani], [Chelsea], 10011, false 
+
+Coppelia, 4.0, 448, [Cuban], [Chelsea], 10011, false 
+Amélie, 4.5, 654, [French | Wine Bars], [Greenwich Village], 10011, false 
+Ootoya, 4.0, 509, [Japanese], [Flatiron], 10011, false 
+The Grey Dog, 4.0, 427, [Coffee & Tea | Breakfast & Brunch], [Chelsea], 10011, false 
+
+Empire Diner, 4.0, 115, [Diners], [Chelsea], 10011, false 
+Heartwood, 4.0, 52, [American (New)], [Chelsea], 10011, false 
+El Cocotero, 4.0, 307, [Latin American], [Chelsea], 10011, false 
+Sotto 13, 4.0, 255, [Pizza | Tapas/Small Plates], [West Village], 10011, false 
+The Meatball Shop, 4.0, 502, [Italian | American (Traditional)], [West Village], 10011, false 
+
+Siggy's Good Food, 4.5, 203, [Mediterranean | Vegan | Comfort Food], [NoHo], 10012, false 
+Cafe Habana, 4.0, 2308, [Cuban | Mexican], [Nolita], 10012, false 
+Jane, 4.0, 1785, [American (Traditional) | Modern European], [Greenwich Village], 10012, false 
+Carroll Place, 4.5, 90, [Gastropubs | Italian], [Greenwich Village], 10012, false 
+Bianca Restaurant, 4.0, 856, [Italian], [NoHo], 10012, false 
+Blue Ribbon Brasserie, 4.5, 638, [Seafood | American (Traditional)], [South Village], 10012, false 
+Balthazar Restaurant, 4.0, 1745, [French], [SoHo], 10012, false 
+Rubirosa, 4.0, 564, [Italian | Pizza], [Nolita], 10012, false 
+Cocotte, 4.5, 130, [French], [South Village], 10012, false 
+Saigon Shack, 4.0, 831, [Vietnamese], [Greenwich Village], 10012, false 
+Eight Turn Crêpe, 4.5, 262, [Creperies], [Nolita], 10012, false 
+Ciccio, 4.5, 76, [Italian | Bars], [South Village], 10012, false 
+Ruby's, 4.0, 412, [Burgers | Coffee & Tea], [Nolita], 10012, false 
+Cuba, 4.0, 770, [Cuban], [Greenwich Village], 10012, false 
+
+Lupa, 4.0, 952, [Italian | American (New)], [Greenwich Village], 10012, false 
+Mamoun's Falafel, 4.5, 1641, [Middle Eastern | Falafel], [Greenwich Village], 10012, false 
+Bohemian Restaurant, 4.5, 339, [Japanese], [NoHo], 10012, false 
+Gato, 4.0, 251, [Mediterranean | Spanish | Bars], [NoHo], 10012, false 
+Bite, 4.0, 138, [Food Stands | Sandwiches], [NoHo], 10012, false 
+Jack's Wife Freda, 4.0, 305, [Breakfast & Brunch | Mediterranean], [SoHo], 10012, false 
+Emporio, 4.0, 364, [Italian], [Nolita], 10012, false 
+Aquagrill, 4.5, 858, [Seafood], [South Village], 10012, false 
+Boqueria, 4.0, 462, [Spanish], [South Village], 10012, false 
+Public, 4.0, 788, [American (Traditional)], [Nolita], 10012, false 
+Toloache, 4.5, 94, [Mexican], [Greenwich Village], 10012, false 
+Lombardi's Pizza, 4.0, 3928, [Pizza], [Nolita], 10012, false 
+Taim Falafel, 4.5, 174, [Falafel], [Nolita], 10012, false 
+Minetta Tavern, 4.0, 1247, [French | American (New) | Breakfast & Brunch], [Greenwich Village], 10012, false 
+Pepe Rosso To Go, 4.0, 237, [Italian], [South Village], 10012, false 
+Café Gitane, 4.0, 497, [French | Moroccan], [Nolita], 10012, false 
+
+Mirch Masala, 4.5, 41, [Indian], [Greenwich Village], 10012, false 
+The Grey Dog, 4.0, 194, [Coffee & Tea | Breakfast & Brunch], [Nolita], 10012, false 
+Il Corallo Trattoria, 4.0, 478, [Italian | Pizza], [South Village], 10012, false 
+Vin et Fleurs, 4.0, 247, [French], [South Village], 10012, false 
+B&B Winepub, 4.0, 441, [Burgers], [SoHo], 10012, false 
+Snack, 4.0, 197, [Sandwiches | Mediterranean], [South Village], 10012, false 
+Saxon + Parole, 4.0, 405, [American (New) | Bars], [NoHo], 10012, false 
+Balaboosta, 4.0, 366, [Mediterranean], [Nolita], 10012, false 
+Ariana, 4.5, 23, [Russian], [South Village | Greenwich Village], 10012, false 
+Bistro Les Amis, 4.0, 161, [French], [South Village], 10012, false 
+Mother's Ruin, 4.0, 169, [Bars | American (New) | Breakfast & Brunch], [Nolita], 10012, false 
+Bareburger, 4.0, 388, [Burgers], [Greenwich Village], 10012, false 
+
+The Greek, 4.5, 112, [Greek], [TriBeCa], 10013, false 
+La Sirene, 4.5, 1030, [French], [South Village], 10013, false 
+Bouley, 4.5, 707, [French], [TriBeCa], 10013, false 
+Breakroom, 4.5, 265, [Burgers | Mexican], [Chinatown], 10013, false 
+Distilled, 4.0, 229, [American (New) | Bars | Breakfast & Brunch], [TriBeCa], 10013, false 
+Despaña, 4.5, 284, [Spanish | Basque | Grocery], [SoHo], 10013, false 
+Nish Nush, 4.5, 197, [Middle Eastern | Vegetarian | Kosher], [TriBeCa], 10013, false 
+Mooncake Foods, 4.0, 386, [Asian Fusion | Gluten-Free], [South Village], 10013, false 
+Westville, 4.0, 156, [American (Traditional)], [South Village], 10013, false 
+Locanda Verde, 4.0, 938, [Italian], [TriBeCa], 10013, false 
+Pepe Rosso Social, 4.5, 92, [Italian], [Little Italy | Nolita], 10013, false 
+
+Pepolino Restaurant, 4.5, 250, [Italian], [TriBeCa], 10013, false 
+Joe's Shanghai, 4.0, 2811, [Shanghainese], [Chinatown | Civic Center], 10013, false 
+Saluggi's, 4.0, 340, [Pizza | Italian], [TriBeCa], 10013, false 
+Zutto Japanese American Pub, 4.0, 528, [Asian Fusion | Japanese | Sushi Bars], [TriBeCa], 10013, false 
+Piacere, 4.5, 124, [Pizza | Italian], [Little Italy | Nolita], 10013, false 
+Kori, 4.0, 274, [Korean], [TriBeCa], 10013, false 
+Galli Restaurant, 4.0, 265, [Italian], [SoHo], 10013, false 
+Ear Inn, 4.0, 239, [Bars | American (Traditional)], [South Village], 10013, false 
+
+Da Mikele, 4.0, 200, [Italian], [TriBeCa], 10013, false 
+Ward III, 4.0, 285, [American (New) | Lounges], [TriBeCa], 10013, false 
+Terroir Tribeca, 4.0, 131, [Wine Bars | American (New)], [TriBeCa], 10013, false 
+H K  Wonton Garden, 4.0, 496, [Chinese], [Chinatown], 10013, false 
+Atera, 4.5, 82, [American (New) | Lounges], [TriBeCa | Civic Center], 10013, false 
+Jungsik, 4.5, 202, [Korean], [TriBeCa], 10013, false 
+Union Bar & Kitchen, 4.5, 24, [American (New)], [South Village], 10013, false 
+Khe-Yo, 4.0, 182, [Laotian | Wine Bars], [TriBeCa], 10013, false 
+
+Taim Falafel and Smoothie Bar, 4.5, 1042, [Middle Eastern | Vegetarian | Street Vendors], [West Village], 10014, false 
+The Little Owl, 4.0, 855, [American (New)], [West Village], 10014, false 
+L'Artusi, 4.5, 789, [Italian], [West Village], 10014, false 
+Malatesta Trattoria, 4.0, 723, [Italian], [West Village], 10014, false 
+Westville, 4.0, 693, [Salad | Burgers | Sandwiches], [West Village], 10014, false 
+The Spotted Pig, 4.0, 1720, [Burgers | Gastropubs], [West Village], 10014, false 
+Mémé Mediterranean, 4.0, 262, [Mediterranean], [West Village], 10014, false 
+Buvette, 4.0, 503, [French], [West Village], 10014, false 
+Cafe Gitane, 4.0, 224, [French | Moroccan], [West Village], 10014, false 
+Scarpetta, 4.0, 983, [Italian], [Meatpacking District | West Village | Chelsea], 10014, false 
+Wallflower, 4.5, 75, [American (New)], [West Village], 10014, false 
+Employees Only, 4.0, 776, [American (New) | Lounges], [West Village], 10014, false 
+Takashi, 4.0, 415, [Japanese | Korean | Barbeque], [West Village], 10014, false 
+Upright Brew House, 4.0, 79, [American (New) | Bars], [West Village], 10014, false 
+
+Market Table, 4.0, 542, [American (New)], [West Village], 10014, false 
+Pinto, 4.0, 605, [Thai], [West Village], 10014, false 
+Piora, 4.5, 115, [American (New)], [West Village], 10014, false 
+Extra Virgin, 4.0, 776, [Seafood | Greek | Italian], [West Village], 10014, false 
+Perilla Restaurant, 4.0, 1096, [American (New)], [West Village], 10014, false 
+The Clam, 4.5, 76, [Seafood], [West Village], 10014, false 
+The Grey Dog, 4.5, 40, [Coffee & Tea | Breakfast & Brunch], [West Village], 10014, false 
+The Otheroom, 4.0, 209, [Lounges | Wine Bars | American (New)], [West Village], 10014, false 
+Malaparte, 4.0, 102, [Italian], [West Village], 10014, false 
+NY Dosas, 4.5, 248, [Indian | Food Stands | Vegetarian], [Greenwich Village], 10014, false 
+Barbuto, 4.0, 440, [Italian | American (New)], [West Village], 10014, false 
+Las Ramblas, 4.0, 488, [Tapas/Small Plates], [West Village], 10014, false 
+Tartine, 4.0, 618, [French | Breakfast & Brunch], [West Village], 10014, false 
+
+Piccolo Angolo, 4.0, 246, [Italian], [West Village], 10014, false 
+Ramen-Ya, 4.0, 180, [Ramen], [West Village], 10014, false 
+Hudson Clearwater, 4.0, 287, [American (New)], [West Village], 10014, false 
+Joseph Leonard, 4.0, 366, [American (New) | French], [West Village], 10014, false 
+Corner Bistro, 4.0, 1163, [Burgers | Bars], [West Village], 10014, false 
+Mas Farmhouse, 4.0, 370, [French | Wine Bars], [West Village], 10014, false 
+Hakata Tonton, 4.0, 434, [Japanese | Hot Pot], [West Village], 10014, false 
+Cafe Cluny, 4.0, 441, [Restaurants], [West Village], 10014, false 
+Fish, 4.0, 888, [Seafood], [West Village], 10014, false 
+
+Chicken Provence, 4.5, 74, [French], [Murray Hill | Midtown East], 10016, false 
+The Shakespeare, 4.5, 77, [Pubs | British], [Midtown East | Murray Hill], 10016, false 
+Cask Bar + Kitchen, 4.0, 699, [Bars | American (New) | Seafood], [Murray Hill | Kips Bay | Midtown East], 10016, false 
+Le Parisien, 4.0, 480, [French], [Murray Hill | Kips Bay | Midtown East], 10016, false 
+Bistango, 4.0, 386, [Italian | Gluten-Free], [Kips Bay | Midtown East], 10016, false 
+Pippali, 4.0, 260, [Indian], [Flatiron], 10016, false 
+
+Lamazou, 4.5, 188, [Cheese Shops | Sandwiches], [Kips Bay], 10016, false 
+Juni, 4.5, 63, [American (New)], [Midtown East], 10016, false 
+Pio Pio, 4.0, 459, [Latin American | Peruvian], [Murray Hill | Kips Bay | Midtown East], 10016, false 
+The Cannibal, 4.0, 213, [American (New) | Butcher], [Flatiron | Midtown East], 10016, false 
+Whitman & Bloom, 4.0, 130, [Breakfast & Brunch], [Kips Bay], 10016, false 
+Bareburger, 4.0, 389, [Burgers], [Murray Hill | Midtown East], 10016, false 
+
+Natureworks, 4.0, 135, [American (New) | Mediterranean], [Midtown East], 10016, false 
+Wild Edibles, 4.0, 352, [Seafood | Seafood Markets], [Murray Hill | Midtown East], 10016, false 
+Piccolo Cafe, 4.0, 179, [Sandwiches | Food Delivery Services | Italian], [Midtown East], 10016, false 
+Rattle 'N' Hum, 4.0, 432, [Pubs | American (New)], [Midtown East], 10016, false 
+Penelope, 3.5, 1419, [American (Traditional) | Breakfast & Brunch], [Kips Bay | Midtown East], 10016, false 
+Vezzo Thin Crust Pizza, 4.0, 627, [Pizza], [Midtown East], 10016, false 
+VinoTapa, 4.5, 23, [Tapas Bars], [Kips Bay | Midtown East], 10016, false 
+
+Sushi Yasuda, 4.5, 1232, [Sushi Bars | Japanese], [Midtown East], 10017, false 
+Sakagura, 4.5, 1027, [Japanese | Seafood], [Midtown East], 10017, false 
+Num Pang Sandwich Shop, 4.0, 707, [Cambodian | Sandwiches], [Midtown East | Murray Hill], 10017, false 
+The Sea Fire Grill, 4.0, 168, [Seafood | Bars], [Midtown East], 10017, false 
+Cipriani Le Specialita, 4.5, 71, [Specialty Food | Italian], [Midtown East | Murray Hill], 10017, false 
+BentOn Cafe, 4.5, 46, [Japanese | Food Delivery Services], [Midtown East], 10017, false 
+Yogi Korean BBQ Tacos, 4.5, 43, [Street Vendors | Barbeque], [Midtown East], 10017, false 
+Donburiya, 3.5, 473, [Japanese], [Midtown East], 10017, false 
+Davio's Northern Italian Steakhouse, 4.0, 52, [Steakhouses | Italian | Gluten-Free], [Midtown East], 10017, false 
+Udon West, 4.0, 286, [Japanese], [Midtown East], 10017, false 
+Vitae, 4.0, 359, [American (New)], [Midtown East], 10017, false 
+
+Chopita, 4.5, 30, [Middle Eastern | Mediterranean | Kosher], [Midtown East], 10017, false 
+Soba Totto, 4.0, 382, [Japanese], [Midtown East], 10017, false 
+Luke's Lobster, 4.5, 28, [Seafood], [Midtown East], 10017, false 
+Avra Restaurant, 4.0, 411, [Seafood | Greek | Mediterranean], [Midtown East], 10017, false 
+The Capital Grille, 4.0, 423, [Steakhouses | American (Traditional)], [Midtown East | Murray Hill], 10017, false 
+Graso Grill, 4.5, 51, [Bagels | Sandwiches | Burgers], [Midtown East], 10017, false 
+Caffe Linda, 4.0, 175, [Italian], [Midtown East], 10017, false 
+Pampano, 4.0, 320, [Mexican | Latin American], [Midtown East], 10017, false 
+Bukhara Grill, 4.0, 301, [Indian | Buffets], [Midtown East], 10017, false 
+
+Nishida Sho-ten, 4.0, 31, [Ramen], [Midtown East], 10017, false 
+Elite Food Bar, 4.0, 34, [Sandwiches], [Midtown East], 10017, false 
+MASQ BAR, 4.0, 48, [Lounges | American (New)], [Midtown East], 10017, false 
+La Bellezza, 4.0, 95, [Pizza], [Midtown East], 10017, false 
+Katsu-Hama, 3.5, 505, [Japanese], [Midtown East], 10017, false 
+Ristorante Grifone, 4.0, 61, [Italian], [Midtown East], 10017, false 
+Lexington Brass, 3.5, 297, [American (Traditional) | Gluten-Free | Breakfast & Brunch], [Midtown East], 10017, false 
+Roti Mediterranean Grill, 4.0, 33, [Mediterranean], [Midtown East], 10017, false 
+Potbelly Sandwich Shop, 4.0, 121, [Sandwiches], [Midtown East], 10017, false 
+
+Sergimmo Salumeria, 4.5, 242, [Italian], [Hell's Kitchen | Midtown West], 10018, false 
+Go! Go! Curry!, 4.0, 843, [Japanese], [Midtown West], 10018, false 
+The Picnic Basket, 4.5, 115, [Cafes | Sandwiches], [Midtown West], 10018, false 
+Tavola, 4.0, 196, [Italian | Pizza], [Hell's Kitchen | Midtown West], 10018, false 
+Capizzi, 4.0, 328, [Pizza], [Hell's Kitchen | Theater District | Midtown West], 10018, false 
+
+District Tap House, 4.0, 89, [Sports Bars | Gastropubs | Pubs], [Midtown West], 10018, false 
+Larb Ubol, 4.0, 214, [Thai], [Hell's Kitchen | Midtown West], 10018, false 
+
+Ai Fiori, 4.0, 567, [Italian | French], [Midtown West], 10018, false 
+Parker & Quinn, 4.0, 121, [American (New)], [Midtown West], 10018, false 
+
+Totto Ramen, 4.0, 2654, [Ramen], [Hell's Kitchen | Theater District | Midtown West], 10019, false 
+Rex, 4.5, 139, [Coffee & Tea | Sandwiches], [Hell's Kitchen | Midtown West], 10019, false 
+Pure Thai Cookhouse, 4.0, 1068, [Thai], [Hell's Kitchen | Theater District | Midtown West], 10019, false 
+Nook, 3.5, 607, [American (New) | Breakfast & Brunch], [Hell's Kitchen | Theater District | Midtown West], 10019, false 
+The Halal Guys, 4.5, 5635, [Food Stands | Halal | Fast Food], [Theater District | Midtown West], 10019, false 
+Empanada Mama, 4.0, 1277, [Latin American], [Hell's Kitchen | Theater District | Midtown West], 10019, false 
+Reviver, 4.5, 55, [American (New) | Gluten-Free], [Hell's Kitchen | Midtown West], 10019, false 
+Ippudo Westside, 4.0, 883, [Ramen], [Hell's Kitchen | Theater District | Midtown West], 10019, false 
+American Retro, 4.0, 93, [American (New)], [Hell's Kitchen | Midtown West], 10019, false 
+Ardesia, 4.0, 209, [Wine Bars | Tapas/Small Plates], [Hell's Kitchen | Midtown West], 10019, false 
+Brickyard Gastropub, 4.0, 318, [Gastropubs | American (Traditional)], [Hell's Kitchen | Theater District | Midtown West], 10019, false 
+The Three Monkeys, 4.0, 351, [Bars | American (Traditional) | Gastropubs], [Theater District | Midtown West], 10019, false 
+Yakitori Totto, 4.0, 793, [Japanese], [Midtown West], 10019, false 
+
+Merilu Pizza Al Metro, 4.0, 295, [Italian | Pizza], [Hell's Kitchen | Theater District | Midtown West], 10019, false 
+Kilo, 4.0, 165, [Tapas Bars | Wine Bars | Modern European], [Hell's Kitchen | Midtown West], 10019, false 
+Noodies, 4.0, 222, [Thai], [Hell's Kitchen | Midtown West], 10019, false 
+Il Baretto, 4.0, 58, [Italian], [Hell's Kitchen | Midtown West], 10019, false 
+Cafe57, 4.5, 17, [American (New) | Breakfast & Brunch], [Hell's Kitchen | Midtown West], 10019, false 
+Briciola, 4.0, 207, [Italian | Wine Bars], [Hell's Kitchen | Theater District | Midtown West], 10019, false 
+Burrito Box, 4.0, 438, [Mexican], [Hell's Kitchen | Midtown West], 10019, false 
+Basso56, 4.0, 359, [Italian], [Midtown West], 10019, false 
+BarBacon, 4.0, 248, [Gastropubs], [Hell's Kitchen | Midtown West], 10019, false 
+Gordon Ramsay at The London, 4.0, 302, [American (New)], [Midtown West], 10019, false 
+Taboon, 4.0, 291, [Middle Eastern], [Hell's Kitchen | Midtown West], 10019, false 
+Totto Ramen, 4.0, 259, [Japanese], [Hell's Kitchen | Midtown West], 10019, false 
+Mooncake Foods, 4.0, 139, [Asian Fusion], [Hell's Kitchen | Theater District | Midtown West], 10019, false 
+
+Sake Bar Hagi, 4.0, 1048, [Japanese], [Theater District | Midtown West], 10019, false 
+La Bergamote, 4.0, 136, [Bakeries | French], [Hell's Kitchen | Midtown West], 10019, false 
+Ponche Taqueria & Cantina, 4.0, 237, [Mexican], [Hell's Kitchen | Midtown West], 10019, false 
+Hibernia, 4.0, 90, [Bars | American (Traditional)], [Hell's Kitchen | Midtown West], 10019, false 
+Azuri Cafe, 4.0, 158, [Middle Eastern], [Hell's Kitchen | Midtown West], 10019, false 
+Danji, 4.0, 493, [Korean], [Hell's Kitchen | Theater District | Midtown West], 10019, false 
+Victor's Cafe, 4.0, 683, [Cuban | Tapas Bars], [Theater District | Midtown West], 10019, false 
+Wondee Siam, 4.0, 613, [Thai], [Hell's Kitchen | Theater District | Midtown West], 10019, false 
+Ivy, 4.0, 140, [American (New) | Lounges | Cocktail Bars], [Hell's Kitchen | Midtown West], 10019, false 
+Toloache, 4.0, 853, [Mexican], [Theater District | Midtown West], 10019, false 
+Alfie's, 4.0, 155, [American (New) | Gastropubs], [Hell's Kitchen | Theater District | Midtown West], 10019, false 
+Lillie's Victorian Bar & Restaurant, 4.0, 357, [Lounges | American (Traditional)], [Theater District | Midtown West], 10019, false 
+The Original Soupman, 4.0, 228, [Soup | Seafood], [Hell's Kitchen | Midtown West], 10019, false 
+Cielo At the Mayfair, 4.0, 79, [Italian | Bars], [Theater District | Midtown West], 10019, false 
+
+The Capital Grille, 4.0, 367, [Steakhouses | American (Traditional)], [Theater District | Midtown West], 10020, false 
+
+Del Frisco's Grille, 4.0, 236, [Steakhouses], [Midtown West], 10020, false 
+
+
+Up Thai, 4.5, 260, [Thai], [Upper East Side | Yorkville], 10021, false 
+Ladurée, 4.5, 1267, [Desserts | French], [Upper East Side], 10021, false 
+Hospoda Bohemian Beer Hall, 4.0, 148, [American (New)], [Upper East Side | Yorkville], 10021, false 
+Via Quadronno, 4.0, 282, [Sandwiches | Italian], [Upper East Side], 10021, false 
+Joe, 4.0, 128, [Cafes | Coffee & Tea], [Upper East Side], 10021, false 
+The Candle Cafe, 4.0, 513, [Vegan], [Upper East Side | Yorkville], 10021, false 
+
+Maison Kayser, 4.0, 326, [Breakfast & Brunch | Bakeries | French], [Upper East Side | Yorkville], 10021, false 
+Uskudar Turkish Restaurant, 4.0, 125, [Turkish | Mediterranean], [Upper East Side | Yorkville], 10021, false 
+B Cafe, 4.0, 241, [Bars | Belgian], [Upper East Side | Yorkville], 10021, false 
+Jones Wood Foundry, 4.0, 286, [British | Pubs | Gastropubs], [Upper East Side | Yorkville], 10021, false 
+Cabana Restaurant, 4.0, 283, [Latin American | Cuban | Caribbean], [Upper East Side], 10021, false 
+
+Wajima Japanese Restaurant, 4.0, 138, [Japanese], [Upper East Side], 10021, false 
+Vivolo Restaurant, 4.0, 81, [Italian], [Upper East Side], 10021, false 
+Good Health, 4.0, 148, [Vegetarian | American (New)], [Upper East Side | Yorkville], 10021, false 
+Two Lizards Mexican Bar & Grill, 4.0, 124, [Mexican], [Upper East Side | Yorkville], 10021, false 
+Persepolis, 4.0, 210, [Middle Eastern | Persian/Iranian], [Upper East Side | Yorkville], 10021, false 
+JG Melon, 3.5, 658, [Burgers | American (Traditional)], [Upper East Side | Yorkville], 10021, false 
+Alice's Tea Cup Chapter II, 4.0, 809, [Coffee & Tea | Breakfast & Brunch | American (New)], [Upper East Side], 10021, false 
+
+Little Collins, 4.5, 166, [Cafes], [Midtown East], 10022, false 
+Club A Steakhouse, 4.5, 1517, [Steakhouses | Beer  Wine & Spirits], [Midtown East], 10022, false 
+The Jeffrey Craft Beer & Bites, 4.5, 190, [Bars | Cafes], [Upper East Side], 10022, false 
+Nerai, 4.5, 62, [Greek | Mediterranean | Bars], [Midtown East], 10022, false 
+Sukhumvit 51, 4.5, 53, [Thai], [Midtown East], 10022, false 
+My Pie, 4.5, 66, [Italian], [Midtown East], 10022, false 
+Rouge Tomate, 4.0, 537, [American (New)], [Upper East Side], 10022, false 
+Hillstone, 4.0, 501, [American (Traditional)], [Midtown East], 10022, false 
+Omar's Kitchen & Bakery, 4.0, 174, [Halal | Middle Eastern | Mediterranean], [Midtown East], 10022, false 
+Sofia Wine Bar & Cafe, 4.0, 333, [Italian | Wine Bars], [Midtown East], 10022, false 
+
+Melt Shop, 4.0, 309, [American (Traditional) | Sandwiches], [Midtown East], 10022, false 
+Pierre Loti Midtown, 4.0, 96, [Wine Bars | Tapas/Small Plates | Turkish], [Midtown East], 10022, false 
+King of Falafel & Shawarma, 4.5, 73, [Falafel], [Midtown East], 10022, false 
+Ze Café, 4.0, 247, [French | Italian | American (New)], [Midtown East], 10022, false 
+Matisse, 4.0, 194, [French], [Midtown East], 10022, false 
+BXL East, 4.0, 221, [Belgian | Pubs], [Midtown East], 10022, false 
+
+Mysttik Masaala, 4.0, 66, [Food Trucks | Indian], [Midtown East], 10022, false 
+Fusia Asian Cuisine, 4.0, 155, [Asian Fusion], [Midtown East], 10022, false 
+Amali, 4.0, 132, [Mediterranean], [Upper East Side], 10022, false 
+Session House, 4.0, 127, [Irish | Pubs], [Midtown East], 10022, false 
+
+Sushi Yasaka, 4.0, 625, [Japanese | Sushi Bars], [Upper West Side], 10023, false 
+Shalel Lounge, 4.0, 338, [Lounges | Moroccan], [Upper West Side], 10023, false 
+Riposo, 4.0, 133, [Wine Bars | Tapas/Small Plates], [Upper West Side], 10023, false 
+Hummus Place, 4.0, 336, [Vegetarian | Middle Eastern], [Upper West Side], 10023, false 
+Telepan, 4.0, 384, [American (New)], [Upper West Side], 10023, false 
+Pasha Restaurant, 4.0, 209, [Turkish], [Upper West Side], 10023, false 
+The Casbah - Halal Cart, 4.5, 48, [Halal | Street Vendors], [Upper West Side], 10023, false 
+Salumeria Rosi Parmacotto, 4.0, 251, [Italian | Meat Shops], [Upper West Side], 10023, false 
+Gray's Papaya, 4.0, 901, [Hot Dogs], [Upper West Side], 10023, false 
+Boulud Sud, 4.0, 290, [Mediterranean], [Upper West Side], 10023, false 
+Freddie & Pepper's, 4.0, 153, [Pizza], [Upper West Side], 10023, false 
+Piccolo Cafe, 3.5, 166, [Italian | Cafes | Wine Bars], [Upper West Side], 10023, false 
+Blossom Du Jour II, 4.0, 76, [Fast Food | Sandwiches | Vegetarian], [Upper West Side], 10023, false 
+
+Atlantic Grill, 4.0, 239, [American (New) | Seafood | Sushi Bars], [Upper West Side], 10023, false 
+The Smith, 3.5, 434, [American (New) | American (Traditional) | Breakfast & Brunch], [Upper West Side], 10023, false 
+La Boite En Bois, 4.0, 112, [French], [Upper West Side], 10023, false 
+Bar Rique, 4.0, 39, [Tapas/Small Plates | Tapas Bars | Wine Bars], [Upper West Side], 10023, false 
+Cafe Luxembourg, 3.5, 238, [Cafes], [Upper West Side], 10023, false 
+Soomsoom Vegetarian Bar, 4.0, 173, [Kosher | Vegetarian], [Upper West Side], 10023, false 
+Cafe Ronda, 3.5, 270, [Tapas Bars | Spanish], [Upper West Side], 10023, false 
+Nanoosh, 3.5, 252, [Middle Eastern | Mediterranean], [Upper West Side], 10023, false 
+Paris Baguette, 4.0, 39, [Bakeries | Shaved Ice | Sandwiches], [Upper West Side], 10023, false 
+The Leopard at des Artistes, 4.0, 88, [Italian], [Upper West Side], 10023, false 
+Patsy's Pizzeria, 3.5, 254, [Pizza | Italian], [Upper West Side], 10023, false 
+Pappardella, 3.5, 260, [Italian | Gluten-Free | Wine Bars], [Upper West Side], 10023, false 
+
+Josie's, 3.5, 288, [American (New) | French], [Upper West Side], 10023, false 
+La Traviata, 3.5, 68, [Pizza], [Upper West Side], 10023, false 
+Rosa Mexicano, 3.5, 602, [Mexican], [Upper West Side], 10023, false 
+Simit And Smith, 4.0, 40, [Bakeries | Coffee & Tea | Breakfast & Brunch], [Upper West Side], 10023, false 
+Cafe Tallulah, 3.5, 105, [Cafes | American (Traditional) | French], [Upper West Side], 10023, false 
+Amber, 3.5, 230, [Asian Fusion], [Upper West Side], 10023, false 
+Épicerie Boulud, 3.5, 188, [Bakeries | French], [Upper West Side], 10023, false 
+Nick & Toni's Cafe, 3.5, 86, [Italian], [Upper West Side], 10023, false 
+Bistro Cassis Restaurant, 3.5, 135, [French], [Upper West Side], 10023, false 
+Cafe Fiorello, 3.5, 354, [Italian | American (Traditional)], [Upper West Side], 10023, false 
+
+Jacob's Pickles, 4.0, 863, [Bars | Comfort Food], [Upper West Side], 10024, false 
+Shake Shack, 4.0, 1787, [Burgers | American (New)], [Upper West Side], 10024, false 
+Anthi's Greek Food, 4.0, 84, [Greek | Ethnic Food], [Upper West Side], 10024, false 
+Bustan, 4.0, 114, [Mediterranean], [Upper West Side], 10024, false 
+Kefi, 4.0, 892, [Greek | Mediterranean | Tapas/Small Plates], [Upper West Side], 10024, false 
+Calle Ocho, 4.0, 1525, [Cuban | Latin American], [Upper West Side], 10024, false 
+Luke's Lobster, 4.0, 346, [Seafood], [Upper West Side], 10024, false 
+Flor De Mayo, 4.0, 662, [Latin American | Peruvian], [Upper West Side], 10024, false 
+The Mermaid Inn, 4.0, 534, [Seafood], [Upper West Side], 10024, false 
+Grill 212, 4.5, 63, [Kosher | Middle Eastern | Barbeque], [Upper West Side], 10024, false 
+Celeste, 4.0, 554, [Italian | Pizza], [Upper West Side], 10024, false 
+Land, 4.0, 624, [Thai], [Upper West Side], 10024, false 
+Carmine's, 4.0, 459, [Italian], [Upper West Side], 10024, false 
+Bodrum Mediterranean, 4.0, 161, [Turkish | Mediterranean], [Upper West Side], 10024, false 
+Peacefood Cafe, 4.0, 617, [Vegan], [Upper West Side], 10024, false 
+
+Oaxaca, 4.0, 103, [Mexican], [Upper West Side], 10024, false 
+Isabella's, 3.5, 534, [American (New) | American (Traditional)], [Upper West Side], 10024, false 
+Polpette, 4.0, 43, [Italian], [Upper West Side], 10024, false 
+Burke & Wills, 4.0, 95, [Australian], [Upper West Side], 10024, false 
+Fishtag, 4.0, 249, [Seafood | Mediterranean | Breakfast & Brunch], [Upper West Side], 10024, false 
+B Cafe West, 4.0, 196, [Belgian | Bars], [Upper West Side], 10024, false 
+Candle Cafe West, 4.0, 169, [Vegan | Vegetarian | Kosher], [Upper West Side], 10024, false 
+Good Enough To Eat, 3.5, 858, [Breakfast & Brunch | American (Traditional) | Comfort Food], [Upper West Side], 10024, false 
+Osteria Cotta, 3.5, 296, [Italian | Wine Bars], [Upper West Side], 10024, false 
+Vai Restaurant, 4.0, 159, [Italian], [Upper West Side], 10024, false 
+Spiga, 4.0, 144, [Italian | American (New)], [Upper West Side], 10024, false 
+Chirping Chicken, 3.5, 251, [American (Traditional)], [Upper West Side], 10024, false 
+Zabar's, 4.0, 593, [Delis | Kosher], [Upper West Side], 10024, false 
+
+Tolani Eatery & Wine, 3.5, 271, [Wine Bars | South African], [Upper West Side], 10024, false 
+Swagat, 4.0, 216, [Indian], [Upper West Side], 10024, false 
+Sarabeth's West, 3.5, 578, [Breakfast & Brunch | American (Traditional)], [Upper West Side], 10024, false 
+Fred's Restaurant, 3.5, 425, [Breakfast & Brunch | American (Traditional) | Bars], [Upper West Side], 10024, false 
+Caffe Storico, 4.0, 90, [Italian], [Upper West Side], 10024, false 
+The Great Burrito, 4.0, 148, [Mexican | American (New)], [Upper West Side], 10024, false 
+Momofuku Milk Bar, 3.5, 196, [Bakeries | Cafes], [Upper West Side], 10024, false 
+Momoya, 4.0, 218, [Sushi Bars | Japanese], [Upper West Side], 10024, false 
+
+Buster's, 4.5, 106, [American (New)], [Manhattan Valley], 10025, false 
+Doaba Deli, 4.5, 98, [Indian | Vegetarian], [Manhattan Valley], 10025, false 
+Saiguette, 4.0, 179, [Vietnamese], [Manhattan Valley], 10025, false 
+Vino Levantino, 4.5, 33, [Wine Bars | Middle Eastern], [Upper West Side], 10025, false 
+Freda's Caribbean & Soul Cuisine, 4.0, 214, [Caribbean | Soul Food], [Manhattan Valley], 10025, false 
+A Cafe New York, 4.0, 198, [French], [Manhattan Valley], 10025, false 
+Tum & Yum, 4.0, 104, [Thai], [Manhattan Valley], 10025, false 
+the 'dam, 4.0, 103, [American (New) | Pubs], [Manhattan Valley], 10025, false 
+Thai Market, 4.0, 487, [Thai], [Manhattan Valley], 10025, false 
+Pio Pio Peruvian Restaurant, 4.0, 381, [Latin American | Peruvian], [Upper West Side], 10025, false 
+Flor de Mayo, 4.0, 260, [Chinese | Peruvian], [Manhattan Valley], 10025, false 
+Arco Cafe, 4.5, 38, [Italian], [Manhattan Valley], 10025, false 
+Gastronomia Culinaria, 4.0, 50, [Italian], [Manhattan Valley], 10025, false 
+Buceo 95, 4.0, 277, [Tapas Bars | Spanish], [Upper West Side], 10025, false 
+Roti Roll Bombay Frankie, 4.0, 217, [Indian], [Manhattan Valley], 10025, false 
+
+Mani Market Place, 4.5, 30, [Delis | Grocery | Sandwiches], [Upper West Side], 10025, false 
+Sura Thai Kitchen, 4.0, 227, [Thai], [Manhattan Valley], 10025, false 
+Curry Club, 4.0, 52, [Indian], [Manhattan Valley], 10025, false 
+Taqueria y Fonda La Mexicana, 4.0, 315, [Mexican], [Manhattan Valley], 10025, false 
+Awash Ethiopian Restaurant, 4.0, 247, [Ethiopian], [Manhattan Valley], 10025, false 
+Buchetta Brick Oven Pizza, 4.0, 106, [Pizza | Italian], [Manhattan Valley], 10025, false 
+Numero 28 West Village, 4.0, 73, [Pizza | Italian], [Upper West Side], 10025, false 
+Crepes on Columbus, 3.5, 333, [Creperies | French | Breakfast & Brunch], [Manhattan Valley], 10025, false 
+Koko Wings, 4.0, 44, [Korean | Chicken Wings], [Manhattan Valley], 10025, false 
+
+Milano Market, 4.0, 111, [Grocery | Delis], [Morningside Heights], 10025, false 
+Sun-Chan Japanese Restaurant, 3.5, 97, [Japanese | Sushi Bars], [Manhattan Valley], 10025, false 
+Turkuaz Fine Turkish Cuisine, 4.0, 96, [Turkish | Middle Eastern], [Manhattan Valley], 10025, false 
+Mila Cafe, 4.0, 56, [Greek | Breakfast & Brunch | Mediterranean], [Upper West Side], 10025, false 
+Community Food & Juice, 3.5, 528, [American (New) | Breakfast & Brunch], [Morningside Heights], 10025, false 
+El Malecon Restaurant II, 3.5, 147, [Latin American | Dominican], [Manhattan Valley], 10025, false 
+Broadway Restaurant, 3.5, 76, [Diners | Italian], [Manhattan Valley], 10025, false 
+Tatz Gourmet Sweetz, 5.0, 16, [Bakeries | Gluten-Free | Desserts], [Manhattan Valley], 10025, false 
+
+Amy Ruth's, 4.0, 1067, [Southern | Soul Food], [Harlem], 10026, false 
+Seasoned Vegan, 4.5, 121, [Vegan], [Harlem], 10026, false 
+Lido, 4.0, 337, [Italian], [Harlem], 10026, false 
+The Cecil, 4.0, 179, [Asian Fusion | American (Traditional)], [Harlem], 10026, false 
+Zoma, 4.0, 276, [Ethiopian], [Harlem], 10026, false 
+67 Orange Street, 4.0, 184, [Lounges | American (New) | Cocktail Bars], [Harlem], 10026, false 
+Maharaja Palace, 4.0, 67, [Indian], [Harlem], 10026, false 
+Melba's, 3.5, 368, [Southern | American (Traditional) | Soul Food], [Harlem], 10026, false 
+Harlem Tavern, 3.5, 521, [Pubs | American (New)], [Harlem], 10026, false 
+Cedric French Bistro and Bar, 3.5, 129, [French], [Harlem], 10026, false 
+Lolita's Restaurant, 3.5, 150, [Mexican], [Harlem], 10026, false 
+
+Bier International, 3.5, 250, [German | Bars], [Harlem], 10026, false 
+Minton's, 4.0, 31, [Jazz & Blues | American (Traditional)], [Harlem], 10026, false 
+Silvana, 3.5, 72, [Middle Eastern], [Harlem], 10026, false 
+Cantina 1838, 3.5, 79, [Mexican | Latin American], [Harlem], 10026, false 
+5 & Diamond, 3.5, 163, [American (New)], [Harlem], 10026, false 
+
+Il Caffe Latte, 3.5, 158, [Coffee & Tea | Italian | Sandwiches], [Harlem], 10026, false 
+La Savane, 4.0, 11, [African], [Harlem], 10026, false 
+Harlem Food Bar, 3.0, 76, [American (New)], [Harlem], 10026, false 
+Destiny Sandwich & Juice Bar, 3.5, 39, [Sandwiches | Juice Bars & Smoothies | Bagels], [Harlem], 10026, false 
+Patisserie Des Ambassades, 3.0, 145, [Bakeries | Breakfast & Brunch], [Harlem], 10026, false 
+
+Flat Top, 4.0, 140, [American (New) | Cafes], [Morningside Heights], 10027, false 
+Jin Ramen, 4.0, 546, [Ramen], [Harlem], 10027, false 
+Pisticci, 4.0, 386, [Italian], [Harlem], 10027, false 
+Dinosaur Bar-B-Que, 4.0, 1807, [Barbeque], [Harlem], 10027, false 
+Max Soha, 4.0, 249, [Italian], [Morningside Heights], 10027, false 
+Vinateria, 4.0, 130, [American (New) | Italian], [Harlem], 10027, false 
+Sushi Sushi, 4.0, 96, [Sushi Bars | Japanese], [Harlem], 10027, false 
+Bettolona, 4.0, 159, [Pizza | Italian], [Harlem], 10027, false 
+
+Chapati House, 4.0, 41, [Indian], [Harlem], 10027, false 
+Toast, 3.5, 188, [Bars | American (New)], [Harlem], 10027, false 
+Maison Harlem, 3.5, 201, [French], [Harlem], 10027, false 
+Custom Fuel Pizza, 4.0, 70, [Pizza], [Harlem], 10027, false 
+BLVD Bistro, 4.0, 68, [American (Traditional) | Soul Food], [Harlem], 10027, false 
+Brownie's Cafe, 4.0, 25, [Sandwiches], [Morningside Heights], 10027, false 
+Jacob Restaurant, 4.0, 143, [Soul Food | Buffets], [Harlem], 10027, false 
+Falafel On Broadway, 3.5, 87, [Middle Eastern | Fast Food], [Harlem], 10027, false 
+
+Savann, 4.0, 46, [Turkish], [Harlem], 10027, false 
+Kitchenette Uptown, 3.5, 445, [Desserts | Breakfast & Brunch | Comfort Food], [Morningside Heights], 10027, false 
+Kissaten Jin, 3.5, 26, [Japanese | Cafes], [Harlem], 10027, false 
+Harlem's Floridita, 3.5, 67, [Cuban | Bars | Music Venues], [Harlem], 10027, false 
+Olive Tree Deli, 4.0, 23, [Delis], [Morningside Heights], 10027, false 
+9A NYC Kitchen and Lounge, 3.5, 97, [Lounges | American (New)], [Harlem], 10027, false 
+
+Bondurants, 4.5, 107, [Cocktail Bars | American (New) | Gastropubs], [Upper East Side | Yorkville], 10028, false 
+Luke's Lobster, 4.0, 778, [Seafood], [Upper East Side | Yorkville], 10028, false 
+Abaleh, 4.5, 43, [Mediterranean], [Upper East Side | Yorkville], 10028, false 
+The Gilroy, 4.0, 37, [Cocktail Bars | American (New)], [Upper East Side | Yorkville], 10028, false 
+The Simone, 5.0, 17, [French], [Upper East Side], 10028, false 
+Ryan's Daughter, 4.0, 139, [Pubs | American (New)], [Upper East Side | Yorkville], 10028, false 
+Café Sabarsky, 4.0, 238, [German | Austrian | Cafes], [Upper East Side], 10028, false 
+Beyoglu, 4.0, 610, [Turkish | Mediterranean], [Upper East Side | Yorkville], 10028, false 
+The Penrose, 4.0, 336, [Gastropubs | Irish], [Upper East Side | Yorkville], 10028, false 
+
+Francela, 4.5, 28, [Mediterranean], [Upper East Side | Yorkville], 10028, false 
+Brasserie Magritte, 4.0, 91, [Brasseries], [Upper East Side | Yorkville], 10028, false 
+Toloache 82, 4.0, 156, [Mexican | American (New)], [Upper East Side], 10028, false 
+Flex Mussels, 4.0, 529, [Seafood | Desserts | Belgian], [Upper East Side | Yorkville], 10028, false 
+Mei-Jin Ramen, 4.0, 47, [Ramen], [Upper East Side | Yorkville], 10028, false 
+
+Heidelberg Restaurant, 4.0, 355, [German | Bars], [Upper East Side | Yorkville], 10028, false 
+Hummus Kitchen, 4.0, 230, [Mediterranean | Vegetarian | Kosher], [Upper East Side | Yorkville], 10028, false 
+Om Restaurant, 4.0, 250, [Indian], [Upper East Side | Yorkville], 10028, false 
+The Supply House, 4.0, 84, [Bars | American (Traditional)], [Upper East Side | Yorkville], 10028, false 
+Amura Japanese, 4.0, 123, [Japanese], [Upper East Side | Yorkville], 10028, false 
+Poke, 4.0, 265, [Sushi Bars | Japanese], [Upper East Side | Yorkville], 10028, false 
+Wa Jeal Sichuan Chili House, 4.0, 262, [Chinese], [Upper East Side | Yorkville], 10028, false 
+
+Café Ollin, 4.5, 221, [Mexican | Latin American], [East Harlem], 10029, false 
+Cascalote Latin Bistro, 4.5, 60, [Latin American], [East Harlem], 10029, false 
+Damore Winebar & Caffe, 4.5, 59, [Cafes | Wine Bars], [East Harlem], 10029, false 
+Rao's, 4.5, 72, [Italian], [East Harlem], 10029, false 
+Joy Burger Bar, 4.0, 314, [Burgers | Sandwiches], [East Harlem], 10029, false 
+Earl's Beer & Cheese, 4.0, 293, [Bars | Comfort Food | Beer  Wine & Spirits], [East Harlem], 10029, false 
+Absolute Thai, 4.0, 35, [Thai], [East Harlem], 10029, false 
+Ricardo Steak House, 4.0, 330, [Steakhouses], [East Harlem], 10029, false 
+Taco Mix, 4.0, 127, [Mexican], [East Harlem], 10029, false 
+Milk Burger, 4.0, 197, [Burgers | Sandwiches], [East Harlem], 10029, false 
+Da Capo Aperitivo E Caffè, 5.0, 22, [Coffee & Tea | Cafes], [East Harlem], 10029, false 
+Dave's Gourmet, 4.5, 30, [Delis | Grocery], [East Harlem], 10029, false 
+
+El Caribeno, 4.5, 18, [Latin American], [East Harlem], 10029, false 
+Lupita's Restaurant, 4.5, 19, [Mexican], [East Harlem], 10029, false 
+Moustache Pitza, 4.0, 89, [Middle Eastern], [East Harlem], 10029, false 
+The Lexington Social, 4.0, 102, [Mediterranean | Tapas Bars | Wine Bars], [East Harlem], 10029, false 
+Amor Cubano, 3.5, 241, [Cuban], [East Harlem], 10029, false 
+La Tropezienne Bakery, 4.5, 39, [Bakeries | French], [East Harlem], 10029, false 
+Gong Modern Thai Dining, 4.0, 136, [Thai], [East Harlem], 10029, false 
+Cuchifritos, 4.0, 61, [Latin American], [East Harlem], 10029, false 
+Lexington Pizza Parlour, 4.0, 38, [Pizza], [East Harlem], 10029, false 
+
+Dough Loco, 4.0, 117, [American (Traditional) | Coffee & Tea | Breakfast & Brunch], [East Harlem], 10029, false 
+Falafel Express, 4.0, 56, [Falafel], [East Harlem], 10029, false 
+Lechonera El Barrio, 4.0, 41, [Latin American | Caribbean], [East Harlem], 10029, false 
+La Corsa, 4.0, 66, [Pizza | Italian], [East Harlem], 10029, false 
+Ottomanelli Bros, 3.5, 88, [Burgers | Steakhouses], [East Harlem], 10029, false 
+
+Abyssinia Ethiopian Restaurant, 4.5, 61, [Ethiopian], [Harlem], 10030, false 
+Elsie's Caribbean Catering Company, 4.0, 86, [Caribbean | Ethnic Food | Caterers], [Harlem], 10030, false 
+Margie's Red Rose Diner, 4.0, 64, [Diners | Soul Food], [Harlem], 10030, false 
+Manhattanville Coffee, 4.0, 56, [Cafes | Coffee & Tea], [Harlem], 10030, false 
+Queen Sheeba, 4.0, 37, [Middle Eastern], [Harlem], 10030, false 
+Ponty Bistro, 4.0, 23, [French], [Harlem], 10030, false 
+Famous Fish Market, 4.0, 78, [Seafood], [Harlem], 10030, false 
+Yatenga French Bistro & Bar, 3.5, 106, [French], [Harlem], 10030, false 
+
+Londel's Restaurant, 3.5, 42, [Soul Food | Breakfast & Brunch], [Harlem], 10030, false 
+
+Crispy Bamboo Village, 4.0, 13, [Asian Fusion], [Harlem], 10030, false 
+
+Harlem Public, 4.0, 331, [American (New) | Pubs], [Harlem], 10031, false 
+Amsterdam Social, 4.5, 47, [Tapas/Small Plates | Tapas Bars], [Harlem], 10031, false 
+Home Sweet Harlem, 4.0, 86, [Breakfast & Brunch | Comfort Food | Soup], [Harlem], 10031, false 
+Trufa, 4.0, 144, [American (New)], [Harlem], 10031, false 
+Yolanda's Tamales, 5.0, 10, [Mexican | Food Stands], [Harlem], 10031, false 
+Taqueria San Pedro, 4.0, 39, [Mexican], [Harlem], 10031, false 
+Mama-K's Soup & Salad, 4.5, 34, [Salad | Soup], [Harlem], 10031, false 
+The Grange Bar and Eatery, 3.5, 181, [Bars | American (New)], [Harlem], 10031, false 
+Parlay Cafe, 4.5, 15, [Cafes], [Harlem], 10031, false 
+Solace Bar and Grill, 4.0, 89, [Gastropubs], [Harlem], 10031, false 
+Geisha Sushi, 4.5, 35, [Japanese], [Harlem], 10031, false 
+
+Wat's On Your Plate  Inc., 5.0, 5, [Caribbean], [Harlem], 10031, false 
+La Flor De Broadway, 4.0, 34, [Sandwiches | Diners | Caribbean], [Harlem], 10031, false 
+Coccola, 4.0, 76, [Italian | Pizza], [Harlem], 10031, false 
+Tonalli Cafe & Bar, 3.5, 152, [Italian], [Harlem], 10031, false 
+Covo Trattoria, 4.0, 208, [Italian | Pizza], [Harlem], 10031, false 
+Anchor Winebar, 4.0, 29, [Italian | Cocktail Bars], [Harlem], 10031, false 
+Falafel Tarboosh, 4.0, 40, [Falafel], [Harlem], 10031, false 
+Picante, 3.5, 160, [Mexican], [Harlem], 10031, false 
+
+Farafina Cafe & Lounge Harlem, 4.5, 9, [African | Jazz & Blues | Lounges], [Harlem], 10031, false 
+Grill On the Hill, 4.0, 15, [Bars | American (New)], [Harlem], 10031, false 
+Ecuatoriana Restaurant, 4.0, 12, [Latin American], [Harlem], 10031, false 
+Bus Stop Restaurant, 3.5, 55, [Diners], [Harlem], 10031, false 
+La Cocinita Latina, 3.5, 42, [Latin American], [Harlem], 10031, false 
+
+Margot Restaurant, 4.5, 72, [Latin American], [Washington Heights], 10032, false 
+Tasty Deli, 4.5, 124, [Delis | Sandwiches], [Washington Heights], 10032, false 
+GoGo-Gi, 4.0, 49, [Korean], [Washington Heights], 10032, false 
+Marcha Cocina, 4.0, 90, [Tapas Bars | Tapas/Small Plates], [Washington Heights], 10032, false 
+Restaurante La Libertad, 4.0, 44, [Salvadoran], [Washington Heights], 10032, false 
+Tung Thong Thai Restaurant, 3.5, 78, [Thai], [Washington Heights], 10032, false 
+La Fiesta, 4.0, 50, [Mexican], [Washington Heights], 10032, false 
+Antika, 3.5, 174, [Italian | Pizza], [Washington Heights], 10032, false 
+Las Palmas Deli Restaurant, 4.0, 54, [Mexican], [Washington Heights], 10032, false 
+
+Reme Food Incorporated, 4.0, 45, [Diners], [Washington Heights], 10032, false 
+Heights Tavern, 3.0, 167, [American (New)], [Washington Heights], 10032, false 
+Empanadas Monumental, 4.0, 22, [Latin American], [Washington Heights], 10032, false 
+La Barca Restaurant, 5.0, 4, [Caribbean | Latin American], [Washington Heights], 10032, false 
+
+First Choice Chinese Kitchen, 3.5, 26, [Chinese], [Washington Heights], 10032, false 
+Coogan's, 3.0, 178, [American (Traditional) | Irish | Bars], [Washington Heights], 10032, false 
+Coral Restaurant, 3.5, 56, [Donuts | American (New)], [Washington Heights], 10032, false 
+Wahi Diner, 3.0, 74, [American (Traditional) | Diners], [Washington Heights], 10032, false 
+Galicia Restaurant, 4.0, 14, [Spanish], [Washington Heights], 10032, false 
+Shangri-La Restaurant, 3.5, 35, [Sandwiches | Delis | Asian Fusion], [Washington Heights], 10032, false 
+Halal Cart, 4.5, 6, [Halal | Meat Shops], [Washington Heights], 10032, false 
+Punta Cana Restaurant, 4.5, 8, [Latin American], [Washington Heights], 10032, false 
+
+Saggio, 4.0, 247, [Italian], [Washington Heights], 10033, false 
+El Malecon Restaurant, 4.0, 319, [Latin American | Caribbean], [Washington Heights], 10033, false 
+Burger Heights, 4.0, 82, [Burgers | Ice Cream & Frozen Yogurt], [Washington Heights], 10033, false 
+Cafe Buunni, 4.0, 48, [Cafes], [Washington Heights], 10033, false 
+Le Chéile, 3.5, 149, [Irish | Pubs], [Washington Heights], 10033, false 
+
+Pick and Eat, 4.0, 143, [American (New)], [Washington Heights], 10033, false 
+Golan Heights, 4.5, 28, [Middle Eastern | Kosher], [Washington Heights], 10033, false 
+Manolo Tapas, 4.0, 80, [Tapas Bars | Spanish], [Washington Heights], 10033, false 
+
+No 1 Chinese Restaurant, 4.0, 69, [Chinese], [Washington Heights], 10033, false 
+Refried Beans Mexican Grill, 3.5, 111, [Mexican], [Washington Heights], 10033, false 
+181 Cabrini, 3.5, 138, [American (New) | Breakfast & Brunch], [Washington Heights], 10033, false 
+
+Beans and Vines, 4.5, 107, [Coffee & Tea | American (New) | Burgers], [Washington Heights | Inwood], 10034, false 
+Guadalupe, 4.0, 219, [Steakhouses | Tex-Mex], [Inwood], 10034, false 
+Indian Road Cafe, 4.0, 302, [Coffee & Tea | American (New) | Bars], [Inwood], 10034, false 
+G's Coffee Shop, 4.5, 23, [Mexican | Coffee & Tea | Convenience Stores], [Washington Heights | Inwood], 10034, false 
+Corcho Wine Room, 4.0, 82, [Wine Bars | Tapas Bars], [Washington Heights | Inwood], 10034, false 
+Patacon Pisao Truck, 4.5, 50, [Latin American | Food Trucks], [Washington Heights | Inwood], 10034, false 
+Elsa La Reina Del Chicharron, 4.0, 46, [Latin American], [Washington Heights | Inwood], 10034, false 
+Garden Café, 3.5, 151, [American (New)], [Inwood], 10034, false 
+Grandpa's Brick Oven Pizza, 3.5, 93, [Pizza], [Inwood], 10034, false 
+La Marina, 3.0, 338, [Bars | American (New)], [Washington Heights], 10034, false 
+District 12, 3.0, 137, [Gastropubs | Chicken Wings], [Washington Heights | Inwood], 10034, false 
+
+Park View Restaurant, 3.5, 120, [Diners | Cafes], [Washington Heights | Inwood], 10034, false 
+Made In Mexico, 4.0, 6, [Mexican], [Inwood], 10034, false 
+Inwood Thai, 3.5, 43, [Thai | Vegetarian], [Washington Heights | Inwood], 10034, false 
+Park Terrace Deli, 4.0, 21, [Delis], [Inwood], 10034, false 
+Yummy Thai, 3.0, 145, [Thai], [Inwood], 10034, false 
+Ceniza Restaurant Two, 4.5, 5, [Spanish | Latin American], [Inwood], 10034, false 
+
+Papasito Mexican Grill & Agave Bar, 3.0, 156, [Mexican], [Washington Heights | Inwood], 10034, false 
+Trattoria Inwood, 3.5, 27, [Italian], , 10034, false 
+John's Fried Chicken, 4.0, 28, [Food Stands], [Washington Heights | Inwood], 10034, false 
+Mama Sushi, 3.0, 141, [Sushi Bars | Japanese], [Washington Heights | Inwood], 10034, false 
+Hang Lee Chinese, 3.5, 19, [Chinese], [Washington Heights | Inwood], 10034, false 
+
+Patsy's Pizzeria, 4.0, 422, [Pizza | Italian], [East Harlem], 10035, false 
+El Kallejon, 4.5, 42, [Tapas Bars], [East Harlem], 10035, false 
+Spaha Soul, 4.5, 23, [Soul Food], [East Harlem], 10035, false 
+Mama's Restaurant, 4.5, 16, [Caribbean], [East Harlem], 10035, false 
+Polash, 4.0, 110, [Indian | Pakistani], [East Harlem], 10035, false 
+
+Ricardo Ocean Grill, 4.0, 47, [Seafood | Latin American], [East Harlem], 10035, false 
+Lechonera La Isla, 4.5, 12, [Latin American | Puerto Rican], [East Harlem], 10035, false 
+
+Island Salad, 4.0, 80, [Sandwiches | Salad], [East Harlem], 10035, false 
+Pipo's Mexican Restaurant, 4.0, 16, [Mexican], [East Harlem], 10035, false 
+Uptown Veg Inc., 4.0, 117, [Juice Bars & Smoothies | Vegetarian | Vegan], [East Harlem], 10035, false 
+
+Bea, 4.0, 137, [American (New)], [Hell's Kitchen | Theater District | Midtown West], 10036, false 
+Pio Pio, 4.0, 984, [Peruvian], [Hell's Kitchen | Midtown West], 10036, false 
+Lali Restaurant, 4.5, 89, [Dominican], [Hell's Kitchen | Midtown West], 10036, false 
+Carmine's, 4.0, 1385, [Italian], [Theater District | Midtown West], 10036, false 
+The Marshal, 4.0, 205, [American (New)], [Hell's Kitchen | Midtown West], 10036, false 
+Trattoria Trecolori, 4.0, 763, [Italian], [Theater District | Midtown West], 10036, false 
+Print, 4.0, 351, [American (New)], [Hell's Kitchen | Midtown West], 10036, false 
+Shake Shack, 4.0, 1797, [Burgers | Ice Cream & Frozen Yogurt | American (New)], [Hell's Kitchen | Theater District | Midtown West], 10036, false 
+Becco Restaurant, 4.0, 1409, [Italian], [Hell's Kitchen | Theater District | Midtown West], 10036, false 
+La Pulperia, 4.0, 212, [Latin American | Seafood | Cocktail Bars], [Hell's Kitchen | Theater District | Midtown West], 10036, false 
+
+At Nine Restaurant & Bar, 4.0, 115, [Thai | Cocktail Bars], [Hell's Kitchen | Theater District | Midtown West], 10036, false 
+The Jolly Goat Coffee Bar, 5.0, 34, [Coffee & Tea | Cafes | Ice Cream & Frozen Yogurt], [Hell's Kitchen | Midtown West], 10036, false 
+Landmark Tavern, 4.0, 121, [Pubs | American (Traditional)], [Hell's Kitchen | Midtown West], 10036, false 
+Junior's Restaurant, 4.0, 1435, [Diners | American (Traditional) | Breakfast & Brunch], [Theater District | Midtown West], 10036, false 
+Hourglass Tavern, 4.0, 275, [American (Traditional) | Lounges | American (New)], [Hell's Kitchen | Theater District | Midtown West], 10036, false 
+Margon, 4.0, 366, [Cuban], [Theater District | Midtown West], 10036, false 
+Ootoya, 4.5, 156, [Japanese], [Theater District | Midtown West], 10036, false 
+Tony's Di Napoli, 4.0, 737, [Italian], [Theater District | Midtown West], 10036, false 
+
+Turco Mediterranean Grill, 4.0, 195, [Mediterranean | Turkish], [Hell's Kitchen | Theater District | Midtown West], 10036, false 
+Patzeria Family & Friends, 4.0, 253, [Italian], [Hell's Kitchen | Theater District | Midtown West], 10036, false 
+Gyu-Kaku Japanese BBQ, 4.0, 401, [Japanese | Barbeque], [Hell's Kitchen | Theater District | Midtown West], 10036, false 
+Room Service, 3.5, 1264, [Thai], [Hell's Kitchen | Theater District | Midtown West], 10036, false 
+OBAO, 4.0, 252, [Vietnamese | Thai | Asian Fusion], [Hell's Kitchen | Theater District | Midtown West], 10036, false 
+Patzeria Perfect Pizza, 4.0, 607, [Pizza | Diners], [Theater District | Midtown West], 10036, false 
+Hell's Kitchen, 4.0, 319, [Mexican], [Hell's Kitchen | Theater District | Midtown West], 10036, false 
+Shorty's, 4.0, 378, [Sandwiches | Cheesesteaks], [Hell's Kitchen | Theater District | Midtown West], 10036, false 
+
+Harlem on Fifth, 4.0, 27, [Comfort Food | American (Traditional)], [East Harlem], 10037, false 
+Astor Row Cafe, 3.5, 116, [Coffee & Tea | Cafes], [Harlem], 10037, false 
+Manna's Soul Food & Salad Bar, 4.0, 24, [Soul Food], [Harlem], 10037, false 
+
+Pizza Stop, 4.0, 41, [Pizza], [Harlem], 10037, false 
+Sweet Mama's Soul Food Restaurant & Salad Bar, 4.5, 15, [Buffets | Soul Food], [Harlem], 10037, false 
+Jimbo's Hamburger Palace, 4.0, 14, [Burgers], [Harlem], 10037, false 
+Spoonbread Too, 3.0, 92, [Southern | Caterers], [Harlem], 10037, false 
+
+Island Salad, 3.5, 44, [Cafes | Sandwiches], [Harlem], 10037, false 
+
+Fresh Salt, 4.0, 205, [Bars | American (New)], [South Street Seaport], 10038, false 
+Pisillo Italian Panini, 4.5, 93, [Italian | Sandwiches], [Financial District], 10038, false 
+Trading Post, 4.0, 99, [Bars | American (New)], [South Street Seaport], 10038, false 
+Cowgirl Sea Horse, 4.0, 304, [Tex-Mex | Seafood], [Financial District], 10038, false 
+Terri, 4.0, 173, [American (New) | Sandwiches | Juice Bars & Smoothies], [Financial District], 10038, false 
+Fishmarket Restaurant, 4.0, 91, [Seafood | Burgers], [South Street Seaport], 10038, false 
+Blue Spoon Coffee, 4.5, 80, [Cafes], [Financial District], 10038, false 
+Nelson Blue, 3.5, 165, [Gastropubs], [Financial District | South Street Seaport], 10038, false 
+Melt Shop, 4.0, 64, [American (Traditional) | Breakfast & Brunch | Sandwiches], [Financial District], 10038, false 
+
+R?ti Mediterranean Grill, 4.0, 85, [Mediterranean], [Financial District], 10038, false 
+Jeremy's Ale House, 4.0, 180, [Dive Bars | Seafood], [South Street Seaport], 10038, false 
+Sandwich House, 4.0, 155, [Sandwiches | Italian], [Financial District], 10038, false 
+BonChon Chicken, 3.5, 295, [Korean | Chicken Wings], [Financial District], 10038, false 
+Ryan Maguire's Ale House, 4.0, 68, [Pubs | American (Traditional) | Irish], [Financial District], 10038, false 
+Harry's Italian, 3.5, 279, [Pizza | Italian | Breakfast & Brunch], [Financial District], 10038, false 
+Barbalu Restaurant, 4.0, 38, [Italian], [South Street Seaport], 10038, false 
+
+Go! Go! Curry!, 4.0, 74, [Japanese], [Financial District], 10038, false 
+Potbelly Sandwich Shop, 4.0, 143, [Sandwiches], [Financial District], 10038, false 
+GRK, 3.5, 179, [Ethnic Food | Greek | Ice Cream & Frozen Yogurt], [Financial District], 10038, false 
+
+Charles' Country Pan Fried Chicken, 4.0, 137, [Southern | Barbeque | Buffets], [Harlem], 10039, false 
+La Nomade Restaurant Cafe and Bakery, 4.0, 15, [Senegalese], [Harlem], 10039, false 
+Island Spice and Southern Cuisine, 4.0, 23, [Southern], [Harlem], 10039, false 
+
+People's Choice, 3.5, 21, [Caribbean], [Harlem], 10039, false 
+
+O'Fishole Seafood, 4.0, 7, [Seafood], [Harlem], 10039, false 
+Yong Sheng, 4.5, 3, [Chinese], [Harlem], 10039, false 
+
+Cachapas y Mas, 4.0, 144, [Latin American], [Washington Heights], 10040, false 
+Locksmith Wine & Burger Bar, 4.0, 147, [Wine Bars | Burgers], [Washington Heights], 10040, false 
+New Leaf Restaurant & Bar, 3.5, 236, [American (New) | Bars], [Washington Heights], 10040, false 
+La Cabana Salvadorena, 4.0, 42, [Latin American], [Washington Heights], 10040, false 
+Tacos El Paisa, 4.0, 33, [Mexican], [Washington Heights], 10040, false 
+
+Maja's Tapas & Bar, 4.0, 8, [Spanish], [Washington Heights | Inwood], 10040, false 
+Buddha Beer Bar, 3.5, 112, [Bars | American (New)], [Washington Heights], 10040, false 
+APT 78, 3.5, 83, [Lounges | Cafes], [Washington Heights], 10040, false 
+Dyckman Express Restaurant, 3.5, 35, [Latin American | Caribbean], [Washington Heights | Inwood], 10040, false 
+
+809 Sangria Bar & Grill, 3.5, 64, [Latin American | Spanish | Bars], [Washington Heights], 10040, false 
+Kennedy Fried Chicken, 4.0, 8, [Chicken Wings], [Washington Heights], 10040, false 
+
+Riverwalk Bar & Grill, 3.5, 100, [American (Traditional) | Bars], [Roosevelt Island], 10044, false 
+
+
+
+Elim Deli Cafe, 4.5, 24, [Delis], [Upper East Side], 10065, false 
+Daniel, 4.5, 901, [French | American (Traditional) | Bars], [Upper East Side], 10065, false 
+Fatty Fish Restaurant, 4.0, 273, [Japanese | Asian Fusion | Sushi Bars], [Upper East Side], 10065, false 
+Tony 'The Dragon' Dragonas, 4.5, 74, [Food Stands], [Upper East Side], 10065, false 
+JoJo, 4.0, 396, [American (New) | French], [Upper East Side], 10065, false 
+Tiella, 4.0, 86, [Italian], [Upper East Side], 10065, false 
+El Porron, 4.0, 152, [Spanish | Tapas/Small Plates], [Upper East Side], 10065, false 
+The Nuaa, 4.0, 124, [Thai], [Upper East Side], 10065, false 
+
+Moti Mahal Delux, 4.0, 167, [Indian], [Upper East Side], 10065, false 
+Yakitori Tori Shin, 4.0, 194, [Japanese], [Upper East Side], 10065, false 
+Marché du Sud, 4.0, 106, [French], [Upper East Side], 10065, false 
+Bel Ami, 4.0, 58, [French], [Upper East Side], 10065, false 
+Serena's Wine Bar Cafe, 4.0, 28, [Wine Bars | Cafes], [Upper East Side], 10065, false 
+Mon Petit Cafe, 3.5, 180, [French], [Upper East Side], 10065, false 
+
+Fig & Olive, 3.5, 267, [Italian | Mediterranean | French], [Upper East Side], 10065, false 
+Honky Tonk Tavern, 4.0, 74, [Bars | Tex-Mex | Cajun/Creole], [Upper East Side], 10065, false 
+
+Pier i Cafe, 4.0, 222, [American (Traditional)], [Upper West Side], 10069, false 
+
+Blu Cafe, 4.0, 13, [Cafes], [Upper West Side], 10069, false 
+
+Communal, 4.0, 41, [Salad | Pizza | American (New)], [Upper West Side], 10069, false 
+
+Heidi's House, 4.5, 251, [Comfort Food], [Upper East Side | Yorkville], 10075, false 
+Uva, 4.0, 1067, [Italian], [Upper East Side | Yorkville], 10075, false 
+Mamagyro, 4.0, 179, [Greek], [Upper East Side], 10075, false 
+The Meatball Shop, 3.5, 206, [American (Traditional) | Italian], [Upper East Side | Yorkville], 10075, false 
+Dos Toros Taqueria, 4.0, 180, [Mexican], [Upper East Side], 10075, false 
+Sojourn, 4.0, 247, [American (New) | Tapas/Small Plates], [Upper East Side | Yorkville], 10075, false 
+
+Yefsi Estiatorio, 4.0, 123, [Greek | Mediterranean], [Upper East Side | Yorkville], 10075, false 
+Caffe Noi, 4.0, 124, [Italian | Coffee & Tea | Cafes], [Upper East Side | Yorkville], 10075, false 
+Atlantic Grill, 4.0, 329, [Seafood | Sushi Bars | American (New)], [Upper East Side | Yorkville], 10075, false 
+
+Le Moulin a Cafe, 4.0, 167, [French | Cafes | Desserts], [Upper East Side | Yorkville], 10075, false 
+Burger One, 4.0, 61, [Burgers | Mexican], [Upper East Side], 10075, false 
+Boqueria, 4.0, 11, [Tapas/Small Plates | Spanish | Tapas Bars], [Upper East Side | Yorkville], 10075, false 
+
+
+
+
+
+
+
+
+Brasserie Ruhlmann, 3.5, 132, [French | Brasseries], [Midtown West], 10111, false 
+
+
+
+
+Cucina & Company At Rockefeller Plaza, 3.0, 52, [Italian], [Midtown West], 10112, false 
+Rainbow Room, 3.5, 75, [Dance Clubs | Breakfast & Brunch | American (New)], [Midtown West], 10112, false 
+
+
+
+
+Tracks Raw Bar & Grill, 4.0, 131, [Pubs | Seafood | Live/Raw Food | American (Traditional)], [Midtown West], 10119, false 
+
+
+
+La Tarte Flambée, 4.5, 263, [French | Breakfast & Brunch | Desserts], [Upper East Side | Yorkville], 10128, false 
+Drunken Munkey NYC, 4.5, 136, [Indian | Cocktail Bars], [Upper East Side | Yorkville], 10128, false 
+Pio Pio, 4.0, 500, [Latin American | Peruvian], [Upper East Side | Yorkville], 10128, false 
+Frere de Lys, 4.5, 49, [French | Desserts | Breakfast & Brunch], [Upper East Side | Yorkville], 10128, false 
+DTUT, 4.0, 149, [Bars | Cafes], [Upper East Side | Yorkville], 10128, false 
+Il Salumaio, 4.5, 38, [American (New) | Italian], [Upper East Side | Yorkville], 10128, false 
+International Wings Factory, 4.5, 93, [Chicken Wings | Burgers | Sandwiches], [Upper East Side | Yorkville], 10128, false 
+Nick's Pizza, 4.0, 278, [Italian | Pizza], [Upper East Side | Yorkville], 10128, false 
+Shake Shack, 4.0, 891, [Fast Food | Burgers], [Upper East Side], 10128, false 
+
+AU JUS, 4.5, 81, [Sandwiches | Salad | Comfort Food], [Upper East Side | Yorkville], 10128, false 
+The Writing Room, 4.0, 117, [American (New)], [Upper East Side | Yorkville], 10128, false 
+Table d'Hôte, 4.0, 79, [French], [Upper East Side], 10128, false 
+Cafe D'Alsace, 4.0, 569, [French | Breakfast & Brunch | Sandwiches], [Upper East Side | Yorkville], 10128, false 
+Vinus and Marc, 4.0, 65, [Breakfast & Brunch | Cocktail Bars], [Upper East Side | Yorkville], 10128, false 
+Noodle Fun, 4.5, 31, [Chinese], [Upper East Side | Yorkville], 10128, false 
+Sfoglia Restaurant, 4.0, 172, [Italian], [Upper East Side], 10128, false 
+
+Sarabeth's, 3.5, 361, [American (Traditional) | Breakfast & Brunch], [Upper East Side], 10128, false 
+Naruto Ramen, 3.5, 484, [Ramen], [Upper East Side | Yorkville], 10128, false 
+Ichiro, 4.0, 212, [Sushi Bars | Japanese], [Upper East Side | Yorkville], 10128, false 
+Vietnaam, 4.0, 82, [Vietnamese], [Upper East Side | Yorkville], 10128, false 
+Pinocchio Ristorante, 4.0, 122, [Italian], [Upper East Side | Yorkville], 10128, false 
+Third Avenue Ale House, 4.0, 123, [Pubs | American (New)], [Upper East Side | Yorkville], 10128, false 
+San Matteo Pizza and Espresso Bar, 4.0, 210, [Pizza], [Upper East Side | Yorkville], 10128, false 
+
+
+
+
+
+
+Via Quadronno Cafe, 3.0, 7, [Sandwiches | Cafes], [Midtown East], 10153, false 
+
+
+
+
+
+
+
+
+6b, 5.0, 5, [Delis | Buffets], [Midtown East | Murray Hill], 10165, false 
+
+
+
+'wichcraft, 3.0, 40, [Sandwiches], [Midtown East], 10167, false 
+Oaxaca Mexican Grill, 3.0, 74, [Mexican], [Midtown East], 10167, false 
+
+Aom Jai Thai Food Stall, 5.0, 2, [Thai], [Midtown East], 10167, false 
+
+Previti Pizza, 4.0, 180, [Pizza], [Midtown East | Murray Hill], 10168, false 
+
+
+Pret A Manger, 4.0, 42, [Sandwiches | Coffee & Tea | Breakfast & Brunch], [Midtown East], 10168, false 
+FIKA, 3.5, 17, [Coffee & Tea | Scandinavian | Cafes], [Midtown East | Murray Hill], 10168, false 
+
+
+Lea Wine Bar, 3.5, 82, [Wine Bars | Lounges | Tapas/Small Plates], [Midtown East], 10169, false 
+
+Grand Cafe, 3.5, 10, [Delis], [Midtown East], 10169, false 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manon Café, 4.0, 30, [Coffee & Tea | Belgian], [Financial District], 10271, false 
+
+
+The Capital Grille, 4.0, 254, [Steakhouses | American (Traditional)], [Financial District], 10271, false 
+
+
+
+
+
+
+
+
+Merchants River House, 3.5, 139, [American (Traditional)], [Battery Park], 10280, false 
+
+Southwest NY, 3.0, 228, [Tex-Mex | Mexican | American (Traditional)], [Battery Park], 10280, false 
+
+North End Grill, 4.0, 182, [American (New)], [Battery Park], 10282, false 
+Shake Shack, 4.0, 528, [Burgers | Fast Food], [Battery Park], 10282, false 
+
+Blue Smoke, 3.5, 207, [Southern | Barbeque], [Battery Park], 10282, false 
+
+
+Enoteca Maria, 4.0, 138, [Italian], , 10301, false 
+Taco Azteca, 4.5, 35, [Mexican], , 10301, false 
+Beso, 4.0, 178, [Spanish | Tapas Bars], [St. George], 10301, false 
+Adobe Blues, 4.0, 139, [Mexican | Tex-Mex], [New Brighton], 10301, false 
+Craft House, 4.5, 24, [Barbeque | Gastropubs | Lounges], [Tompkinsville], 10301, false 
+Marie's Gourmet, 4.0, 57, [Delis | Italian], [Silver Lake], 10301, false 
+New Asha Sri Lanka Restaurant, 4.0, 50, [Indian | Asian Fusion], [Tompkinsville], 10301, false 
+The Gavel Grill, 4.5, 17, [Diners], , 10301, false 
+Fiesta Poblana, 4.0, 56, [Mexican], , 10301, false 
+Pier 76, 3.5, 49, [Italian | Pizza], , 10301, false 
+
+120 Bay Cafe, 3.5, 28, [American (Traditional) | Bars | Burgers], [Tompkinsville], 10301, false 
+Crispy Pizza, 3.5, 20, [Pizza], [New Brighton], 10301, false 
+San Rasa, 5.0, 5, [Asian Fusion], , 10301, false 
+
+Giuseppe's Pizza, 5.0, 4, [Pizza], , 10301, false 
+Ruddy and Dean's, 3.5, 34, [Steakhouses], [St. George], 10301, false 
+
+Denino's Pizzeria Tavern, 4.0, 256, [Pizza], [Elm Park], 10302, false 
+Miyabi Asian Fusion, 4.5, 60, [Sushi Bars | Japanese | Thai], [Westerleigh], 10302, false 
+John's Famous Deli, 4.5, 26, [Delis | Breakfast & Brunch | Sandwiches], [Elm Park], 10302, false 
+Lunchbox, 4.0, 49, [American (New) | Fast Food], [Westerleigh], 10302, false 
+Rinconcito Paisa, 4.0, 27, [Latin American], [Graniteville], 10302, false 
+Gyro King, 4.0, 19, [American (New) | Halal], [Westerleigh], 10302, false 
+Empire Szechuan Restaurant, 4.0, 23, [Chinese], [Westerleigh], 10302, false 
+Brother's Pizzeria, 4.0, 84, [Pizza], [Elm Park], 10302, false 
+
+Hibachi Grill and Supreme Buffet, 3.0, 61, [Buffets | American (Traditional) | Chinese], [Elm Park], 10302, false 
+El Lobito Loco Corporation, 5.0, 2, [Mexican], [Elm Park], 10302, false 
+Piccolo Pinos Pizzeria, 3.5, 3, [Pizza], [Elm Park], 10302, false 
+Olympic Grill Diner, 3.0, 21, [Diners], [Elm Park], 10302, false 
+
+Number One Chinese Kitchen, 4.5, 3, [Chinese], [Port Richmond], 10302, false 
+Los Potrillos, 5.0, 1, [Mexican], [Port Richmond], 10302, false 
+Crown Palace, 4.0, 7, [Chinese], [Westerleigh], 10302, false 
+Boston Market, 3.5, 5, [Caterers | Comfort Food | American (Traditional)], [Elm Park], 10302, false 
+Michelangelo's Pizza, 4.5, 2, [Pizza], [Elm Park], 10302, false 
+
+Upper Crust, 4.5, 23, [Pizza | Italian], [Mariner], 10303, false 
+Joe Broadway's Billiards & Sports Pub, 4.0, 36, [Pool Halls | Bars | American (New)], [Graniteville], 10303, false 
+Yummy Machi, 4.5, 8, [Japanese | Bubble Tea | Chicken Wings], [Arlington], 10303, false 
+Real Madrid Restaurant, 3.5, 50, [Spanish], [Graniteville], 10303, false 
+Zio Nino, 4.5, 9, [Pizza], [Graniteville], 10303, false 
+
+Food Express Truck, 4.5, 5, [Food Stands], , 10303, false 
+Bella Mama Rose, 4.0, 22, [Italian], [Mariner], 10303, false 
+R.A. Deli Dominican Food, 4.0, 14, [Dominican], [Graniteville], 10303, false 
+Mama Rosaria's Pizza, 3.5, 11, [Pizza], [Graniteville], 10303, false 
+
+La Campena, 3.5, 7, [Mexican], [Mariner], 10303, false 
+Charlie Brown's Steakhouse, 2.5, 46, [Steakhouses | Lounges], [Graniteville], 10303, false 
+
+Gatsby's On The Bay, 4.5, 48, [American (New) | Desserts], [Stapleton], 10304, false 
+Lakruwana, 4.5, 77, [Asian Fusion | Juice Bars & Smoothies | Indian], [Stapleton], 10304, false 
+Nakata, 4.5, 46, [Japanese], [Grant City], 10304, false 
+
+El Pollo Restaurant & Bar, 4.0, 16, [Spanish], , 10304, false 
+Vida, 4.0, 31, [American (New) | American (Traditional)], [Stapleton], 10304, false 
+Max's Es-Ca Restaurant & Bar, 3.5, 42, [Italian | Bars], [Todt Hill | Dongan Hills], 10304, false 
+
+Tapas Restaurant & Bar, 3.5, 44, [Spanish | Tapas/Small Plates], [Stapleton], 10304, false 
+Carol's Cafe & Pub, 4.0, 20, [Restaurants | Cooking Schools], [Dongan Hills], 10304, false 
+
+Bayou, 4.0, 168, [Cajun/Creole | Southern], [Clifton], 10305, false 
+Lee's Tavern, 4.5, 163, [Pizza], [Dongan Hills], 10305, false 
+The Phunky Elephant, 4.0, 81, [American (New) | Gastropubs | Cocktail Bars], [Shore Acres], 10305, false 
+Basilio Inn, 4.5, 22, [Italian | American (New)], , 10305, false 
+Royal Crown Bakery, 4.0, 116, [Italian | Bakeries], [Old Town], 10305, false 
+Trattoria Romana, 4.0, 67, [Italian], [Old Town], 10305, false 
+Bin 5, 4.5, 39, [Italian], [Shore Acres], 10305, false 
+Nino's Restaurant, 4.0, 37, [Italian], [Grasmere], 10305, false 
+Tony's Brick Oven, 4.0, 36, [Pizza], [Clifton], 10305, false 
+Cielo Restaurant, 4.5, 10, [Italian], [Old Town], 10305, false 
+Lobster House Joe's, 3.5, 75, [Seafood], [Grant City], 10305, false 
+Zest Restaurant, 4.0, 40, [French], [Clifton], 10305, false 
+
+Incas Grill Peruvian Cuisine, 4.5, 14, [Peruvian], [Concord], 10305, false 
+Ariemma's Italian Deli, 4.5, 16, [Delis], [Dongan Hills], 10305, false 
+Goodfellas, 3.5, 81, [Pizza | Italian], [Dongan Hills], 10305, false 
+Chinar On the Island, 4.0, 12, [Russian | Mediterranean], [Arrochar], 10305, false 
+Pasticceria Bruno, 3.5, 70, [Bakeries | Italian | Breakfast & Brunch], [Dongan Hills], 10305, false 
+Da Noi Restaurant, 4.0, 31, [Italian], [Grasmere], 10305, false 
+Maizal, 3.5, 67, [Mexican], [Clifton], 10305, false 
+Paco's Mexican Bistro, 3.5, 82, [Mexican], [Dongan Hills], 10305, false 
+South Fin Grill, 3.0, 74, [Seafood | American (New)], [Arrochar], 10305, false 
+New Win Hing, 4.0, 14, [Chinese], [Shore Acres], 10305, false 
+
+
+Hokkaido, 4.5, 53, [Food | Sushi Bars], [Bay Terrace], 10306, false 
+Pizzeria Giove, 4.5, 101, [Italian], [Oakwood | New Dorp], 10306, false 
+Chikurin, 4.5, 17, [Sushi Bars | Japanese], [Oakwood | New Dorp], 10306, false 
+La Strada Restaurant, 4.5, 32, [Italian], [Oakwood | New Dorp], 10306, false 
+Alor Pasta, 5.0, 20, [Italian | Comfort Food | American (New)], [Oakwood | New Dorp], 10306, false 
+Brioso, 4.0, 26, [Italian], [Oakwood | New Dorp], 10306, false 
+
+Jade Asian Bistro, 4.0, 27, [Asian Fusion | Chinese], [Oakwood | New Dorp], 10306, false 
+Alor Cafe, 3.5, 68, [American (New) | Breakfast & Brunch | Lounges], [Grant City], 10306, false 
+Empire East, 4.0, 51, [Chinese | Thai | Asian Fusion], [Oakwood | New Dorp], 10306, false 
+Sorry Babushka, 4.0, 15, [Russian], [Grant City], 10306, false 
+
+French Tart Chez Laurent, 4.5, 21, [French], [Grant City], 10306, false 
+Fresh Tortillas & Taco, 3.5, 36, [Mexican], [Oakwood | New Dorp], 10306, false 
+Zaghloul Grill, 4.5, 13, [Mediterranean | Vegetarian | Halal], [Oakwood | New Dorp], 10306, false 
+Canlon's Restaurant, 4.0, 18, [American (Traditional)], [Oakwood], 10306, false 
+John's Deli, 4.0, 13, [Delis | Italian], [Oakwood | New Dorp], 10306, false 
+
+Reggiano's, 4.0, 20, [Pizza], [Tottenville], 10307, false 
+Towne Deli & Pizza, 4.0, 25, [Pizza], [Tottenville], 10307, false 
+Kim's Island, 4.0, 14, [Chinese], [Tottenville], 10307, false 
+Da Nico's Ristorante, 4.5, 4, [Italian], [Tottenville], 10307, false 
+Tottenville Tavern, 3.5, 9, [Pizza | Burgers | Italian], [Tottenville], 10307, false 
+Port Atlantic Yacht Club, 4.0, 9, [Italian], , 10307, false 
+La Bella Marketplace, 4.5, 16, [Grocery | American (Traditional) | Italian], [Richmond Valley], 10307, false 
+Docks Clam Bar, 3.5, 31, [Seafood], , 10307, false 
+Sotto Sopra, 5.0, 1, [Italian], [Tottenville], 10307, false 
+
+Surv Kitchen & Lounge, 4.5, 2, [Seafood | Lounges | Caterers], , 10307, false 
+Villa Monte Pizzeria, 4.0, 4, [Caterers | Italian | Pizza], , 10307, false 
+Villaggio Pizzaria Restaurante, 3.0, 7, [Pizza], [Tottenville], 10307, false 
+Taqueria Oaxaca, 3.0, 2, [Mexican], [Tottenville], 10307, false 
+Tiki Island, 2.5, 14, [Lounges | Italian], , 10307, false 
+Chef Hong's Restaurant, 4.5, 2, [Restaurants], [Richmond Valley], 10307, false 
+Rocky Toto's Original Italian Restaurant, 4.0, 1, [Italian], [Tottenville], 10307, false 
+
+Dani's Italian Bistro, 2.0, 1, [Restaurants], [Tottenville], 10307, false 
+Coconut, 4.5, 2, [Australian | Asian Fusion], [Richmond Valley], 10307, false 
+McDonald's, 1.5, 6, [Fast Food], , 10307, false 
+Rachel's On The Bay, 2.0, 1, [Sandwiches], [Tottenville], 10307, false 
+E Squared Cafe, 4.0, 8, [Hookah Bars | Cafes], , 10307, false 
+
+Patrizias Pizza and Pasta, 4.0, 63, [Italian | Pizza], [Great Kills], 10308, false 
+Nonna's Pizzeria, 4.0, 45, [Pizza], [Great Kills], 10308, false 
+Piccolino Ristorante, 4.5, 11, [Italian], [Great Kills], 10308, false 
+Giuliana's, 4.5, 15, [Italian], [Great Kills], 10308, false 
+Coles Dockside Restaurant, 4.0, 24, [Seafood], [Great Kills], 10308, false 
+Standard Burger, 3.5, 35, [Burgers], [Great Kills], 10308, false 
+The Marina Cafe, 3.0, 81, [Seafood | Lounges | Beer  Wine & Spirits | Cafes], [Great Kills], 10308, false 
+Andrew's Diner, 3.5, 48, [Diners | Steakhouses | Seafood], [Great Kills], 10308, false 
+Trends, 3.5, 17, [American (Traditional)], [Great Kills], 10308, false 
+Jimmy Max, 4.0, 5, [Pizza], , 10308, false 
+Labella, 3.5, 19, [Italian], [Great Kills], 10308, false 
+Genki Sushi, 4.0, 6, [Japanese | Cocktail Bars], , 10308, false 
+Portobello Cafe, 3.5, 61, [Italian | Cafes | American (New)], [Great Kills], 10308, false 
+Dugout Pub South, 4.0, 13, [American (New) | Sports Bars], [Great Kills], 10308, false 
+Cucumber Sushi & Salad Bar, 4.0, 22, [Sushi Bars | Salad], [Great Kills], 10308, false 
+
+La Candela Espanola, 3.5, 41, [Spanish | Mexican], [Great Kills], 10308, false 
+Lucky Fortune Chinese Restaurant, 3.5, 17, [Chinese], [Great Kills], 10308, false 
+Fiore Di Mare, 3.5, 12, [Caterers | Italian], [Great Kills], 10308, false 
+Village Maria Pizza, 3.0, 15, [Pizza | Caterers], [Great Kills], 10308, false 
+Pacific Kitchen, 3.5, 17, [Chinese], [Great Kills], 10308, false 
+The Bomond, 4.5, 3, [Russian], [Great Kills], 10308, false 
+Sake One, 3.0, 17, [Sushi Bars], [Great Kills], 10308, false 
+
+Arirang Hibachi Steakhouse and Sushi Bar, 3.5, 41, [Sushi Bars | Steakhouses | Japanese], [Great Kills], 10308, false 
+Sombrero's Mexican Restaurant, 4.0, 1, [Mexican], [Great Kills], 10308, false 
+Sunny Palace, 4.0, 10, [Japanese | Chinese], [Great Kills], 10308, false 
+Goodfellas Inferno, 5.0, 1, [Pizza | Italian], [Great Kills], 10308, false 
+Benvenuti Pizzeria & Trattoria, 4.0, 5, [Pizza | Italian], [Great Kills], 10308, false 
+Puglia by The Sea, 1.5, 13, [Italian], [Great Kills], 10308, false 
+Ho Wok, 3.0, 5, [Restaurants], [Great Kills], 10308, false 
+
+DaddyO's BBQ and Sports Bar, 4.0, 115, [Barbeque | Sports Bars | American (New)], , 10309, false 
+Artisan Bakers Group, 5.0, 9, [Sandwiches], , 10309, false 
+Zio Toto, 4.0, 50, [Italian], , 10309, false 
+Misaki Sushi, 4.5, 17, [Japanese | Sushi Bars], [Rossville], 10309, false 
+Killmeyer's Old Bavaria Inn, 3.5, 55, [German], , 10309, false 
+Cucumber Sushi and Salad Bar, 4.0, 36, [Japanese | Sushi Bars | Asian Fusion], [Huguenot], 10309, false 
+Nucci's South, 3.5, 26, [Italian], , 10309, false 
+Aunt Butchies Cafe & Bakery, 3.5, 21, [Italian | Bakeries], , 10309, false 
+Muscle Maker Grill, 4.0, 12, [American (New)], , 10309, false 
+Woodrow Diner, 3.5, 41, [Diners], [Rossville], 10309, false 
+Z Two Lounge, 3.0, 53, [Diners | Lounges | American (New)], [Charleston], 10309, false 
+
+Cheeburger Cheeburger, 3.0, 42, [Burgers], [Charleston], 10309, false 
+Fratelli Pizzeria & Pasticceria, 3.5, 9, [Italian | Caterers], [Huguenot], 10309, false 
+Page Plaza Diner, 3.5, 33, [American (Traditional)], , 10309, false 
+Bakeshops Staten Island, 4.5, 12, [Bakeries | Desserts | Sandwiches], , 10309, false 
+Il Forno of Brooklyn, 4.5, 5, [Pizza], [Princes Bay], 10309, false 
+Cabo, 3.0, 51, [Mexican | Cafes], , 10309, false 
+Domenico's Pizzeria, 4.0, 10, [Pizza | Italian], [Huguenot], 10309, false 
+Pino's Pizzeria, 4.0, 6, [Pizza], [Rossville], 10309, false 
+
+Cafe Luna, 3.0, 12, [Italian], , 10309, false 
+Arena Steakhouse & Lounge, 3.0, 13, [American (New) | Bars | Steakhouses], , 10309, false 
+The Old Bermuda Inn, 4.0, 3, [Restaurants], , 10309, false 
+
+Nurnberger Bierhaus, 4.5, 73, [German], [West Brighton], 10310, false 
+Pastosa Ravioli, 4.5, 19, [Italian], [West Brighton], 10310, false 
+On Your Mark Cafe, 5.0, 7, [Breakfast & Brunch], [West Brighton], 10310, false 
+Pasticceria Bruno, 3.5, 71, [Bakeries | Italian], [West Brighton], 10310, false 
+Blue, 3.5, 93, [Mediterranean | Seafood | Asian Fusion], [Randall Manor], 10310, false 
+Burrito Bar, 3.0, 83, [Mexican], [West Brighton], 10310, false 
+Sumac, 3.5, 26, [Mediterranean], [Westerleigh], 10310, false 
+Panini Grill, 3.5, 33, [Pizza | Italian], [West Brighton], 10310, false 
+Nurnberger Bierhalle, 5.0, 6, [Bars | German], [West Brighton], 10310, false 
+Nucci's Restaurant, 3.5, 29, [Pizza], [West Brighton], 10310, false 
+
+Li Greci's Staaten, 4.0, 20, [American (New) | Caterers], [West Brighton], 10310, false 
+Drunken Monkey Bar & Grill, 3.5, 19, [Bars | American (New)], [Westerleigh], 10310, false 
+Call It A Wrap, 3.5, 34, [Health Markets | Sandwiches | Vegetarian], [Westerleigh], 10310, false 
+Forest BBQ, 3.5, 10, [Barbeque], [West Brighton], 10310, false 
+Vincent's Bagels, 4.5, 8, [Italian | Sandwiches], [West Brighton], 10310, false 
+Forest Thai Cuisine, 3.5, 52, [Thai], [Westerleigh], 10310, false 
+Metro Pizzeria & Restaurant, 4.0, 5, [Pizza], [Westerleigh], 10310, false 
+Indiglo Restaurant and Bar, 3.0, 20, [American (New) | Lounges], [West Brighton], 10310, false 
+Green Garden, 4.0, 14, [Chinese], [West Brighton], 10310, false 
+
+Crustini Pizza, 4.5, 3, [Italian | Pizza], [Elm Park], 10310, false 
+Pronto Pizza, 3.5, 7, [Pizza | Italian | Food Delivery Services], [West Brighton], 10310, false 
+The Randall Manor Tavern, 3.5, 10, [Bars | American (New)], [Westerleigh], 10310, false 
+Dick's Delicatessen, 3.5, 10, [Delis], [West Brighton], 10310, false 
+Kings Arms Restaurant, 2.5, 20, [Restaurants], [West Brighton], 10310, false 
+
+Commons Cafe, 2.5, 5, [Cafes], , 10311, false 
+
+
+
+Ocean Sushi, 4.5, 29, [Sushi Bars], [Annadale], 10312, false 
+Genki Sushi, 4.0, 58, [Japanese], [Arden Heights], 10312, false 
+
+Peking Taste, 4.5, 12, [Chinese], [Arden Heights], 10312, false 
+
+Chopsticks House, 4.5, 5, [Chinese], [Huguenot], 10312, false 
+PK's, 3.5, 33, [American (New)], , 10312, false 
+Twisted Dish Tavern, 3.5, 30, [Comfort Food], [Annadale], 10312, false 
+
+MaDang, 4.5, 32, [Korean], [Castleton Corners], 10314, false 
+Joe & Pat's, 4.0, 144, [Pizza | Italian], , 10314, false 
+Da Noi, 4.0, 26, [Italian], [Chelsea], 10314, false 
+
+Holy Schnitzel, 4.0, 19, [Fast Food], [Heartland Village], 10314, false 
+SoGoGooGoSushi, 4.0, 26, [Sushi Bars | Japanese], , 10314, false 
+Pho Mac Vietnamese Restaurant, 3.5, 95, [Vietnamese], [Bullshead], 10314, false 
+Villa Monte, 3.5, 54, [Pizza], , 10314, false 
+West Shore Inn, 3.5, 27, [Steakhouses | Seafood | Sandwiches], [Chelsea], 10314, false 
+Miller's Staten Island Ale House, 2.5, 107, [Seafood], [Heartland Village], 10314, false 
+Jade Island, 3.5, 72, [Chinese], [Heartland Village], 10314, false 
+
+Staten Island Diner, 4.0, 29, [Diners], , 10314, false 
+Better Gourmet Health Kitchen, 3.5, 22, [Pizza], [Chelsea], 10314, false 
+Mitoushi, 3.5, 75, [Sushi Bars | Japanese], [Bullshead], 10314, false 
+
+Franco's, 4.5, 26, [Juice Bars & Smoothies | Sandwiches], [Mott Haven], 10451, false 
+Giovanni's Restaurant, 3.5, 93, [Italian | Bakeries | Pizza], [Concourse Village], 10451, false 
+
+Sam's Soul Food Restaurant Bar & Lounge, 3.5, 29, [Soul Food | Lounges], [Concourse Village], 10451, false 
+Sunlight Restaurant, 4.0, 16, [Diners], [Mott Haven], 10451, false 
+Yankee Bar & Grill, 4.0, 10, [American (Traditional)], [Concourse Village], 10451, false 
+
+Angies Cafe & Pizza, 4.0, 11, [Pizza], [Mott Haven], 10451, false 
+La Isla Cuchifrito, 4.5, 6, [Spanish | Latin American], [Mott Haven], 10451, false 
+Hard Rock Cafe, 3.5, 51, [American (Traditional)], [Concourse Village], 10451, false 
+
+Corner Style Jamaican & American, 5.0, 12, [Caribbean | American (New)], [Concourse], 10452, false 
+Feeding Tree, 4.0, 35, [Caribbean], [Concourse Village], 10452, false 
+
+Carl's Steaks, 4.5, 6, [Steakhouses], [High Bridge], 10452, false 
+
+Yoly Restaurant, 4.0, 8, [Latin American], [Morris Heights], 10452, false 
+Justin Restaurant, 3.0, 15, [American (New) | Dominican], [Concourse], 10452, false 
+Banana Deli, 4.5, 5, [Delis], [Concourse Village], 10452, false 
+Emergency Snack Bar, 4.0, 5, [Juice Bars & Smoothies | Sandwiches | Dominican], [Mount Eden], 10452, false 
+Win Hing Restaurant, 4.0, 8, [Restaurants], [Concourse], 10452, false 
+
+
+Elena's Restaurant Authentic Mexican Cusine, 4.0, 11, [Mexican | Juice Bars & Smoothies | Italian], [Morris Heights], 10453, false 
+
+
+Ceetay, 4.5, 94, [Sushi Bars | Asian Fusion | Thai], [Mott Haven], 10454, false 
+Pio Pio, 4.0, 68, [Latin American | Peruvian], [Mott Haven], 10454, false 
+La Morada Restaurant, 4.5, 26, [Mexican], [Mott Haven], 10454, false 
+Charlie's Bar & Kitchen, 4.5, 41, [American (New) | Cocktail Bars], , 10454, false 
+The Bruckner Bar & Grill, 4.0, 145, [Bars | American (Traditional)], , 10454, false 
+
+Jimbos Hamburger Palace, 3.5, 10, [Burgers], [Mott Haven], 10454, false 
+Don Pancho's Steakhouse, 4.0, 9, [Steakhouses], [Mott Haven], 10454, false 
+
+Golden Pizza, 4.5, 7, [Pizza], [Mott Haven], 10454, false 
+
+El Atoradero, 4.5, 14, [Mexican], [Mott Haven], 10455, false 
+Mexicosina, 4.5, 26, [Mexican], [Mott Haven], 10455, false 
+Landin Mac & Cheese, 4.5, 12, [American (Traditional)], [Melrose], 10455, false 
+Fresco Pizza and Pasta, 4.0, 32, [Italian], [Mott Haven], 10455, false 
+Fishnet Seafood Cafe, 4.5, 10, [Seafood], [Mott Haven], 10455, false 
+La Granja Peruvian Restaurant, 4.5, 6, [Peruvian], [Mott Haven], 10455, false 
+Xochimilco Family Restaurant, 4.0, 20, [Mexican], [Melrose], 10455, false 
+Mexicozina, 4.5, 16, [Mexican | Breakfast & Brunch | Sandwiches], [Mott Haven], 10455, false 
+Mexicozina Taqueria, 3.5, 6, [Mexican], [Mott Haven], 10455, false 
+Venice Restaurant & Pizzeria, 3.5, 16, [Italian | Pizza], [Mott Haven], 10455, false 
+Mexicocina, 3.0, 6, [Mexican], [Mott Haven], 10455, false 
+El Valle, 4.0, 5, [Spanish], [Melrose], 10455, false 
+Popeye's, 5.0, 2, [Fast Food], [Mott Haven], 10455, false 
+Kaylah's Hut, 4.0, 5, [American (New)], [Longwood], 10455, false 
+
+Seis Vecinos, 3.5, 5, [Latin American], [Mott Haven], 10455, false 
+El Porton, 4.5, 4, [Mexican | Bars], [Longwood], 10455, false 
+Lechonera La Piraña, 5.0, 2, [Food Stands | Latin American], [Mott Haven], 10455, false 
+Bona Pizza, 4.5, 2, [Pizza], [Mott Haven], 10455, false 
+Perry's Coffee Shop, 4.0, 10, [Delis | Coffee & Tea], [Mott Haven], 10455, false 
+El Valle Restaurant, 2.5, 11, [Mexican], [Mott Haven], 10455, false 
+
+Mama Isabel's, 3.5, 3, [Latin American], [Longwood], 10455, false 
+The Best Italian Pizza, 3.5, 2, [Italian | Pizza], [Mott Haven], 10455, false 
+Fine Style Dining, 4.0, 2, [Caribbean], [Melrose], 10455, false 
+Fresco Pizzeria, 5.0, 1, [Restaurants], [Mott Haven], 10455, false 
+New Red Star Chines Kitchen, 4.0, 2, [Restaurants], [Longwood], 10455, false 
+Pizza Hut, 2.5, 4, [Pizza | Italian | Chicken Wings], [Mott Haven], 10455, false 
+New China Restaurant, 4.0, 1, [Chinese], [Melrose], 10455, false 
+Delicioso Restaurant, 3.0, 8, [Mexican], [Mott Haven], 10455, false 
+
+Tiny's Pizza-N-Pasta, 3.5, 24, [Pizza], [Concourse], 10456, false 
+El Nuevo Bohio, 3.5, 12, [Spanish | Basque], [Morrisania], 10456, false 
+Papaye Restaurant, 3.5, 14, [African], [Concourse], 10456, false 
+
+Restaurant Lechonera & Pollo Sabroso, 4.0, 6, [Caribbean | Latin American | Mexican], [Morrisania], 10456, false 
+
+
+Original Napoli Pizza, 4.0, 7, [Pizza], [East Tremont], 10457, false 
+
+La Lechonera Criolla, 4.0, 7, [Latin American], [Claremont Village], 10457, false 
+
+La Fortuna Restaurant, 4.5, 2, [Latin American], [Claremont Village], 10457, false 
+Cosmo's Restaurant, 4.5, 3, [Diners], [East Tremont], 10457, false 
+
+Trattoria Zero Otto Nove, 4.0, 305, [Italian | Pizza], [Belmont], 10458, false 
+Antonios Trattoria, 4.5, 144, [Italian], [Belmont], 10458, false 
+Tino's Delicatessen, 4.5, 99, [Delis | Cheese Shops], [Belmont], 10458, false 
+Michaelangelo's Little Italy, 4.0, 59, [Lounges | Italian | Wine Bars], [Belmont], 10458, false 
+Roberto's, 4.0, 125, [Italian], [Belmont], 10458, false 
+Dominick's, 4.0, 123, [Italian], [Belmont], 10458, false 
+Blue Mediterranean Restaurant, 4.5, 13, [Mediterranean], [Belmont], 10458, false 
+Pizza Studio, 5.0, 13, [Pizza], [Belmont], 10458, false 
+Estrellita Poblana III, 4.5, 42, [Mexican], [Belmont], 10458, false 
+Hector's Mexican Cuisine, 4.5, 10, [Mexican], [Bedford Park], 10458, false 
+Mike's Deli, 4.5, 91, [Caterers | Delis], [Belmont], 10458, false 
+Three Way Restaurant, 4.0, 24, [Latin American], , 10458, false 
+The Bronx Beer Hall, 3.5, 58, [American (New) | Pubs | Beer  Wine & Spirits], [Belmont], 10458, false 
+Estrella Poblanita, 4.5, 26, [Mexican], [Belmont], 10458, false 
+Pugsley Pizza, 4.0, 45, [Pizza | Italian], [Belmont], 10458, false 
+Arthur Avenue Cafe, 4.0, 48, [Coffee & Tea | Italian], [Belmont], 10458, false 
+
+Full Moon Pizzeria, 4.0, 92, [Pizza], [Belmont], 10458, false 
+Ok Mr. Pancho, 4.0, 21, [Mexican], , 10458, false 
+Fordham Restaurant, 4.5, 6, [Restaurants], , 10458, false 
+Cosenza's Fish Market, 4.0, 17, [Seafood | Food], [Belmont], 10458, false 
+Enzo's, 3.5, 61, [Italian], [Belmont], 10458, false 
+Fordham Fried Seafood And Chicken, 4.5, 8, [Fast Food | Halal | Seafood], [Fordham], 10458, false 
+Nicks Garden Coffee Shop, 4.5, 11, [Diners | Coffee & Tea], , 10458, false 
+Trattoria Tra di Noi, 4.0, 43, [Italian], [Belmont], 10458, false 
+Catania's Pizzeria & Cafe, 4.5, 9, [Pizza], [Belmont], 10458, false 
+Joe's Italian Deli, 4.5, 10, [Delis], [Belmont], 10458, false 
+Webster Cafe, 3.5, 20, [Cafes], , 10458, false 
+Casa Della Mozzarella Italian Deli, 4.5, 66, [Delis | Cheese Shops], [Belmont], 10458, false 
+Pete's Cafe, 3.5, 25, [American (Traditional) | Italian | Mexican], [Belmont], 10458, false 
+
+Healthy Fresh, 4.5, 8, [Delis | Salad], [Belmont], 10458, false 
+Umai Fusion, 3.5, 44, [Sushi Bars | Asian Fusion], [Belmont], 10458, false 
+The Blend Cafe, 4.0, 10, [Coffee & Tea | Cafes], [Belmont], 10458, false 
+Giovanni, 3.0, 35, [Pizza | Italian], [Belmont], 10458, false 
+Gerbasi Ristorante, 3.5, 21, [Italian], [Belmont], 10458, false 
+La Dolce Vita, 5.0, 4, [Italian | Delis], [Belmont], 10458, false 
+Planet Wings, 3.5, 22, [Fast Food | Chicken Wings], [Belmont], 10458, false 
+
+Real Azteca, 3.5, 11, [Mexican], [Longwood], 10459, false 
+King Grill, 4.0, 3, [Latin American | Spanish | Dominican], [Morrisania], 10459, false 
+
+Tulcimex Corporation, 4.5, 4, [Delis | Sandwiches | Mexican], [Claremont Village], 10459, false 
+El Valle Restaurant, 3.5, 6, [American (New)], [Morrisania], 10459, false 
+
+Kennedy Fried Chicken, 5.0, 4, [Chicken Wings], [Longwood], 10459, false 
+
+El Nuevo Bohio Lechonera, 3.5, 30, [Latin American | Spanish], [East Tremont], 10460, false 
+
+El Salvadoreño, 4.5, 5, [Spanish], [West Farms], 10460, false 
+El Bohio Lechonera, 4.5, 12, [Spanish | Puerto Rican], [East Tremont], 10460, false 
+
+
+Havana Cafe, 4.0, 170, [Cuban | Latin American], [Schuylerville], 10461, false 
+Louie & Ernie's Pizza, 4.5, 82, [Pizza], [Schuylerville], 10461, false 
+Kai Sushi Asian Fusion, 4.0, 58, [Asian Fusion | Japanese], [Westchester Square], 10461, false 
+Estrellita Poblana IV, 4.0, 68, [Mexican], [Westchester Square], 10461, false 
+Patricia's, 4.0, 148, [Pizza | Italian], [Morris Park], 10461, false 
+Frank's Pizzeria, 4.5, 16, [Pizza], [Country Club], 10461, false 
+Lucca, 4.0, 15, [Italian], [Pelham Bay], 10461, false 
+Mexico Magico, 4.0, 44, [Mexican], [Pelham Bay], 10461, false 
+Pine Bar & Grill, 3.5, 66, [American (New)], , 10461, false 
+Good To Go, 3.5, 51, [American (Traditional) | Italian], , 10461, false 
+Emilio's Pizza, 4.0, 51, [Pizza | Caterers | Italian], [Morris Park], 10461, false 
+15 Flavors, 4.5, 13, [Ice Cream & Frozen Yogurt | Gluten-Free], [Pelham Bay], 10461, false 
+Shangerila Restaurant, 3.5, 66, [Sushi Bars | Buffets], [Pelham Bay], 10461, false 
+
+Mangia's Brick Oven Pizza and Pasta, 4.0, 20, [Pizza], [Pelham Bay], 10461, false 
+Honey's Thai Pavilion, 3.5, 106, [Thai], [Pelham Bay], 10461, false 
+Top Tortillas, 4.0, 19, [Mexican], [Pelham Bay], 10461, false 
+Hong Kong Restaurant, 3.5, 9, [Chinese], [Morris Park], 10461, false 
+Quality Cafe And Restaurant, 4.0, 26, [Diners | Donuts], [Pelham Bay], 10461, false 
+Shamrock Inn, 4.5, 10, [American (New) | Bars], [Pelham Bay], 10461, false 
+Giovanni's Restaurant & Pizzeria, 3.5, 20, [Pizza], [Pelham Bay], 10461, false 
+Siete Ocho Siete, 3.5, 20, [Spanish], [Schuylerville], 10461, false 
+Caridad Restaurant, 3.0, 23, [Latin American | Spanish], [Westchester Square], 10461, false 
+M & R Deli and Hero Shop, 4.0, 9, [Delis], [Morris Park], 10461, false 
+Pasta-Pasta, 3.5, 30, [Italian], [Morris Park], 10461, false 
+Tremont Diner, 3.0, 19, [Diners], [Schuylerville], 10461, false 
+
+Sushi Q, 3.5, 32, [Sushi Bars | Japanese], [Country Club], 10461, false 
+El Bohio Tropical Square Restaurant Corp, 3.5, 8, [Spanish], [Westchester Square], 10461, false 
+The Famous Emilio's Pizza, 3.5, 7, [Italian | Pizza | Food Delivery Services], , 10461, false 
+Cestra's Pizza, 4.5, 11, [Pizza], [Westchester Square], 10461, false 
+Babalu, 3.0, 99, [Latin American | Cuban], [Schuylerville], 10461, false 
+Caribe Seafood, 4.5, 3, [Caribbean], [Pelham Bay], 10461, false 
+China Palace, 4.5, 3, [Chinese], [Country Club], 10461, false 
+Captain Pizzeria, 3.5, 36, [Pizza | Italian], [Morris Park], 10461, false 
+George's Restaurant, 3.0, 23, [Diners], [Pelham Bay], 10461, false 
+East Dynasty, 5.0, 2, [Szechuan], [Pelham Bay], 10461, false 
+
+Taqueria Tlaxcalli, 4.5, 209, [Mexican], [Parkchester], 10462, false 
+Estrellita Poblana, 4.5, 92, [Mexican], [Unionport], 10462, false 
+Sabrosura Restaurant, 4.0, 104, [Chinese | Latin American], [Unionport], 10462, false 
+Neerob, 4.5, 59, [Indian | Bangladeshi], [Parkchester], 10462, false 
+PBQ Smokehouse BBQ, 4.0, 26, [Barbeque], [Van Nest], 10462, false 
+Domand Deli & Caterers, 5.0, 7, [Delis | Sandwiches], [Unionport], 10462, false 
+John & Joe's Pizzeria, 4.5, 66, [Pizza], [Pelham Gardens], 10462, false 
+The Oasis Mediterranean Restaurant, 4.0, 11, [Middle Eastern], , 10462, false 
+George's Diner & Cafe, 4.0, 27, [Diners], [Westchester Square], 10462, false 
+F & J Pine Restaurant, 3.5, 166, [Italian], [Van Nest], 10462, false 
+Chick N Ribs, 4.0, 15, [Soul Food | Barbeque | American (Traditional)], [Van Nest], 10462, false 
+Brisas Del Caribe, 3.5, 66, [Latin American | Caribbean], [Unionport], 10462, false 
+Venice Pizzeria & Restaurant, 4.0, 15, [Pizza | Italian], [Parkchester], 10462, false 
+Golden Eagle Restaurant, 4.0, 24, [Diners], [Morris Park], 10462, false 
+
+900 Park, 3.5, 51, [Italian], [Morris Park], 10462, false 
+La Cocina Boricua, 3.5, 51, [Latin American | Spanish | Puerto Rican], [Unionport], 10462, false 
+Ellie's Coffee Shop, 3.5, 36, [Diners], [Parkchester], 10462, false 
+Chilly Chicken, 3.0, 5, [Asian Fusion], [Parkchester], 10462, false 
+Taqueria Los Reyes, 4.5, 4, [Mexican], [Parkchester], 10462, false 
+Luciano Pizza, 4.5, 8, [Pizza], [Morris Park], 10462, false 
+Step In Restaurant, 3.5, 30, [Lounges | American (Traditional)], [Parkchester], 10462, false 
+Chan's Village, 5.0, 3, [Restaurants], [Parkchester], 10462, false 
+EZ Grill NYC, 4.0, 15, [Mediterranean], [Pelham Gardens], 10462, false 
+
+Melanie's Roti & Grill Restaurant, 3.5, 9, [Bars | American (Traditional)], [Unionport], 10462, false 
+Sabor Latino Seafood Restaurant, 3.5, 17, [Seafood], [Parkchester], 10462, false 
+Tacos El Bronco II, 4.5, 16, [Mexican], [Pelham Gardens], 10462, false 
+Parkchester Fish & Chips Restaurant, 3.5, 10, [Fish & Chips], [Parkchester], 10462, false 
+Mr-Pizza, 4.0, 8, [Pizza], [Parkchester], 10462, false 
+The Grill House, 3.5, 11, [Middle Eastern], [Van Nest], 10462, false 
+
+Greek Express, 4.5, 101, [Greek], [Riverdale], 10463, false 
+Aoyu Sushi, 4.5, 62, [Japanese], , 10463, false 
+Picante Picante, 4.5, 45, [Mexican], [Kingsbridge], 10463, false 
+S&S Cheesecake, 4.5, 122, [Desserts | Bakeries | Kosher], [Kingsbridge], 10463, false 
+Loeser's Old Fashioned Kosher Deli, 4.5, 32, [Delis], [Kingsbridge], 10463, false 
+Yo-Burger, 4.0, 93, [Burgers | Vegetarian], [Kingsbridge], 10463, false 
+Liebman's Kosher Delicatessen, 4.0, 89, [Delis], [Spuyten Duyvil], 10463, false 
+Salvatores of Soho, 4.0, 86, [Pizza | Italian], [Kingsbridge], 10463, false 
+P & K Grille, 4.0, 79, [Burgers | Sports Bars | American (New)], [Kingsbridge], 10463, false 
+Tin Marin, 3.5, 95, [Tapas/Small Plates | Spanish], [Kingsbridge], 10463, false 
+An Beal Bocht Cafe, 4.0, 60, [Irish | Pubs], [Kingsbridge], 10463, false 
+Dale Restaurant, 4.0, 32, [Diners], [Kingsbridge], 10463, false 
+Siam Square, 3.5, 67, [Thai], , 10463, false 
+Jake's Steakhouse, 4.0, 66, [Steakhouses], [Riverdale], 10463, false 
+
+Christos Gyro, 4.5, 49, [Greek], [Kingsbridge], 10463, false 
+Estrellita Poblana V, 4.0, 22, [Mexican], [Kingsbridge], 10463, false 
+El Malecon Restaurant, 3.5, 67, [Latin American | Caribbean], [Kingsbridge], 10463, false 
+Tibbett Diner, 4.0, 34, [Diners], [Kingsbridge], 10463, false 
+Gold Mine Cafe, 4.0, 6, [Cafes | Diners], [Kingsbridge], 10463, false 
+Sam's Pizza, 4.5, 19, [Pizza], [Kingsbridge], 10463, false 
+Riverdale Diner, 3.0, 96, [Diners | American (Traditional)], [Kingsbridge], 10463, false 
+El Economico Restaurant, 4.0, 20, [Latin American], [Kingsbridge], 10463, false 
+Arturo's Pizzeria, 3.5, 42, [Pizza], [Marble Hill], 10463, false 
+Metate, 3.0, 77, [Mexican], , 10463, false 
+
+Riverdale City Grill, 3.0, 42, [Sports Bars | American (Traditional)], [Kingsbridge], 10463, false 
+Hola Espana, 3.5, 15, [Spanish], [Kingsbridge], 10463, false 
+100%, 4.0, 7, [Cafes | Juice Bars & Smoothies], [Kingsbridge], 10463, false 
+Yokohama Japanese Restaurant, 3.0, 22, [Japanese | Food Delivery Services | Sushi Bars], [Kingsbridge], 10463, false 
+New Riverdale Deli, 3.5, 12, [Delis | Bagels | Sandwiches], [Kingsbridge], 10463, false 
+Silhouette Restaurant & Lounge, 2.5, 45, [American (New) | Lounges], [Kingsbridge], 10463, false 
+
+The Original Crab Shanty Restaurant, 3.5, 283, [Seafood | Italian | American (Traditional)], [City Island], 10464, false 
+Bistro SK, 4.5, 40, [French], [City Island], 10464, false 
+City Island Lobster House, 3.5, 123, [Seafood], [City Island], 10464, false 
+Johnny's Reef Restaurant, 3.5, 169, [Seafood], , 10464, false 
+Sugar & Spice, 4.0, 39, [Bakeries | American (New)], [City Island], 10464, false 
+Sammy's Fish Box, 3.0, 202, [Seafood], , 10464, false 
+The Black Whale, 3.5, 94, [American (New)], [City Island], 10464, false 
+Artie's Steak & Seafood Restaurant, 3.5, 58, [Seafood | Steakhouses], [City Island], 10464, false 
+Seashore Restaurant & Marina, 3.0, 107, [Seafood], [City Island], 10464, false 
+
+Seafood City, 3.0, 88, [Seafood], [City Island], 10464, false 
+Tony's Pier Restaurant, 3.0, 50, [Seafood], , 10464, false 
+
+Don Coqui City Island, 2.5, 67, [Latin American], [City Island], 10464, false 
+J P's Restaurant, 4.0, 6, [Seafood], [City Island], 10464, false 
+
+Cabo, 4.0, 30, [Mexican | Lounges], [Edgewater Park], 10465, false 
+La Lupita, 4.0, 25, [Mexican], [Schuylerville], 10465, false 
+Muscle Maker Grill, 4.0, 29, [American (New)], [Throgs Neck], 10465, false 
+Barino's Market, 4.5, 19, [Grocery | Delis], [Country Club], 10465, false 
+The Wicked Wolf, 4.0, 28, [Steakhouses | Italian], [Edgewater Park], 10465, false 
+Patricia's of Tremont, 3.5, 82, [Pizza | Italian], [Edgewater Park], 10465, false 
+Loretta's Pizza, 4.0, 27, [Pizza], [Schuylerville], 10465, false 
+Tosca Cafe, 3.5, 192, [Pizza | Italian | Cafes], [Throgs Neck], 10465, false 
+
+Ice House Cafe and Restaurant, 3.5, 28, [Italian | Seafood | Chicken Wings], [Throgs Neck], 10465, false 
+Tommy's Pizza, 4.0, 21, [Pizza], [Edgewater Park], 10465, false 
+
+Crosstown Diner, 3.0, 49, [Diners], [Schuylerville], 10465, false 
+Frank & Joe's Deli, 5.0, 4, [Sandwiches | Delis], [Schuylerville], 10465, false 
+Paddy's On the Bay, 3.5, 22, [Pubs | American (New) | Chicken Wings], [Throgs Neck], 10465, false 
+Legendary Bar & Restaurant, 4.5, 8, [Comfort Food | Bars | Italian], [Schuylerville], 10465, false 
+Louis Seafood Restaurant, 3.5, 21, [Seafood], [Schuylerville], 10465, false 
+
+Ali's Roti Shop, 4.0, 24, [Trinidadian], [Wakefield], 10466, false 
+Cozy Cottage, 4.5, 14, [Breakfast & Brunch | Greek], [Eastchester], 10466, false 
+
+Dyre Fish Market, 4.5, 9, [Seafood], [Eastchester], 10466, false 
+Mario's Pizzeria, 5.0, 6, [Pizza], [Eastchester], 10466, false 
+
+Fish N' Ting, 4.0, 8, [Caribbean], [Eastchester], 10466, false 
+The Good Dine, 4.0, 10, [Caribbean], [Edenwald], 10466, false 
+
+Three Boys From Italy, 4.5, 28, [Pizza], [Pelham Gardens], 10467, false 
+Queen Of Tacos, 4.0, 24, [Mexican], [Norwood], 10467, false 
+Simply Seafood, 4.0, 6, [Seafood], [Pelham Gardens], 10467, false 
+
+Sal's Pizzeria, 4.0, 20, [Pizza], [Norwood], 10467, false 
+Feroza's Restaurant Roti, 4.0, 26, [Indian], [Pelham Gardens], 10467, false 
+
+China Mia, 4.5, 15, [Chinese], [Pelham Gardens], 10467, false 
+Sodesh, 4.0, 15, [Halal | Indian | Pakistani], [Norwood], 10467, false 
+
+Com Tam Ninh Kieu, 4.0, 98, [Vietnamese], [Bedford Park], 10468, false 
+Caridad Restaurant, 4.0, 27, [Latin American | Spanish], , 10468, false 
+Ebe Ye Yie, 4.5, 12, [African], [Fordham], 10468, false 
+Mei Mei Restaurant, 3.5, 22, [Chinese], [Bedford Park], 10468, false 
+
+Las Maravillas de Mexico Restaurant, 4.5, 10, [Mexican], [Bedford Park], 10468, false 
+Tacos y Antojitos Mexicanos La Catrina, 4.5, 6, [Mexican], , 10468, false 
+National Restaurant and Coffee, 4.5, 7, [Diners], [Bedford Park], 10468, false 
+
+Gyro King Foods Corporation, 4.0, 11, [Mediterranean], [Fordham], 10468, false 
+Dallas BBQ, 3.5, 64, [Barbeque], [University Heights], 10468, false 
+Perista Restaurant, 3.5, 16, [Cafes], [Bedford Park], 10468, false 
+Dallas BBQ, 3.5, 15, [Steakhouses | American (Traditional)], [University Heights], 10468, false 
+Montezuma Mexican Rest, 3.0, 48, [Mexican], , 10468, false 
+
+Royal Coach Diner, 4.0, 47, [Diners], [Pelham Gardens], 10469, false 
+Battaglia's Market, 4.5, 16, [Meat Shops | Grocery | Delis], [Pelham Gardens], 10469, false 
+Richie Rich Carribean, 3.5, 23, [Ethnic Food | Caribbean], [Baychester], 10469, false 
+Caridad and Louie's Restaurant, 3.5, 39, [Italian | Latin American], , 10469, false 
+Fratelli's Restaurant, 3.5, 15, [Italian], [Pelham Gardens], 10469, false 
+Dominicks Pizzeria, 4.5, 12, [Pizza], [Pelham Gardens], 10469, false 
+Cooyah Restaurant, 4.5, 3, [Ethnic Food | Caribbean], [Baychester], 10469, false 
+Nick's Pizza Restaurant, 3.5, 15, [Pizza], , 10469, false 
+
+Frank's Soup Bowl, 4.0, 7, [American (New) | Caribbean | Soup], [Williamsbridge], 10469, false 
+Vegans Delight, 4.0, 11, [Vegan | Grocery], [Baychester], 10469, false 
+7 Spices Carribean Restaurant, 5.0, 2, [Caribbean], [Olinville], 10469, false 
+The Dumplin Shop, 5.0, 3, [Cafes | Breakfast & Brunch | Caribbean], [Baychester], 10469, false 
+TGI Fridays, 2.5, 46, [American (Traditional) | Burgers], , 10469, false 
+
+Golden Star Garden, 4.0, 2, [Chinese], [Pelham Gardens], 10469, false 
+Back Home Caribbean American, 3.5, 3, [Caribbean], [Baychester], 10469, false 
+Jerry's Pizza, 4.5, 5, [Pizza], [Baychester], 10469, false 
+Villa Maria Pizzeria, 3.5, 8, [Pizza], [Pelham Gardens], 10469, false 
+Boston Road's Taco Grill & Chinese Restaurant, 5.0, 1, [Chinese], [Baychester], 10469, false 
+
+Rambling House, 4.0, 63, [Pubs | Irish], , 10470, false 
+Curry Spot, 4.0, 43, [Indian | Pakistani], , 10470, false 
+Patrizia's of Woodlawn, 4.0, 25, [Italian], , 10470, false 
+Bella Napoli Pizzeria, 4.0, 6, [Pizza], , 10470, false 
+
+Katonah Pizza & Pasta, 3.5, 16, [Pizza], , 10470, false 
+Linda's Pizza, 4.0, 6, [Pizza], , 10470, false 
+
+Bella Napoli 2, 4.5, 2, [Pizza], , 10470, false 
+
+The Bronx Burger House, 4.0, 81, [Burgers], , 10471, false 
+Dino's Pizza, 4.5, 26, [Pizza], [North Riverdale], 10471, false 
+Beccofino, 4.0, 55, [Italian], [North Riverdale], 10471, false 
+Tokyo House, 4.0, 23, [Japanese], [North Riverdale], 10471, false 
+Broadway Joe's Pizza, 4.5, 23, [Pizza], , 10471, false 
+Barbecue Pit, 3.5, 44, [Barbeque], [North Riverdale], 10471, false 
+Gleeson's Sports Bar & Grill, 4.0, 18, [Sports Bars | American (New)], , 10471, false 
+
+Burrito Shop, 4.0, 17, [Mexican], , 10471, false 
+Madisons Restaurant & Bar, 3.5, 28, [Bars | Italian], [North Riverdale], 10471, false 
+Kelly Ryans, 4.0, 19, [American (Traditional) | Pubs | Coffee & Tea], [North Riverdale], 10471, false 
+Santa Fe Grill, 3.5, 34, [Mexican], , 10471, false 
+Nona's Pizza, 3.5, 19, [Italian | Pizza], [North Riverdale], 10471, false 
+Tierney Fine Foods, 4.0, 13, [Delis | Irish], [North Riverdale], 10471, false 
+Addeo's Riverdale Pizzeria, 3.5, 27, [Pizza], [North Riverdale], 10471, false 
+
+Gruenebaum's, 3.5, 11, [Bakeries | Cafes], [North Riverdale], 10471, false 
+Golden Phoenix Chinese Restaurant, 2.5, 16, [Chinese], [North Riverdale], 10471, false 
+New Nagoya Sushi, 3.0, 11, [Japanese | Sushi Bars], [North Riverdale], 10471, false 
+La Estancia Gourmet Cafe & Deli, 5.0, 1, [Cafes | Delis], , 10471, false 
+
+Yankee J-Z Pizza, 5.0, 18, [Pizza], [Soundview], 10472, false 
+New General Tso's Restaurant, 5.0, 5, [Chinese], , 10472, false 
+Joe's Place, 3.5, 17, [Spanish | Basque], [Soundview], 10472, false 
+Vista Hermosa Restaurant, 4.5, 6, [Mexican], [Soundview], 10472, false 
+El Pabellon De Oro, 4.0, 16, [Latin American | Asian Fusion], [Soundview], 10472, false 
+Isla Verde Cafe & Express, 3.5, 25, [Latin American | Lounges | Karaoke], [Soundview], 10472, false 
+
+Cea-Lo Cafe, 3.5, 19, [Soul Food | Seafood], [Soundview], 10472, false 
+D'angelo's Pizzeria, 4.5, 5, [Pizza], [Unionport], 10472, false 
+Sabrosura 2, 3.0, 14, [Spanish | Chinese], [Soundview], 10472, false 
+
+Willie's Steak House, 3.0, 14, [Steakhouses], [Soundview], 10472, false 
+Lucky Star Chinese Restaurant, 4.0, 5, [Chinese], [Unionport], 10472, false 
+Burger Hut, 3.5, 7, [Burgers], [Soundview], 10472, false 
+John's Diner, 4.0, 7, [Coffee & Tea | Diners], [Soundview], 10472, false 
+Parkchester Chickenfest, 4.0, 5, [Fast Food | American (Traditional)], [Soundview], 10472, false 
+
+Jimmy's Cafe Restaurant, 3.5, 19, [Cafes], [Castle Hill], 10473, false 
+
+Pizza Italia, 4.0, 17, [Pizza], [Castle Hill], 10473, false 
+
+
+The Point Cafe and Bascom Catering, 5.0, 4, [Cafes], [Longwood], 10474, false 
+Randall Restaurant, 4.5, 4, [Latin American], [Hunts Point], 10474, false 
+Fratelli's Pizza Cafe, 3.5, 11, [Pizza], [Hunts Point], 10474, false 
+Mogridder's BBQ, 3.0, 32, [Barbeque | Food Trucks], [Hunts Point], 10474, false 
+Market Kitchen LLC, 5.0, 1, [Delis], [Hunts Point], 10474, false 
+
+Delfini Restaurant, 3.5, 3, [American (New)], [Hunts Point], 10474, false 
+
+Rocco's Italian Deli, 2.0, 1, [Italian], [Hunts Point], 10474, false 
+
+Dallas BBQ, 2.5, 58, [Barbeque], [Co-op City], 10475, false 
+Panera Bread, 3.0, 43, [Sandwiches | Salad | Soup], [Co-op City], 10475, false 
+Dragon City, 3.0, 21, [Chinese], [Co-op City], 10475, false 
+
+Pimento Caribbean Restaurant, 3.5, 10, [Caribbean], [Eastchester], 10475, false 
+Red Lobster, 2.5, 56, [Seafood | American (Traditional)], [Co-op City], 10475, false 
+Olive Garden, 2.0, 12, [Italian], [Co-op City], 10475, false 
+Jr Gourmet Deli, 5.0, 2, [Delis], [Co-op City], 10475, false 
+Town House Restaurant, 3.5, 6, [Diners | American (Traditional)], [Co-op City], 10475, false 
+Best Chinese Restaurant, 3.5, 3, [Chinese], [Eastchester], 10475, false 
+Applebees, 2.0, 40, [Bars | American (Traditional)], , 10475, false 
+
+Hungry Howie's, 3.0, 4, [Pizza], [Co-op City], 10475, false 
+Section 5 Pizza, 3.0, 5, [Pizza | Breakfast & Brunch | Chicken Wings], , 10475, false 
+China Inn Buffet, 2.0, 23, [Chinese], [Co-op City], 10475, false 
+Xin Hi, 4.0, 1, [Chinese], [Co-op City], 10475, false 
+
