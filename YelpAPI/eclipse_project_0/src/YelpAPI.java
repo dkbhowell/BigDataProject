@@ -268,7 +268,7 @@ public class YelpAPI {
 					filterCount++;
 				}
 			}
-			writer.write("\n");
+			// writer.write("\n");
 			System.out.println("Filtered out " + filterCount
 					+ " zip code mismatches.");
 		} catch (IOException writeToFileErr) {
@@ -291,6 +291,9 @@ public class YelpAPI {
 
 	private static String parseCategoriesToString(JSONArray jsonArray,
 			String delimiter) {
+		if (jsonArray == null){
+			return "";
+		}
 		String result = "[";
 		for (int i = 0; i < jsonArray.size(); i++) {
 			JSONArray subArray = (JSONArray) jsonArray.get(i);
@@ -427,7 +430,7 @@ public class YelpAPI {
 		YelpAPI yelpApi = new YelpAPI(CONSUMER_KEY, CONSUMER_SECRET, TOKEN,
 				TOKEN_SECRET);
 
-		List<ZipCode> nycZips = readZipCodesFromCsv("resources/nyc_zip_codes.csv");
-		queryZipCodes(yelpApi, nycZips, "output/NYC Zipcode Yelp Data.csv");
+		List<ZipCode> nycZips = readZipCodesFromCsv("resources/nyc_zip_codes_full.csv");
+		queryZipCodes(yelpApi, nycZips, "output/NYC Zipcode Yelp Data [100].csv");
 	}
 }
