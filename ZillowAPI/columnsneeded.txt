@@ -1,7 +1,5 @@
 Columns needed! 
 zip
-latitude
-longitude
 affordability, first field for zipcode
 single family home, first field  
 condo value, first field 

@@ -1,0 +1,327 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Total civilian noninstitutionalized population
+HC01_MOE_VC01,Total; Margin of Error; Total civilian noninstitutionalized population
+HC02_EST_VC01,Number Uninsured; Estimate; Total civilian noninstitutionalized population
+HC02_MOE_VC01,Number Uninsured; Margin of Error; Total civilian noninstitutionalized population
+HC03_EST_VC01,Percent Uninsured; Estimate; Total civilian noninstitutionalized population
+HC03_MOE_VC01,Percent Uninsured; Margin of Error; Total civilian noninstitutionalized population
+HC01_EST_VC04,Total; Estimate; AGE - Under 18 years
+HC01_MOE_VC04,Total; Margin of Error; AGE - Under 18 years
+HC02_EST_VC04,Number Uninsured; Estimate; AGE - Under 18 years
+HC02_MOE_VC04,Number Uninsured; Margin of Error; AGE - Under 18 years
+HC03_EST_VC04,Percent Uninsured; Estimate; AGE - Under 18 years
+HC03_MOE_VC04,Percent Uninsured; Margin of Error; AGE - Under 18 years
+HC01_EST_VC05,Total; Estimate; AGE - 18 to 64 years
+HC01_MOE_VC05,Total; Margin of Error; AGE - 18 to 64 years
+HC02_EST_VC05,Number Uninsured; Estimate; AGE - 18 to 64 years
+HC02_MOE_VC05,Number Uninsured; Margin of Error; AGE - 18 to 64 years
+HC03_EST_VC05,Percent Uninsured; Estimate; AGE - 18 to 64 years
+HC03_MOE_VC05,Percent Uninsured; Margin of Error; AGE - 18 to 64 years
+HC01_EST_VC06,Total; Estimate; AGE - 65 years and older
+HC01_MOE_VC06,Total; Margin of Error; AGE - 65 years and older
+HC02_EST_VC06,Number Uninsured; Estimate; AGE - 65 years and older
+HC02_MOE_VC06,Number Uninsured; Margin of Error; AGE - 65 years and older
+HC03_EST_VC06,Percent Uninsured; Estimate; AGE - 65 years and older
+HC03_MOE_VC06,Percent Uninsured; Margin of Error; AGE - 65 years and older
+HC01_EST_VC08,Total; Estimate; 19 to 25 years
+HC01_MOE_VC08,Total; Margin of Error; 19 to 25 years
+HC02_EST_VC08,Number Uninsured; Estimate; 19 to 25 years
+HC02_MOE_VC08,Number Uninsured; Margin of Error; 19 to 25 years
+HC03_EST_VC08,Percent Uninsured; Estimate; 19 to 25 years
+HC03_MOE_VC08,Percent Uninsured; Margin of Error; 19 to 25 years
+HC01_EST_VC11,Total; Estimate; SEX - Male
+HC01_MOE_VC11,Total; Margin of Error; SEX - Male
+HC02_EST_VC11,Number Uninsured; Estimate; SEX - Male
+HC02_MOE_VC11,Number Uninsured; Margin of Error; SEX - Male
+HC03_EST_VC11,Percent Uninsured; Estimate; SEX - Male
+HC03_MOE_VC11,Percent Uninsured; Margin of Error; SEX - Male
+HC01_EST_VC12,Total; Estimate; SEX - Female
+HC01_MOE_VC12,Total; Margin of Error; SEX - Female
+HC02_EST_VC12,Number Uninsured; Estimate; SEX - Female
+HC02_MOE_VC12,Number Uninsured; Margin of Error; SEX - Female
+HC03_EST_VC12,Percent Uninsured; Estimate; SEX - Female
+HC03_MOE_VC12,Percent Uninsured; Margin of Error; SEX - Female
+HC01_EST_VC15,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race
+HC01_MOE_VC15,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race
+HC02_EST_VC15,Number Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race
+HC02_MOE_VC15,Number Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race
+HC03_EST_VC15,Percent Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race
+HC03_MOE_VC15,Percent Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race
+HC01_EST_VC16,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - White alone
+HC01_MOE_VC16,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - White alone
+HC02_EST_VC16,Number Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - White alone
+HC02_MOE_VC16,Number Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - White alone
+HC03_EST_VC16,Percent Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - White alone
+HC03_MOE_VC16,Percent Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - White alone
+HC01_EST_VC17,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Black or African American alone
+HC01_MOE_VC17,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Black or African American alone
+HC02_EST_VC17,Number Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Black or African American alone
+HC02_MOE_VC17,Number Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Black or African American alone
+HC03_EST_VC17,Percent Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Black or African American alone
+HC03_MOE_VC17,Percent Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Black or African American alone
+HC01_EST_VC18,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - American Indian and Alaska Native alone
+HC01_MOE_VC18,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - American Indian and Alaska Native alone
+HC02_EST_VC18,Number Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - American Indian and Alaska Native alone
+HC02_MOE_VC18,Number Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - American Indian and Alaska Native alone
+HC03_EST_VC18,Percent Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - American Indian and Alaska Native alone
+HC03_MOE_VC18,Percent Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - American Indian and Alaska Native alone
+HC01_EST_VC19,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Asian alone
+HC01_MOE_VC19,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Asian alone
+HC02_EST_VC19,Number Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Asian alone
+HC02_MOE_VC19,Number Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Asian alone
+HC03_EST_VC19,Percent Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Asian alone
+HC03_MOE_VC19,Percent Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Asian alone
+HC01_EST_VC20,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Native Hawaiian and Other Pacific Islander alone
+HC01_MOE_VC20,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Native Hawaiian and Other Pacific Islander alone
+HC02_EST_VC20,Number Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Native Hawaiian and Other Pacific Islander alone
+HC02_MOE_VC20,Number Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Native Hawaiian and Other Pacific Islander alone
+HC03_EST_VC20,Percent Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Native Hawaiian and Other Pacific Islander alone
+HC03_MOE_VC20,Percent Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Native Hawaiian and Other Pacific Islander alone
+HC01_EST_VC21,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Some other race alone
+HC01_MOE_VC21,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Some other race alone
+HC02_EST_VC21,Number Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Some other race alone
+HC02_MOE_VC21,Number Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Some other race alone
+HC03_EST_VC21,Percent Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Some other race alone
+HC03_MOE_VC21,Percent Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One Race - Some other race alone
+HC01_EST_VC22,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_MOE_VC22,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_EST_VC22,Number Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_MOE_VC22,Number Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC03_EST_VC22,Percent Uninsured; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC03_MOE_VC22,Percent Uninsured; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_EST_VC24,"Total; Estimate; White alone, not Hispanic or Latino"
+HC01_MOE_VC24,"Total; Margin of Error; White alone, not Hispanic or Latino"
+HC02_EST_VC24,"Number Uninsured; Estimate; White alone, not Hispanic or Latino"
+HC02_MOE_VC24,"Number Uninsured; Margin of Error; White alone, not Hispanic or Latino"
+HC03_EST_VC24,"Percent Uninsured; Estimate; White alone, not Hispanic or Latino"
+HC03_MOE_VC24,"Percent Uninsured; Margin of Error; White alone, not Hispanic or Latino"
+HC01_EST_VC25,Total; Estimate; Hispanic or Latino (of any race)
+HC01_MOE_VC25,Total; Margin of Error; Hispanic or Latino (of any race)
+HC02_EST_VC25,Number Uninsured; Estimate; Hispanic or Latino (of any race)
+HC02_MOE_VC25,Number Uninsured; Margin of Error; Hispanic or Latino (of any race)
+HC03_EST_VC25,Percent Uninsured; Estimate; Hispanic or Latino (of any race)
+HC03_MOE_VC25,Percent Uninsured; Margin of Error; Hispanic or Latino (of any race)
+HC01_EST_VC28,Total; Estimate; NATIVITY AND CITIZENSHIP STATUS - Native born
+HC01_MOE_VC28,Total; Margin of Error; NATIVITY AND CITIZENSHIP STATUS - Native born
+HC02_EST_VC28,Number Uninsured; Estimate; NATIVITY AND CITIZENSHIP STATUS - Native born
+HC02_MOE_VC28,Number Uninsured; Margin of Error; NATIVITY AND CITIZENSHIP STATUS - Native born
+HC03_EST_VC28,Percent Uninsured; Estimate; NATIVITY AND CITIZENSHIP STATUS - Native born
+HC03_MOE_VC28,Percent Uninsured; Margin of Error; NATIVITY AND CITIZENSHIP STATUS - Native born
+HC01_EST_VC29,Total; Estimate; NATIVITY AND CITIZENSHIP STATUS - Foreign born
+HC01_MOE_VC29,Total; Margin of Error; NATIVITY AND CITIZENSHIP STATUS - Foreign born
+HC02_EST_VC29,Number Uninsured; Estimate; NATIVITY AND CITIZENSHIP STATUS - Foreign born
+HC02_MOE_VC29,Number Uninsured; Margin of Error; NATIVITY AND CITIZENSHIP STATUS - Foreign born
+HC03_EST_VC29,Percent Uninsured; Estimate; NATIVITY AND CITIZENSHIP STATUS - Foreign born
+HC03_MOE_VC29,Percent Uninsured; Margin of Error; NATIVITY AND CITIZENSHIP STATUS - Foreign born
+HC01_EST_VC30,Total; Estimate; NATIVITY AND CITIZENSHIP STATUS - Foreign born - Naturalized
+HC01_MOE_VC30,Total; Margin of Error; NATIVITY AND CITIZENSHIP STATUS - Foreign born - Naturalized
+HC02_EST_VC30,Number Uninsured; Estimate; NATIVITY AND CITIZENSHIP STATUS - Foreign born - Naturalized
+HC02_MOE_VC30,Number Uninsured; Margin of Error; NATIVITY AND CITIZENSHIP STATUS - Foreign born - Naturalized
+HC03_EST_VC30,Percent Uninsured; Estimate; NATIVITY AND CITIZENSHIP STATUS - Foreign born - Naturalized
+HC03_MOE_VC30,Percent Uninsured; Margin of Error; NATIVITY AND CITIZENSHIP STATUS - Foreign born - Naturalized
+HC01_EST_VC31,Total; Estimate; NATIVITY AND CITIZENSHIP STATUS - Foreign born - Not a citizen
+HC01_MOE_VC31,Total; Margin of Error; NATIVITY AND CITIZENSHIP STATUS - Foreign born - Not a citizen
+HC02_EST_VC31,Number Uninsured; Estimate; NATIVITY AND CITIZENSHIP STATUS - Foreign born - Not a citizen
+HC02_MOE_VC31,Number Uninsured; Margin of Error; NATIVITY AND CITIZENSHIP STATUS - Foreign born - Not a citizen
+HC03_EST_VC31,Percent Uninsured; Estimate; NATIVITY AND CITIZENSHIP STATUS - Foreign born - Not a citizen
+HC03_MOE_VC31,Percent Uninsured; Margin of Error; NATIVITY AND CITIZENSHIP STATUS - Foreign born - Not a citizen
+HC01_EST_VC35,Total; Estimate; EDUCATIONAL ATTAINMENT - Civilian noninstitutionalized population 25 years and older
+HC01_MOE_VC35,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian noninstitutionalized population 25 years and older
+HC02_EST_VC35,Number Uninsured; Estimate; EDUCATIONAL ATTAINMENT - Civilian noninstitutionalized population 25 years and older
+HC02_MOE_VC35,Number Uninsured; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian noninstitutionalized population 25 years and older
+HC03_EST_VC35,Percent Uninsured; Estimate; EDUCATIONAL ATTAINMENT - Civilian noninstitutionalized population 25 years and older
+HC03_MOE_VC35,Percent Uninsured; Margin of Error; EDUCATIONAL ATTAINMENT - Civilian noninstitutionalized population 25 years and older
+HC01_EST_VC36,Total; Estimate; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC01_MOE_VC36,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC02_EST_VC36,Number Uninsured; Estimate; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC02_MOE_VC36,Number Uninsured; Margin of Error; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC03_EST_VC36,Percent Uninsured; Estimate; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC03_MOE_VC36,Percent Uninsured; Margin of Error; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC01_EST_VC37,"Total; Estimate; EDUCATIONAL ATTAINMENT - High school graduate, GED, or alternative"
+HC01_MOE_VC37,"Total; Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate, GED, or alternative"
+HC02_EST_VC37,"Number Uninsured; Estimate; EDUCATIONAL ATTAINMENT - High school graduate, GED, or alternative"
+HC02_MOE_VC37,"Number Uninsured; Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate, GED, or alternative"
+HC03_EST_VC37,"Percent Uninsured; Estimate; EDUCATIONAL ATTAINMENT - High school graduate, GED, or alternative"
+HC03_MOE_VC37,"Percent Uninsured; Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate, GED, or alternative"
+HC01_EST_VC38,Total; Estimate; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC01_MOE_VC38,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC02_EST_VC38,Number Uninsured; Estimate; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC02_MOE_VC38,Number Uninsured; Margin of Error; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC03_EST_VC38,Percent Uninsured; Estimate; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC03_MOE_VC38,Percent Uninsured; Margin of Error; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC01_EST_VC39,Total; Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC01_MOE_VC39,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC02_EST_VC39,Number Uninsured; Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC02_MOE_VC39,Number Uninsured; Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC03_EST_VC39,Percent Uninsured; Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC03_MOE_VC39,Percent Uninsured; Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC01_EST_VC43,Total; Estimate; EMPLOYMENT STATUS - Civilian noninstitutionalized population 18 years and older
+HC01_MOE_VC43,Total; Margin of Error; EMPLOYMENT STATUS - Civilian noninstitutionalized population 18 years and older
+HC02_EST_VC43,Number Uninsured; Estimate; EMPLOYMENT STATUS - Civilian noninstitutionalized population 18 years and older
+HC02_MOE_VC43,Number Uninsured; Margin of Error; EMPLOYMENT STATUS - Civilian noninstitutionalized population 18 years and older
+HC03_EST_VC43,Percent Uninsured; Estimate; EMPLOYMENT STATUS - Civilian noninstitutionalized population 18 years and older
+HC03_MOE_VC43,Percent Uninsured; Margin of Error; EMPLOYMENT STATUS - Civilian noninstitutionalized population 18 years and older
+HC01_EST_VC44,Total; Estimate; EMPLOYMENT STATUS - In labor force
+HC01_MOE_VC44,Total; Margin of Error; EMPLOYMENT STATUS - In labor force
+HC02_EST_VC44,Number Uninsured; Estimate; EMPLOYMENT STATUS - In labor force
+HC02_MOE_VC44,Number Uninsured; Margin of Error; EMPLOYMENT STATUS - In labor force
+HC03_EST_VC44,Percent Uninsured; Estimate; EMPLOYMENT STATUS - In labor force
+HC03_MOE_VC44,Percent Uninsured; Margin of Error; EMPLOYMENT STATUS - In labor force
+HC01_EST_VC45,Total; Estimate; EMPLOYMENT STATUS - In labor force - Employed
+HC01_MOE_VC45,Total; Margin of Error; EMPLOYMENT STATUS - In labor force - Employed
+HC02_EST_VC45,Number Uninsured; Estimate; EMPLOYMENT STATUS - In labor force - Employed
+HC02_MOE_VC45,Number Uninsured; Margin of Error; EMPLOYMENT STATUS - In labor force - Employed
+HC03_EST_VC45,Percent Uninsured; Estimate; EMPLOYMENT STATUS - In labor force - Employed
+HC03_MOE_VC45,Percent Uninsured; Margin of Error; EMPLOYMENT STATUS - In labor force - Employed
+HC01_EST_VC46,Total; Estimate; EMPLOYMENT STATUS - In labor force - Unemployed
+HC01_MOE_VC46,Total; Margin of Error; EMPLOYMENT STATUS - In labor force - Unemployed
+HC02_EST_VC46,Number Uninsured; Estimate; EMPLOYMENT STATUS - In labor force - Unemployed
+HC02_MOE_VC46,Number Uninsured; Margin of Error; EMPLOYMENT STATUS - In labor force - Unemployed
+HC03_EST_VC46,Percent Uninsured; Estimate; EMPLOYMENT STATUS - In labor force - Unemployed
+HC03_MOE_VC46,Percent Uninsured; Margin of Error; EMPLOYMENT STATUS - In labor force - Unemployed
+HC01_EST_VC47,Total; Estimate; EMPLOYMENT STATUS - Not in labor force
+HC01_MOE_VC47,Total; Margin of Error; EMPLOYMENT STATUS - Not in labor force
+HC02_EST_VC47,Number Uninsured; Estimate; EMPLOYMENT STATUS - Not in labor force
+HC02_MOE_VC47,Number Uninsured; Margin of Error; EMPLOYMENT STATUS - Not in labor force
+HC03_EST_VC47,Percent Uninsured; Estimate; EMPLOYMENT STATUS - Not in labor force
+HC03_MOE_VC47,Percent Uninsured; Margin of Error; EMPLOYMENT STATUS - Not in labor force
+HC01_EST_VC51,Total; Estimate; WORK EXPERIENCE - Civilian noninstitutionalized population 18 years and older
+HC01_MOE_VC51,Total; Margin of Error; WORK EXPERIENCE - Civilian noninstitutionalized population 18 years and older
+HC02_EST_VC51,Number Uninsured; Estimate; WORK EXPERIENCE - Civilian noninstitutionalized population 18 years and older
+HC02_MOE_VC51,Number Uninsured; Margin of Error; WORK EXPERIENCE - Civilian noninstitutionalized population 18 years and older
+HC03_EST_VC51,Percent Uninsured; Estimate; WORK EXPERIENCE - Civilian noninstitutionalized population 18 years and older
+HC03_MOE_VC51,Percent Uninsured; Margin of Error; WORK EXPERIENCE - Civilian noninstitutionalized population 18 years and older
+HC01_EST_VC52,"Total; Estimate; WORK EXPERIENCE - Worked full-time, year round in the past 12 months"
+HC01_MOE_VC52,"Total; Margin of Error; WORK EXPERIENCE - Worked full-time, year round in the past 12 months"
+HC02_EST_VC52,"Number Uninsured; Estimate; WORK EXPERIENCE - Worked full-time, year round in the past 12 months"
+HC02_MOE_VC52,"Number Uninsured; Margin of Error; WORK EXPERIENCE - Worked full-time, year round in the past 12 months"
+HC03_EST_VC52,"Percent Uninsured; Estimate; WORK EXPERIENCE - Worked full-time, year round in the past 12 months"
+HC03_MOE_VC52,"Percent Uninsured; Margin of Error; WORK EXPERIENCE - Worked full-time, year round in the past 12 months"
+HC01_EST_VC53,"Total; Estimate; WORK EXPERIENCE - Worked less than full-time, year round in the past 12 months"
+HC01_MOE_VC53,"Total; Margin of Error; WORK EXPERIENCE - Worked less than full-time, year round in the past 12 months"
+HC02_EST_VC53,"Number Uninsured; Estimate; WORK EXPERIENCE - Worked less than full-time, year round in the past 12 months"
+HC02_MOE_VC53,"Number Uninsured; Margin of Error; WORK EXPERIENCE - Worked less than full-time, year round in the past 12 months"
+HC03_EST_VC53,"Percent Uninsured; Estimate; WORK EXPERIENCE - Worked less than full-time, year round in the past 12 months"
+HC03_MOE_VC53,"Percent Uninsured; Margin of Error; WORK EXPERIENCE - Worked less than full-time, year round in the past 12 months"
+HC01_EST_VC54,Total; Estimate; WORK EXPERIENCE - Did not work
+HC01_MOE_VC54,Total; Margin of Error; WORK EXPERIENCE - Did not work
+HC02_EST_VC54,Number Uninsured; Estimate; WORK EXPERIENCE - Did not work
+HC02_MOE_VC54,Number Uninsured; Margin of Error; WORK EXPERIENCE - Did not work
+HC03_EST_VC54,Percent Uninsured; Estimate; WORK EXPERIENCE - Did not work
+HC03_MOE_VC54,Percent Uninsured; Margin of Error; WORK EXPERIENCE - Did not work
+HC01_EST_VC58,Total; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - Civilian household population
+HC01_MOE_VC58,Total; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - Civilian household population
+HC02_EST_VC58,Number Uninsured; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - Civilian household population
+HC02_MOE_VC58,Number Uninsured; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - Civilian household population
+HC03_EST_VC58,Percent Uninsured; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - Civilian household population
+HC03_MOE_VC58,Percent Uninsured; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - Civilian household population
+HC01_EST_VC59,"Total; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - Under $25,000"
+HC01_MOE_VC59,"Total; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - Under $25,000"
+HC02_EST_VC59,"Number Uninsured; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - Under $25,000"
+HC02_MOE_VC59,"Number Uninsured; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - Under $25,000"
+HC03_EST_VC59,"Percent Uninsured; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - Under $25,000"
+HC03_MOE_VC59,"Percent Uninsured; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - Under $25,000"
+HC01_EST_VC60,"Total; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $25,000 to $49,999"
+HC01_MOE_VC60,"Total; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $25,000 to $49,999"
+HC02_EST_VC60,"Number Uninsured; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $25,000 to $49,999"
+HC02_MOE_VC60,"Number Uninsured; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $25,000 to $49,999"
+HC03_EST_VC60,"Percent Uninsured; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $25,000 to $49,999"
+HC03_MOE_VC60,"Percent Uninsured; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $25,000 to $49,999"
+HC01_EST_VC61,"Total; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $50,000 to $74,999"
+HC01_MOE_VC61,"Total; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $50,000 to $74,999"
+HC02_EST_VC61,"Number Uninsured; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $50,000 to $74,999"
+HC02_MOE_VC61,"Number Uninsured; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $50,000 to $74,999"
+HC03_EST_VC61,"Percent Uninsured; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $50,000 to $74,999"
+HC03_MOE_VC61,"Percent Uninsured; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $50,000 to $74,999"
+HC01_EST_VC62,"Total; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $75,000 to $99,999"
+HC01_MOE_VC62,"Total; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $75,000 to $99,999"
+HC02_EST_VC62,"Number Uninsured; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $75,000 to $99,999"
+HC02_MOE_VC62,"Number Uninsured; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $75,000 to $99,999"
+HC03_EST_VC62,"Percent Uninsured; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $75,000 to $99,999"
+HC03_MOE_VC62,"Percent Uninsured; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $75,000 to $99,999"
+HC01_EST_VC63,"Total; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $100,000 and over"
+HC01_MOE_VC63,"Total; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $100,000 and over"
+HC02_EST_VC63,"Number Uninsured; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $100,000 and over"
+HC02_MOE_VC63,"Number Uninsured; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $100,000 and over"
+HC03_EST_VC63,"Percent Uninsured; Estimate; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $100,000 and over"
+HC03_MOE_VC63,"Percent Uninsured; Margin of Error; HOUSEHOLD INCOME (IN 2012 INFLATION ADJUSTED DOLLARS) - $100,000 and over"
+HC01_EST_VC67,Total; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Civilian noninstitutionalized population for whom poverty status is determined
+HC01_MOE_VC67,Total; Margin of Error; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Civilian noninstitutionalized population for whom poverty status is determined
+HC02_EST_VC67,Number Uninsured; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Civilian noninstitutionalized population for whom poverty status is determined
+HC02_MOE_VC67,Number Uninsured; Margin of Error; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Civilian noninstitutionalized population for whom poverty status is determined
+HC03_EST_VC67,Percent Uninsured; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Civilian noninstitutionalized population for whom poverty status is determined
+HC03_MOE_VC67,Percent Uninsured; Margin of Error; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Civilian noninstitutionalized population for whom poverty status is determined
+HC01_EST_VC68,Total; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Under 1.38 of poverty threshold
+HC01_MOE_VC68,Total; Margin of Error; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Under 1.38 of poverty threshold
+HC02_EST_VC68,Number Uninsured; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Under 1.38 of poverty threshold
+HC02_MOE_VC68,Number Uninsured; Margin of Error; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Under 1.38 of poverty threshold
+HC03_EST_VC68,Percent Uninsured; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Under 1.38 of poverty threshold
+HC03_MOE_VC68,Percent Uninsured; Margin of Error; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Under 1.38 of poverty threshold
+HC01_EST_VC69,Total; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - 1.38 to 1.99 of poverty threshold
+HC01_MOE_VC69,Total; Margin of Error; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - 1.38 to 1.99 of poverty threshold
+HC02_EST_VC69,Number Uninsured; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - 1.38 to 1.99 of poverty threshold
+HC02_MOE_VC69,Number Uninsured; Margin of Error; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - 1.38 to 1.99 of poverty threshold
+HC03_EST_VC69,Percent Uninsured; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - 1.38 to 1.99 of poverty threshold
+HC03_MOE_VC69,Percent Uninsured; Margin of Error; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - 1.38 to 1.99 of poverty threshold
+HC01_EST_VC70,Total; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - 2.00 of poverty threshold and over
+HC01_MOE_VC70,Total; Margin of Error; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - 2.00 of poverty threshold and over
+HC02_EST_VC70,Number Uninsured; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - 2.00 of poverty threshold and over
+HC02_MOE_VC70,Number Uninsured; Margin of Error; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - 2.00 of poverty threshold and over
+HC03_EST_VC70,Percent Uninsured; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - 2.00 of poverty threshold and over
+HC03_MOE_VC70,Percent Uninsured; Margin of Error; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - 2.00 of poverty threshold and over
+HC01_EST_VC73,Total; Estimate; PERCENT IMPUTED - Health insurance coverage
+HC01_MOE_VC73,Total; Margin of Error; PERCENT IMPUTED - Health insurance coverage
+HC02_EST_VC73,Number Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage
+HC02_MOE_VC73,Number Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage
+HC03_EST_VC73,Percent Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage
+HC03_MOE_VC73,Percent Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage
+HC01_EST_VC74,Total; Estimate; PERCENT IMPUTED - Health insurance coverage - Private health insurance
+HC01_MOE_VC74,Total; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Private health insurance
+HC02_EST_VC74,Number Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Private health insurance
+HC02_MOE_VC74,Number Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Private health insurance
+HC03_EST_VC74,Percent Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Private health insurance
+HC03_MOE_VC74,Percent Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Private health insurance
+HC01_EST_VC75,Total; Estimate; PERCENT IMPUTED - Health insurance coverage - Private health insurance - Employer-based health insurance
+HC01_MOE_VC75,Total; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Private health insurance - Employer-based health insurance
+HC02_EST_VC75,Number Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Private health insurance - Employer-based health insurance
+HC02_MOE_VC75,Number Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Private health insurance - Employer-based health insurance
+HC03_EST_VC75,Percent Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Private health insurance - Employer-based health insurance
+HC03_MOE_VC75,Percent Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Private health insurance - Employer-based health insurance
+HC01_EST_VC76,Total; Estimate; PERCENT IMPUTED - Health insurance coverage - Private health insurance - Direct-purchase health insurance
+HC01_MOE_VC76,Total; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Private health insurance - Direct-purchase health insurance
+HC02_EST_VC76,Number Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Private health insurance - Direct-purchase health insurance
+HC02_MOE_VC76,Number Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Private health insurance - Direct-purchase health insurance
+HC03_EST_VC76,Percent Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Private health insurance - Direct-purchase health insurance
+HC03_MOE_VC76,Percent Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Private health insurance - Direct-purchase health insurance
+HC01_EST_VC77,Total; Estimate; PERCENT IMPUTED - Health insurance coverage - Private health insurance - TRICARE/military health coverage
+HC01_MOE_VC77,Total; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Private health insurance - TRICARE/military health coverage
+HC02_EST_VC77,Number Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Private health insurance - TRICARE/military health coverage
+HC02_MOE_VC77,Number Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Private health insurance - TRICARE/military health coverage
+HC03_EST_VC77,Percent Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Private health insurance - TRICARE/military health coverage
+HC03_MOE_VC77,Percent Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Private health insurance - TRICARE/military health coverage
+HC01_EST_VC78,Total; Estimate; PERCENT IMPUTED - Health insurance coverage - Public coverage
+HC01_MOE_VC78,Total; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Public coverage
+HC02_EST_VC78,Number Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Public coverage
+HC02_MOE_VC78,Number Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Public coverage
+HC03_EST_VC78,Percent Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Public coverage
+HC03_MOE_VC78,Percent Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Public coverage
+HC01_EST_VC79,Total; Estimate; PERCENT IMPUTED - Health insurance coverage - Public coverage - Medicare coverage
+HC01_MOE_VC79,Total; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Public coverage - Medicare coverage
+HC02_EST_VC79,Number Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Public coverage - Medicare coverage
+HC02_MOE_VC79,Number Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Public coverage - Medicare coverage
+HC03_EST_VC79,Percent Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Public coverage - Medicare coverage
+HC03_MOE_VC79,Percent Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Public coverage - Medicare coverage
+HC01_EST_VC80,Total; Estimate; PERCENT IMPUTED - Health insurance coverage - Public coverage - Medicaid/means-tested public coverage
+HC01_MOE_VC80,Total; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Public coverage - Medicaid/means-tested public coverage
+HC02_EST_VC80,Number Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Public coverage - Medicaid/means-tested public coverage
+HC02_MOE_VC80,Number Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Public coverage - Medicaid/means-tested public coverage
+HC03_EST_VC80,Percent Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Public coverage - Medicaid/means-tested public coverage
+HC03_MOE_VC80,Percent Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Public coverage - Medicaid/means-tested public coverage
+HC01_EST_VC81,Total; Estimate; PERCENT IMPUTED - Health insurance coverage - Public coverage - VA Health Care
+HC01_MOE_VC81,Total; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Public coverage - VA Health Care
+HC02_EST_VC81,Number Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Public coverage - VA Health Care
+HC02_MOE_VC81,Number Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Public coverage - VA Health Care
+HC03_EST_VC81,Percent Uninsured; Estimate; PERCENT IMPUTED - Health insurance coverage - Public coverage - VA Health Care
+HC03_MOE_VC81,Percent Uninsured; Margin of Error; PERCENT IMPUTED - Health insurance coverage - Public coverage - VA Health Care
