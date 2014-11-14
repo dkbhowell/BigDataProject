@@ -3,21 +3,42 @@ import xml
 import os
 import xml.etree.ElementTree as etree
 
-zips = file('zipcodes.txt', 'r')
-url = 'http://www.zillow.com/webservice/GetDemographics.htm?zws-id=X1-ZWz1b260i9k4jv_7j3qs&zip='
-outputName = 'output.txt'
-os.remove(outputName)
-output = open(outputName, 'w')
-output.write('')
+#get zipcode data 
 
-for line in zips:
+# zips = file('APIinput/zipcodes.txt', 'r')
+# url = 'http://www.zillow.com/webservice/GetDemographics.htm?zws-id=X1-ZWz1b260i9k4jv_7j3qs&zip='
+# outputName = 'output_zips.txt'
+# # os.remove(output.txt)
+# output_zips = open(outputName, 'w')
+# output_zips.write('')
+
+# for line in zips:
+# 	file = urllib2.urlopen(url + line)
+# 	#for line in file:
+# 	data = file.read()
+# 	print data
+# 	output_zips.write(data)
+# 	# output_zips.write(notags)
+# 	output_zips.write("\n")
+# file.close()
+# output_zips.close()
+
+#get neighborhood data 
+
+hoods = file('APIinput/hoodsnospace.txt', 'r')
+url = 'http://www.zillow.com/webservice/GetDemographics.htm?zws-id=X1-ZWz1b260i9k4jv_7j3qs&state=NY&city=NewYork&neighborhood='
+outputName = 'output_hoods.txt'
+# os.remove(output.txt)
+output_hoods = open(outputName, 'w')
+output_hoods.write('')
+
+for line in hoods:
 	file = urllib2.urlopen(url + line)
-	# for l in file:
+	#for line in file:
 	data = file.read()
-	print data
-	output.write(data)
-	# output.write("\n")
-	# output.write("\n")
+	print line
+	output_hoods.write(data)
+	# output_hoods.write(notags)
+	output_hoods.write("\n")
 file.close()
-output.close()
-zips.close()
+output_hoods.close()

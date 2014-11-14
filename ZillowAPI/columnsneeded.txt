@@ -1,16 +1,84 @@
-Columns needed! 
-zip
-latitude
-longitude
+Columns needed!
+
+neighborhood 
+
 affordability, first field for zipcode
-single family home, first field  
-condo value, first field 
-2-Bedroom Home Value, first field 
-3-Bedroom Home Value, first field 
-4-Bedroom Home Value, first field 
-median sale price, first field 
-homes for sale, first field 
-turnover, first field 
+	Zillow Home Value Index, first field 
+	Median single family home, first field 
+	Median condo value, neighborhood 
+	condo value, first field 
+	2-Bedroom Home Value, first field 
+	3-Bedroom Home Value, first field 
+	4-Bedroom Home Value, first field 
+	Percent Homes decreasing, first field 
+	Median Listing Price per sq ft, first field 
+	Median List price 
+	median sale price, first field 
+	homes for sale, first field 
+	homes recently sold, first field
+	property tax, first field 
+	turnover, first field 
+	Median value per sq fit, first field 
+	1 year change 
+	new construction, first field
+	foreclosures, first field
+Homes & real estate
+	Owners, %
+	Renters, %
+	Median home size
+	Single family homes
+	Condos
+	Year built (ranges of decades and %)
+	Census Summary-HomeSize(ranges and %)
 people
-forSaleByOwner
-foreclosures
+	median household income, first field 
+	median age, first field 
+	homes with kids, first field
+	average household size, first field
+#some 'hot?' neighborhoods have aditional information below
+	Census Summary-AgeDecade, all age fields
+	Census Summary-Household, No kids, With Kids
+	<segmentation>
+		<liveshere> gives a phrase and a sentence describing the demographics
+#gives phrases associated with the categories
+	<uniqueness>
+		Education
+		Employment
+		People & Culture
+		Transportation
+
+zipcode
+zip
+affordability, first field for zipcode
+	Zillow Home Value Index, first field 
+	Median single family home, first field 
+	Median condo value, neighborhood 
+	condo value, first field 
+	2-Bedroom Home Value, first field 
+	3-Bedroom Home Value, first field 
+	4-Bedroom Home Value, first field 
+	Percent Homes decreasing, first field 
+	Median Listing Price per sq ft, first field 
+	Median list price
+	median sale price, first field 
+	homes for sale, first field 
+	homes recently sold, first field
+	property tax, first field 
+	turnover, first field 
+	Median value per sq fit, first field 
+	1 year change
+	new construction, first field
+	foreclosures, first field
+Homes & real estate
+	Owners, %
+	Renters, %
+	Median home size
+	Single family homes
+	Condos
+	Year built (ranges of decades and %)
+	Census Summary-HomeSize(ranges and %)
+people
+	median household income, first field 
+	median age, first field 
+	homes with kids, first field
+	average household size, first field
