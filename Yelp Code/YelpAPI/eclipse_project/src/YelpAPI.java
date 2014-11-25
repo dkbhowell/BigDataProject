@@ -215,7 +215,7 @@ public class YelpAPI {
   private static void writeJsonArrayToCsvFileFilterByZip(String filePath,
     JSONArray searchJsonArray, boolean append, String zipCode) {
 
-    System.out.println("Saving results to file: " + filePath);
+    // System.out.println("Saving results to file: " + filePath);
     // Open a file to write to
     BufferedWriter writer = null;
     try {
@@ -260,8 +260,8 @@ public class YelpAPI {
         }
       }
       // writer.write("\n");
-      System.out.println("Filtered out " + filterCount
-        + " zip code mismatches.");
+      // System.out.println("Filtered out " + filterCount
+      //   + " zip code mismatches.");
     } catch (IOException writeToFileErr) {
       try {
         writer.flush();
@@ -421,6 +421,6 @@ public class YelpAPI {
 
     List<ZipCode> nycZips =
       readZipCodesFromCsv("resources/nyc_zip_codes_full.csv");
-    queryZipCodes(yelpApi, nycZips, "output/NYC Zipcode Yelp Data [100].csv");
+    queryZipCodes(yelpApi, nycZips, "output/NYC Zipcode Yelp Data [500].csv");
   }
 }

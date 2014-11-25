@@ -1,0 +1,153 @@
+Name,Rating,# Reviews,Categories,Neighborhoods,Zip Code,closed
+The Heath,4.5,90, [American (New)], [Chelsea],10001, false 
+Porteno Restaurant,4,168, [Argentine], [Chelsea],10001, false 
+Friedman's,4,284, [Gluten-Free | Breakfast & Brunch], [Midtown West],10001, false 
+Pio Pio Riko,4,135, [Peruvian | Latin American], [Midtown West | Chelsea],10001, false 
+Cafe Hanamizuki,4.5,59, [Cafes], [Midtown West | Chelsea],10001, false 
+Ovest Pizzoteca,4,260, [Pizza], [Chelsea],10001, false 
+Broadway Bites,4.5,84, [Street Vendors | American (New)], [Midtown West | Koreatown],10001, false 
+NY Pizza Suprema,4,581, [Pizza], [Midtown West | Chelsea],10001, false 
+Johny's Luncheonette,4,423, [American (Traditional) | Diners | Breakfast & Brunch], [Chelsea],10001, false 
+Soup Spot,4.5,153, [Soup], [Midtown West],10001, false 
+Smithfield,4,195, [Pubs | American (Traditional) | Sports Bars], [Chelsea],10001, false 
+MEW Izakaya,4,244, [Japanese], [Midtown West],10001, false 
+A Little Taste,5,18, [Cafes], [Chelsea],10001, false 
+Rocket Pig,4,44, [American (New)], [Chelsea],10001, false 
+Woorijip Authentic Korean Food,4,1470, [Korean], [Midtown West | Koreatown],10001, false 
+Asura Asian Bistro,4,70, [Chinese | Asian Fusion | Bars], [Midtown West],10001, false 
+Pepe Giallo,4,228, [Italian], [Chelsea],10001, false 
+HIT Korean Food & Deli,4,123, [Korean | Delis | Sandwiches], [Chelsea],10001, false 
+Stella 34 Trattoria,4,217, [Italian | Pizza], [Midtown West],10001, false 
+OCabanon,4,79, [Coffee & Tea | French], [Midtown West | Chelsea],10001, false 
+ilili,4,1355, [Greek | Middle Eastern | Mediterranean], [Flatiron],10001, false 
+Kobeyaki,4,213, [Japanese | Sushi Bars | Burgers], [Chelsea],10001, false 
+Luna 29 Cafe,5,17, [Cafes], [Midtown West | Chelsea],10001, false 
+Bottino Take-Out,4.5,80, [Sandwiches], [Chelsea],10001, false 
+Chop Shop,3.5,123, [Asian Fusion | Chinese | Thai], [Chelsea],10001, false 
+The NoMad Library,4,110, [Gastropubs | Lounges], [Flatiron],10001, false 
+Waldy's Wood Fired Pizza & Penne,4,448, [Pizza], [Flatiron],10001, false 
+Cho Dang Gol Korean Restaurant,4,499, [Korean], [Midtown West],10001, false 
+Prosperity Dumpling,4.5,2247, [Chinese], [Chinatown | Lower East Side],10002, false 
+Gaia Italian Café,4.5,444, [Italian], [Lower East Side],10002, false 
+Cafe Katja,4.5,460, [German | Austrian], [Lower East Side],10002, false 
+Cocoron,4.5,590, [Japanese], [Lower East Side],10002, false 
+Cheeky Sandwiches,4.5,329, [Sandwiches], [Chinatown | Lower East Side],10002, false 
+Wah Fung #1 Fast Food,4.5,284, [Chinese | Barbeque | Fast Food], [Lower East Side],10002, false 
+Brooklyn Taco Co,4.5,157, [Mexican], [Lower East Side],10002, false 
+Lam Zhou Handmade Noodle,4,561, [Chinese], [Chinatown | Lower East Side],10002, false 
+Black Tree,4,142, [American (New)], [Lower East Side],10002, false 
+Iguazu Cafe & Grill,4.5,13, [Latin American], [Two Bridges | Lower East Side],10002, false 
+The Meatball Shop,4,2061, [Italian | American (Traditional)], [Lower East Side],10002, false 
+The Boil,4,698, [Cajun/Creole | Seafood], [Lower East Side],10002, false 
+Shu Jiao Fu Zhou Cuisine Restaurant,4.5,126, [Chinese], [Lower East Side],10002, false 
+Black Crescent,4.5,60, [Cocktail Bars | Tapas/Small Plates], [Lower East Side],10002, false 
+Cafe Petisco,4,138, [Breakfast & Brunch | Coffee & Tea | Sandwiches], [Lower East Side],10002, false 
+Louie and Chan,4.5,56, [Italian], [Lower East Side],10002, false 
+Barrio Chino,4,721, [Mexican | Bars], [Lower East Side],10002, false 
+Pig And Khao,4,426, [Filipino | Thai | Asian Fusion], [Lower East Side],10002, false 
+Thelma On Clinton,4,45, [American (New)], [Lower East Side],10002, false 
+Patacon Pisao,5,24, [Venezuelan | Sandwiches], [Lower East Side],10002, false 
+Zest,4,229, [Sushi Bars | Japanese | Thai], [Lower East Side],10002, false 
+Taqueria Lower East Side,4,478, [Mexican | Bars], [Lower East Side],10002, false 
+Clinton St. Baking Company,4,2437, [Breakfast & Brunch], [Lower East Side],10002, false 
+Vanessa's Dumpling House,4,1384, [Chinese], [Lower East Side],10002, false 
+Eastwood,4,49, [Bars | American (Traditional)], [Lower East Side],10002, false 
+Wolfnights,4,179, [Sandwiches], [Lower East Side],10002, false 
+Boubouki,4.5,52, [Greek | Food Stands], [Lower East Side],10002, false 
+Cafe Grumpy,4.5,61, [Coffee & Tea | Cafes | Bakeries], [Chinatown | Lower East Side],10002, false 
+Sweet Chick,4,106, [Southern], [Lower East Side],10002, false 
+Katz's Delicatessen,4,5507, [Delis | Sandwiches], [Lower East Side],10002, false 
+Spicy Village,4,147, [Chinese], [Lower East Side],10002, false 
+Freemans Restaurant,4,1090, [Breakfast & Brunch | American (New) | Lounges], [Lower East Side],10002, false 
+Rice Noodle Cart,4.5,35, [Food Stands], [Two Bridges | Lower East Side],10002, false 
+Verlaine,4,899, [Tapas/Small Plates | Lounges], [Lower East Side],10002, false 
+Super Taste,4,235, [Chinese], [Chinatown | Lower East Side],10002, false 
+Lobster Joint,4,324, [Sports Bars | Seafood], [Lower East Side],10002, false 
+Dudleys,4,97, [Cafes], [Lower East Side],10002, false 
+Pause Cafe,4.5,83, [Moroccan | Cafes], [Lower East Side],10002, false 
+The Stanton Social,4,1910, [Tapas/Small Plates | Bars], [Lower East Side],10002, false 
+Cup & Saucer,4,120, [Diners], [Chinatown | Lower East Side],10002, false 
+Mezetto,4,135, [Mediterranean | Tapas/Small Plates | Middle Eastern], [Lower East Side],10002, false 
+Jadis,4,352, [French | Wine Bars], [Lower East Side],10002, false 
+99 Favor Taste,4,201, [Chinese], [Lower East Side],10002, false 
+Bacaro,4,255, [Italian], [Chinatown | Lower East Side],10002, false 
+Taquitoria,4.5,45, [Mexican], [Lower East Side],10002, false 
+Antonioni's,4.5,44, [Italian], [Lower East Side],10002, false 
+Hill and Dale,4,137, [Bars | American (New)], [Lower East Side],10002, false 
+Antibes Bistro,4,306, [French | Jazz & Blues | American (New)], [Lower East Side],10002, false 
+Tiny's Giant Sandwich Shop,4,308, [Sandwiches], [Lower East Side],10002, false 
+Forgetmenot,4,47, [Burgers | Fast Food], [Chinatown | Lower East Side],10002, false 
+Upstate,4.5,734, [American (New) | Seafood], [East Village],10003, false 
+Ippudo NY,4,6565, [Ramen], [East Village],10003, false 
+Gramercy Tavern,4.5,1516, [American (New)], [Flatiron],10003, false 
+The Eddy,4.5,68, [American (New)], [East Village],10003, false 
+Pommes Frites,4,2905, [Belgian], [East Village],10003, false 
+Bite,4,397, [Sandwiches], [Gramercy],10003, false 
+Honest Chops,5,23, [Butcher | Halal], [East Village],10003, false 
+Ichabod's,4,138, [American (New)], [Flatiron | Union Square | Gramercy],10003, false 
+Momofuku Ssäm Bar,4,1693, [Korean | American (New)], [East Village],10003, false 
+Taqueria Diana,4,230, [Mexican], [East Village],10003, false 
+ABC Kitchen,4,1541, [American (New) | French], [Flatiron | Union Square],10003, false 
+Feast,4,195, [American (New) | Breakfast & Brunch], [East Village],10003, false 
+Stage Restaurant,4.5,166, [Ukrainian | Polish], [East Village],10003, false 
+Beyond Sushi,4.5,497, [Vegetarian | Sushi Bars | Vegan], [Gramercy],10003, false 
+Ducks Eatery,4,204, [French | Cajun/Creole | American (Traditional)], [East Village],10003, false 
+Gotham Bar And Grill,4.5,898, [American (New) | Bars], [Union Square | Greenwich Village],10003, false 
+Cha-An,4,899, [Japanese | Tea Rooms], [East Village],10003, false 
+The Redhead,4,525, [American (Traditional) | Bars], [East Village],10003, false 
+Momofuku Ko,4,709, [American (New) | Asian Fusion | Korean], [East Village],10003, false 
+Mark,4,722, [Burgers], [East Village],10003, false 
+Mighty Quinn's Barbeque,4,826, [Barbeque], [East Village],10003, false 
+Yakitori Taisho,4,1034, [Japanese | Sushi Bars], [East Village],10003, false 
+Mamak,5,20, [Thai | Malaysian | Food Trucks], [East Village],10003, false 
+Soba-ya,4,758, [Japanese], [East Village],10003, false 
+Ngam,4,602, [Thai | Cooking Schools], [East Village],10003, false 
+Xi'an Famous Foods,4,994, [Chinese], [East Village],10003, false 
+Pata Negra,4,253, [Tapas Bars | Wine Bars | Spanish], [East Village],10003, false 
+Artichoke Basille's Pizza,4,2538, [Pizza], [Gramercy | East Village],10003, false 
+Han Dynasty,4,357, [Szechuan | Soup], [East Village],10003, false 
+Luzzo's,4,741, [Italian | Pizza], [East Village],10003, false 
+Café Orlin,4,1223, [Breakfast & Brunch | Cafes], [East Village],10003, false 
+Dos Toros Taqueria,4,1022, [Mexican], [Union Square | East Village | Greenwich Village],10003, false 
+Otto's Tacos,4,277, [Mexican], [East Village],10003, false 
+The Hummus & Pita Co.,4.5,41, [Mediterranean | Middle Eastern | Vegetarian], [Greenwich Village],10003, false 
+Graffiti Food & Wine Bar,4,395, [American (New) | Wine Bars | Vegetarian], [East Village],10003, false 
+Maharlika,4,739, [Filipino], [East Village],10003, false 
+Otafuku,4,131, [Japanese], [East Village],10003, false 
+MUD,4,493, [Coffee & Tea | Breakfast & Brunch], [East Village],10003, false 
+Degustation,4,474, [French | American (New) | Spanish], [East Village],10003, false 
+The Bao,4,111, [Shanghainese], [East Village],10003, false 
+Taboonette,4,146, [Middle Eastern], [Union Square | Greenwich Village],10003, false 
+Yakiniku West,4,372, [Japanese | Barbeque], [East Village],10003, false 
+Curry-Ya,4,429, [Japanese], [East Village],10003, false 
+Posto,4,383, [Pizza | Italian | Sandwiches], [Gramercy],10003, false 
+Piccolo Cafe,4,168, [Coffee & Tea | Sandwiches], [Gramercy],10003, false 
+The Smith,3.5,1240, [American (New)], [East Village],10003, false 
+Robataya NY,4,351, [Japanese], [East Village],10003, false 
+Bodhi Tree,4,400, [Thai], [East Village],10003, false 
+Jeepney,4,332, [Filipino | Gastropubs], [East Village],10003, false 
+Gyu-Kaku Japanese BBQ,4,983, [Japanese | Barbeque], [NoHo | East Village],10003, false 
+99 Miles to Philly,4,401, [Sandwiches], [East Village],10003, false 
+Shabu-Tatsu East Village,4,363, [Japanese], [East Village],10003, false 
+Casa Mono,4,753, [Spanish | Tapas Bars | Basque], [Flatiron | Union Square | Gramercy],10003, false 
+Ponty Bistro,4,319, [African | French | Breakfast & Brunch], [Gramercy],10003, false 
+Ugly Kitchen,4,288, [Bars | Asian Fusion | Filipino], [East Village],10003, false 
+The Nugget Spot,4,127, [American (Traditional) | Gastropubs | Comfort Food], [Gramercy | East Village],10003, false 
+Hi-Collar,4.5,78, [Japanese | Coffee & Tea | Bars], [East Village],10003, false 
+Confessional,4.5,54, [Latin American], [East Village],10003, false 
+Saint's Alp Teahouse,4,790, [Coffee & Tea | Taiwanese | Chinese], [East Village],10003, false 
+Murray's Falafel,4,139, [Middle Eastern | Falafel], [Stuyvesant Town | Gramercy],10003, false 
+Halal Guys,4,125, [Middle Eastern], [Gramercy | East Village],10003, false 
+Bar Jamón,4,214, [Spanish | Tapas Bars], [Gramercy],10003, false 
+Parmys Persian Fusion,4.5,82, [Barbeque | Persian/Iranian], [East Village],10003, false 
+Joe Jr. Restaurant,4,114, [Diners], [Gramercy],10003, false 
+The Cellar,4,280, [Wine Bars | American (New) | American (Traditional)], [Flatiron],10003, false 
+The Loop,4,252, [Sushi Bars], [Gramercy],10003, false 
+Jack's Sliders & Sushi,4,139, [Burgers | Sushi Bars | Caterers], [Gramercy],10003, false 
+BaoHaus,3.5,827, [Chinese | Taiwanese], [East Village],10003, false 
+The Black Ant,4,90, [Mexican], [East Village],10003, false 
+Thai Terminal,4,364, [Thai], [East Village],10003, false 
+Narcissa,4,121, [American (New)], [NoHo | East Village],10003, false 
+East Village Thai,4,117, [Thai], [East Village],10003, false 
+La Follia Osteria,4,188, [Italian], [Gramercy],10003, false 
+Veselka,3.5,1355, [Diners | Ukrainian], [East Village],10003, false 
