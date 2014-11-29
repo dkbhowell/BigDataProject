@@ -40,7 +40,7 @@ else if (field[10] ==""){
 	context.write(new Text("failed condition5"), new DoubleWritable(count));
 }
 else if (field[19]==""){
-	context.write(new Text("failed condition5"), new DoubleWritable(count));
+	context.write(new Text("failed condition6"), new DoubleWritable(count));
 }
 else{
 	String sqFeet= field[15];
@@ -49,12 +49,17 @@ else{
 	price =price.replaceAll("[$,]", "");
 	Double sqFeetInt=Double.parseDouble(sqFeet);
 	Double priceInt=Double.parseDouble(price);
+	if (priceInt==0.0){
+		context.write(new Text("failed condition7"), new DoubleWritable(count));
+	}
+	else{
 	Double pricePerFoot=priceInt/sqFeetInt;
 	String date = field[20];
 	String year = date.replaceAll("[^/]*/[^/]*/", "");
 	String yearZip = field[10]+ "|" +year;
-	context.write(new Text(yearZip), new DoubleWritable(pricePerFoot));
+	context.write(new Text(field[10]), new DoubleWritable(priceInt));
 	//context.write(new Text(price), new DoubleWritable(count));
+	}
 	
 }
 
