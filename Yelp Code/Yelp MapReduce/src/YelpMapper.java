@@ -7,10 +7,8 @@ import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import org.apache.hadoop.io.DoubleWritable;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
-import org.apache.hadoop.io.Writable;
 
 public class YelpMapper extends Mapper<LongWritable, Text, Text, Text> {
 
@@ -26,12 +24,16 @@ public class YelpMapper extends Mapper<LongWritable, Text, Text, Text> {
         }
         StringTokenizer tokenizer = new StringTokenizer(line, ",");
 
-        String rating = getRating(tokenizer);
-        String numReviews = getNumReviews(tokenizer);
-        String zipCode = getZip(tokenizer);
+        String name = tokenizer.nextToken();
+        String rating = tokenizer.nextToken();
+        String numReviews = tokenizer.nextToken();
+        String categories = tokenizer.nextToken();
+        String neighborhoods = tokenizer.nextToken();
+        String zipCode = tokenizer.nextToken();
         String seperator = ", ";
 
-        String result = rating.toString() + seperator + numReviews.toString();
+        String result = rating + seperator + numReviews + seperator + categories;
+        zipCode = zipCode + seperator;
         
         Text zipText = new Text(zipCode);
         Text resultText = new Text(result);
@@ -60,7 +62,7 @@ public class YelpMapper extends Mapper<LongWritable, Text, Text, Text> {
             throw new IllegalStateException("tokenizer out of tokens");
         }
         if (tokenizer.hasMoreTokens()) {
-            String stringValue = tokenizer.nextToken();
+            String stringValue = tokenizer.nextToken().trim();
             double doubleValue = Double.parseDouble(stringValue);
             return stringValue;
         } else {
@@ -71,7 +73,7 @@ public class YelpMapper extends Mapper<LongWritable, Text, Text, Text> {
     private String getNumReviews(StringTokenizer tokenizer) {
         String stringValue;
         if (tokenizer.hasMoreTokens()) {
-            stringValue = tokenizer.nextToken();
+            stringValue = tokenizer.nextToken().trim();
         } else {
             throw new IllegalStateException("tokenizer out of tokens");
         }
@@ -88,7 +90,7 @@ public class YelpMapper extends Mapper<LongWritable, Text, Text, Text> {
             }
         }
         if (tokenizer.hasMoreTokens()) {
-            return tokenizer.nextToken();
+            return tokenizer.nextToken().trim();
         } else {
             throw new IllegalStateException("tokenizer out of tokens");
         }
