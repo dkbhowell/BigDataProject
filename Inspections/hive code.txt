@@ -1,0 +1,6 @@
+create external table grades(data1 string, data2 string, data3 string, data4 string, data5 string, zip string, data6 string, violations double, data7 string) row format delimited fields terminated by ','
+
+   location '/user/cloudera/grades/';  
+
+select g.zip, g.avgViolation from (select zip, avg(violations) as avgViolation from grades group by zip)g;
+

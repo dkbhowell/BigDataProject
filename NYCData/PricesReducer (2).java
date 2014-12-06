@@ -24,8 +24,6 @@ for (DoubleWritable value : values) {
 	}
 	else{
 total=total+value.get();
-//newAvg = newAvg*(total-1)/total + value.get()/total;
-//total++;
 count++;
 	}
 }
