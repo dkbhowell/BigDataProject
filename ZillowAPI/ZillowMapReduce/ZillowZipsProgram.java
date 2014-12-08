@@ -17,7 +17,6 @@ public class ZillowZipsProgram {
             System.exit(-1);
         }
         
-        
         Job job = new Job();
         job.setJarByClass(ZillowZipsProgram.class);
         job.setJobName("ZillowZips");
